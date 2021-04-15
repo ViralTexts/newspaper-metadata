@@ -11,8 +11,9 @@ Field | Description
 `lang` | common languages in the series, according to catalogue data; in JSON, an array; in CSV, a semicolon-delimited list
 `publisher` | series publisher
 `placeOfPublication` | listed place of publication
+`subcollection` | series type in some newspaper collections
+`corpus` | soure corpus or corpora
 `coverage` | link to a https://dbpedia.org/ entry for the place of publication
 `lon` | DBpedia decimal longitude
 `lat` | DBpedia decimal latitude
-`subcollection` | series type
 
