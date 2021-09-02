@@ -11,9 +11,6 @@ Field | Description
 `lang` | common languages in the series, according to catalogue data, a semicolon-delimited list
 `publisher` | series publisher
 `placeOfPublication` | listed place of publication
-`subcollection` | series type in some newspaper collections
-`corpus` | soure corpora, as a semicolon-delimited list
+`corpora` | soure corpora, as a semicolon-delimited list
 `coverage` | link to a https://dbpedia.org/ entry for the place of publication
-`lon` | DBpedia decimal longitude
-`lat` | DBpedia decimal latitude
 
