@@ -1,6 +1,6 @@
 series,corpus,startDig,endDig
 /lccn/00221512,gale-us,1872-04-04,1872-04-18
-/lccn/00225879,ca,1915-07-03,1927-11-18
+/lccn/00225879,ca,1915-07-03,1928-11-30
 /lccn/00229120,gale-us,1898-07-01,1899-12-30
 /lccn/02004276,aps,1850-05-01,1852-12-01
 /lccn/02004276,ia,1850-05-01,1852-12-01
@@ -202,6 +202,7 @@ series,corpus,startDig,endDig
 /lccn/2019270503,ca,1885-12-23,1893-12-28
 /lccn/2019270504,ca,1933-01-12,1933-03-30
 /lccn/2019270505,ca,1946-10-11,1953-05-14
+/lccn/2019270506,ca,1928-12-07,1929-01-11
 /lccn/2019271000,ca,1876-11-23,1877-03-31
 /lccn/2019271001,ca,1926-06-23,1929-01-15
 /lccn/2019271002,ca,1915-01-09,1915-05-01
@@ -387,7 +388,7 @@ series,corpus,startDig,endDig
 /lccn/sn82014208,gale-us,1822-09-05,1830-12-29
 /lccn/sn82014237,gale-us,1856-12-11,1858-08-26
 /lccn/sn82014241,ca,1900-01-13,1900-01-13
-/lccn/sn82014248,ca,1870-01-01,1925-08-31
+/lccn/sn82014248,ca,1870-01-01,1926-12-31
 /lccn/sn82014268,ca,1918-07-06,1923-08-23
 /lccn/sn82014282,ca,1857-06-09,1862-09-24
 /lccn/sn82014286,ca,1855-02-10,1860-01-02
@@ -635,7 +636,7 @@ series,corpus,startDig,endDig
 /lccn/sn83009667,ca,1922-08-03,1923-05-25
 /lccn/sn83009671,gale-us,1824-01-01,1826-12-28
 /lccn/sn83009672,gale-us,1813-01-28,1823-12-25
-/lccn/sn83016025,ca,1862-06-23,1901-02-28
+/lccn/sn83016025,ca,1862-06-23,1904-09-30
 /lccn/sn83016063,ca,1799-04-29,1802-09-20
 /lccn/sn83016072,ca,1802-09-27,1803-07-04
 /lccn/sn83016081,ca,1803-10-31,1805-03-11
@@ -967,6 +968,7 @@ series,corpus,startDig,endDig
 /lccn/sn83025753,ca,1891-02-28,1891-02-28
 /lccn/sn83025756,gale-us,1818-12-12,1818-12-12
 /lccn/sn83025760,ca,1862-03-15,1866-09-29
+/lccn/sn83025776,ca,1889-08-17,1889-08-17
 /lccn/sn83025779,ca,1900-01-13,1922-12-30
 /lccn/sn83025781,ca,1873-07-05,1876-04-01
 /lccn/sn83025782,ca,1900-01-17,1900-01-17
@@ -984,6 +986,7 @@ series,corpus,startDig,endDig
 /lccn/sn83025803,ca,1913-02-15,1922-08-12
 /lccn/sn83025812,ca,1919-01-10,1936-09-04
 /lccn/sn83025813,ca,1864-01-26,1865-04-11
+/lccn/sn83025816,ca,1890-01-17,1890-02-22
 /lccn/sn83025837,aps,1764-06-29,1765-01-11
 /lccn/sn83025837,ia,1764-07-06,1765-01-11
 /lccn/sn83025842,ca,1884-05-22,1884-05-22
@@ -1096,6 +1099,8 @@ series,corpus,startDig,endDig
 /lccn/sn83032231,ca,1873-11-22,1893-11-18
 /lccn/sn83032276,ca,1849-05-05,1867-10-23
 /lccn/sn83032300,ca,1880-01-01,1890-08-01
+/lccn/sn83032307,ca,1865-06-22,1898-12-29
+/lccn/sn83032312,ca,1863-01-01,1865-06-01
 /lccn/sn83032314,aps,1803-06-22,1805-06-12
 /lccn/sn83032314,ia,1803-06-22,1805-06-12
 /lccn/sn83035017,gale-us,1833-09-28,1841-11-28
@@ -1237,7 +1242,7 @@ series,corpus,startDig,endDig
 /lccn/sn83045474,ca,1910-01-01,1918-03-30
 /lccn/sn83045487,ca,1911-11-01,1917-07-06
 /lccn/sn83045488,gale-us,1823-11-18,1842-12-31
-/lccn/sn83045499,ca,1926-12-08,1950-06-30
+/lccn/sn83045499,ca,1926-12-08,1951-12-29
 /lccn/sn83045525,gale-us,1858-08-10,1864-08-16
 /lccn/sn83045528,gale-us,1881-12-04,1886-10-22
 /lccn/sn83045534,ca,1914-01-01,1922-12-28
@@ -1424,7 +1429,7 @@ series,corpus,startDig,endDig
 /lccn/sn84022363,ca,1850-04-11,1852-11-04
 /lccn/sn84022366,ca,1852-11-20,1854-12-29
 /lccn/sn84022367,ca,1861-01-03,1876-11-30
-/lccn/sn84022374,ca,1855-01-12,1924-12-31
+/lccn/sn84022374,ca,1855-01-12,1926-12-29
 /lccn/sn84022401,ca,1883-01-18,1883-03-01
 /lccn/sn84022472,ca,1909-01-02,1917-12-31
 /lccn/sn84022473,ca,1873-05-01,1877-08-31
@@ -1918,7 +1923,7 @@ series,corpus,startDig,endDig
 /lccn/sn84037024,ca,1917-04-25,1917-08-23
 /lccn/sn84037025,ca,1917-04-07,1917-08-25
 /lccn/sn84037217,ca,1860-05-22,1922-12-29
-/lccn/sn84037526,ca,1865-01-03,1939-12-30
+/lccn/sn84037526,ca,1865-01-03,1947-12-31
 /lccn/sn84037536,ca,1934-01-02,1936-12-18
 /lccn/sn84037807,ca,1857-10-24,1860-10-20
 /lccn/sn84037834,ca,1821-08-07,1824-10-20
@@ -2188,7 +2193,7 @@ series,corpus,startDig,endDig
 /lccn/sn85035610,ca,1858-11-04,1861-10-30
 /lccn/sn85035661,ca,1882-05-20,1904-05-21
 /lccn/sn85035720,ca,1903-03-30,1924-12-31
-/lccn/sn85035722,ca,1890-06-11,1901-12-28
+/lccn/sn85035722,ca,1890-06-11,1907-11-30
 /lccn/sn85035800,ca,1882-02-02,1886-12-14
 /lccn/sn85035801,ca,1891-11-17,1919-12-30
 /lccn/sn85035816,ca,1877-12-07,1914-12-29
@@ -3051,9 +3056,9 @@ series,corpus,startDig,endDig
 /lccn/sn86092476,ca,1879-08-13,1880-12-04
 /lccn/sn86092515,ca,1906-07-03,1910-07-02
 /lccn/sn86092517,ca,1863-09-08,1864-12-16
-/lccn/sn86092518,ca,1878-11-07,1898-12-31
+/lccn/sn86092518,ca,1878-11-07,1901-10-31
 /lccn/sn86092519,ca,1807-03-05,1808-05-05
-/lccn/sn86092523,ca,1882-08-13,1898-12-25
+/lccn/sn86092523,ca,1882-08-13,1901-10-27
 /lccn/sn86092530,ca,1909-01-14,1916-08-10
 /lccn/sn86092535,ca,1852-08-24,1859-11-11
 /lccn/sn86092536,ca,1911-04-01,1922-12-30
@@ -3295,6 +3300,7 @@ series,corpus,startDig,endDig
 /lccn/sn87070090,ca,1883-04-19,1884-08-09
 /lccn/sn87070095,ca,1869-08-25,1870-12-28
 /lccn/sn87070160,ia,1859-01-01,1863-06-01
+/lccn/sn87073016,ca,1931-01-18,1933-01-22
 /lccn/sn87075000,ca,1871-04-07,1871-11-24
 /lccn/sn87075001,ca,1866-07-20,1871-03-31
 /lccn/sn87075008,ca,1921-09-01,1943-01-28
@@ -3755,6 +3761,10 @@ series,corpus,startDig,endDig
 /lccn/sn89052329,ca,1913-09-18,1921-06-30
 /lccn/sn89052330,ca,1921-07-07,1922-12-28
 /lccn/sn89053204,ca,1900-07-10,1925-11-30
+/lccn/sn89053283,ca,1889-03-13,1925-12-29
+/lccn/sn89053284,ca,1887-05-04,1889-03-06
+/lccn/sn89053287,ca,1883-01-04,1887-04-28
+/lccn/sn89053307,ca,1902-10-03,1907-01-31
 /lccn/sn89053320,gale-us,1829-01-03,1898-12-31
 /lccn/sn89053328,gale-us,1880-04-16,1882-09-22
 /lccn/sn89053537,ca,1917-10-10,1919-02-05
@@ -4269,7 +4279,9 @@ series,corpus,startDig,endDig
 /lccn/sn92066928,ca,1924-04-02,1926-06-09
 /lccn/sn92066929,ca,1923-01-10,1927-12-28
 /lccn/sn92066930,ca,1926-06-16,1927-07-04
-/lccn/sn92066979,ca,1896-03-02,1908-10-31
+/lccn/sn92066979,ca,1896-03-02,1912-11-30
+/lccn/sn92066980,ca,1909-07-31,1911-03-18
+/lccn/sn92066981,ca,1909-03-17,1909-03-17
 /lccn/sn92067047,ca,1889-12-04,1892-06-08
 /lccn/sn92067139,ca,1887-12-24,1905-09-30
 /lccn/sn92067235,ca,1898-01-05,1901-08-03
@@ -4328,6 +4340,7 @@ series,corpus,startDig,endDig
 /lccn/sn93049265,ca,1916-10-08,1916-12-17
 /lccn/sn93049267,ca,1921-07-09,1922-12-30
 /lccn/sn93049269,ca,1898-06-08,1898-10-26
+/lccn/sn93049270,ca,1918-09-01,1919-01-15
 /lccn/sn93049282,ca,1923-05-15,1932-09-15
 /lccn/sn93050700,ca,1898-10-03,1902-12-15
 /lccn/sn93051027,ca,1855-10-27,1857-04-11
@@ -4447,6 +4460,7 @@ series,corpus,startDig,endDig
 /lccn/sn93099999,ca,1850-11-01,1852-08-01
 /lccn/sn94005878,ca,1911-04-07,1917-06-08
 /lccn/sn94049698,ca,1901-03-07,1912-02-15
+/lccn/sn94050001,ca,1896-08-26,1897-02-03
 /lccn/sn94050016,ca,1955-08-23,1955-12-30
 /lccn/sn94050022,ca,1958-04-10,1958-10-02
 /lccn/sn94050023,ca,1908-08-01,1912-06-01
@@ -4456,7 +4470,7 @@ series,corpus,startDig,endDig
 /lccn/sn94050047,ca,1924-09-08,1934-12-29
 /lccn/sn94050055,ca,1907-01-18,1907-03-08
 /lccn/sn94050056,ca,1907-03-16,1915-09-16
-/lccn/sn94050061,ca,1915-09-23,1919-01-31
+/lccn/sn94050061,ca,1915-09-23,1919-04-30
 /lccn/sn94050072,ca,1921-12-16,1922-02-17
 /lccn/sn94050073,ca,1922-02-24,1922-12-22
 /lccn/sn94050074,ca,1923-01-05,1926-06-25
@@ -4501,8 +4515,6 @@ series,corpus,startDig,endDig
 /lccn/sn94054571,ca,1914-02-21,1949-09-07
 /lccn/sn94054725,gale-us,1882-04-15,1882-04-15
 /lccn/sn94054745,ca,1867-05-04,1868-04-25
-/lccn/sn94055234,ca,1927-11-25,1928-11-30
-/lccn/sn94055235,ca,1928-12-07,1929-01-11
 /lccn/sn94055463,ca,1899-03-16,1910-12-29
 /lccn/sn94056414,ca,1883-09-06,1885-05-28
 /lccn/sn94056415,ca,1885-06-03,1912-05-13
@@ -4545,7 +4557,8 @@ series,corpus,startDig,endDig
 /lccn/sn95047406,ca,1895-02-22,1910-12-09
 /lccn/sn95047416,ca,1900-07-19,1902-04-11
 /lccn/sn95047417,ca,1905-03-03,1913-06-05
-/lccn/sn95060002,ca,1956-07-16,1958-10-30
+/lccn/sn95060001,ca,1910-09-24,1915-12-21
+/lccn/sn95060002,ca,1956-07-16,1959-10-01
 /lccn/sn95060010,ca,1939-01-14,1942-03-10
 /lccn/sn95060014,ca,1905-06-01,1905-12-01
 /lccn/sn95060028,ca,1962-06-21,1963-12-19
@@ -4555,7 +4568,10 @@ series,corpus,startDig,endDig
 /lccn/sn95060041,ca,1916-02-19,1916-03-11
 /lccn/sn95060047,ca,1904-08-03,1907-08-07
 /lccn/sn95060048,ca,1909-07-06,1909-07-13
+/lccn/sn95060049,ca,1909-07-01,1910-08-25
 /lccn/sn95060050,ca,1910-09-22,1913-01-11
+/lccn/sn95060087,ca,1917-08-01,1917-08-01
+/lccn/sn95060088,ca,1917-10-01,1921-11-01
 /lccn/sn95060104,ca,1946-11-20,1947-10-08
 /lccn/sn95060578,ca,1915-08-20,1920-12-25
 /lccn/sn95060580,ca,1902-12-18,1902-12-18
@@ -4750,9 +4766,12 @@ series,corpus,startDig,endDig
 /lccn/sn97060029,ca,1919-01-16,1920-03-12
 /lccn/sn97060034,ca,1935-08-22,1936-12-19
 /lccn/sn97060036,ca,1898-10-08,1898-10-08
+/lccn/sn97060060,ca,1950-04-13,1950-10-28
+/lccn/sn97060061,ca,1952-03-12,1955-07-20
 /lccn/sn97060075,ca,1953-01-23,1953-01-23
-/lccn/sn97060085,ca,1963-01-04,1963-06-14
+/lccn/sn97060085,ca,1961-02-17,1963-06-14
 /lccn/sn97060089,ca,1918-11-16,1919-06-28
+/lccn/sn97060092,ca,1946-07-22,1949-12-26
 /lccn/sn97060093,ca,1955-08-19,1956-02-27
 /lccn/sn97060094,ca,1950-05-20,1955-08-11
 /lccn/sn97060147,ca,1919-04-06,1925-11-18
@@ -8413,6 +8432,7 @@ pub_bird-lore,ia,1899-02-01,1899-12-01
 pub_black-cat-a-monthly-magazine-of-original-short-stories,ia,1895-10-01,1899-12-01
 pub_black-dwarf,ia,1817-02-05,1824-12-01
 pub_blackwoods-magazine,ia,1817-04-01,1899-12-01
+pub_board-trade-journal-tariff-trade-notices-misc-comm-info,ia,1886-07-01,1899-12-01
 pub_book-lore-a-magazine-devoted-to-old-time-literature,ia,1884-12-01,1887-06-01
 pub_book-news-monthly,ia,1882-09-01,1899-12-01
 pub_book-review-a-monthly-journal,ia,1893-05-01,1899-12-01
@@ -8465,7 +8485,9 @@ pub_case-and-comment,ia,1894-05-01,1899-12-01
 pub_catholic-presbyterian,ia,1879-01-01,1882-12-01
 pub_catholic-university-bulletin,ia,1896-01-01,1899-10-01
 pub_celtic-magazine-a-monthly-periodical,ia,1875-11-01,1888-10-01
-pub_chambers-journal,ia,1832-01-01,1899-12-30
+pub_chambers-edinburgh-journal,ia,1832-01-01,1853-12-31
+pub_chambers-journal,ia,1897-12-04,1899-12-30
+pub_chambers-journal-of-popular-literature-science-and-arts,ia,1854-01-07,1897-11-27
 pub_charities-review,ia,1891-11-01,1899-12-01
 pub_cheap-repository,ia,1800-01-01,1800-01-01
 pub_chicago-medical-journal-and-examiner,ia,1844-04-01,1889-06-01
@@ -8645,7 +8667,6 @@ pub_good-housekeeping,ia,1885-05-02,1899-12-01
 pub_good-words-and-sunday-magazine,ia,1897-01-01,1897-01-01
 pub_granite-state-monthly,ia,1877-04-01,1899-12-01
 pub_grays-inn-journal,ia,1753-09-29,1754-09-21
-pub_great-britain-board-of-trade-board-of-trade-journal,ia,1886-07-01,1899-12-01
 pub_great-britain-parliament-parliamentary-debates,ia,1831-01-01,1899-08-07
 pub_great-britain-public-record-america-and-the-west-indies,ia,1699-01-01,1733-01-01
 pub_great-britain-public-record-papers-domestic-charles-ii,ia,1673-11-01,1684-05-01
@@ -8704,7 +8725,6 @@ pub_intelligencer,ia,1728-01-01,1728-05-11
 pub_intercollegian,ia,1878-11-01,1899-12-01
 pub_international-journal-of-plant-sciences,ia,1875-11-01,1899-12-01
 pub_investigator-and-general-intelligencer,ia,1828-12-04,1828-12-04
-pub_irish-digest,ia,1864-11-01,1865-07-01
 pub_irish-quarterly-review,ia,1851-03-01,1859-10-01
 pub_jacobites-journal,ia,1747-12-05,1748-11-05
 pub_jama,ia,1883-07-14,1899-12-30
@@ -8716,7 +8736,7 @@ pub_johns-hopkins-medical-journal,ia,1889-12-01,1899-12-01
 pub_johns-hopkins-university-historical-political-science,ia,1882-01-01,1899-12-01
 pub_journal-elisha-mitchell-scientific-society,ia,1887-01-01,1899-07-01
 pub_journal-fuer-die-reine-und-angewandte-mathematik,ia,1826-01-01,1899-01-01
-pub_journal-fuer-makromolekulare-chemie,ia,1834-01-01,1899-01-01
+pub_journal-fuer-praktische-chemie-1834,ia,1834-01-01,1899-01-01
 pub_journal-of-american-folklore,ia,1888-04-01,1899-10-01
 pub_journal-of-anthropology,ia,1870-07-01,1871-01-01
 pub_journal-of-biblical-literature,ia,1881-06-01,1899-01-01
@@ -8739,7 +8759,9 @@ pub_journal-of-science,ia,1864-01-01,1885-12-01
 pub_journal-of-social-science,ia,1865-11-01,1866-10-01
 pub_journal-of-the-american-oriental-society,ia,1842-01-01,1899-12-01
 pub_journal-of-the-american-statistical-association,ia,1888-03-01,1899-12-01
-pub_journal-of-the-chemical-society,ia,1849-01-01,1899-01-01
+pub_journal-of-the-chemical-society-1862,ia,1862-01-01,1877-01-01
+pub_journal-of-the-chemical-society-abstracts,ia,1894-01-01,1897-01-01
+pub_journal-of-the-chemical-society-transactions,ia,1878-01-01,1899-01-01
 pub_journal-of-the-times,ia,1818-09-12,1819-03-06
 pub_journal-of-the-torrey-botanical-society,ia,1870-01-01,1899-12-01
 pub_journal-of-theological-studies,ia,1899-10-01,1899-10-01
@@ -8907,7 +8929,6 @@ pub_musical-world,ia,1836-03-18,1891-01-24
 pub_mutual-rights-and-methodist-protestant,ia,1824-01-01,1824-01-01
 pub_narragansett-historical-register-plantations,ia,1882-07-01,1891-04-01
 pub_nation,ia,1865-07-06,1899-12-28
-pub_national-and-english-review,ia,1883-03-01,1899-12-01
 pub_national-canners-association-information-letter,ia,1823-02-10,1826-12-31
 pub_national-conference-on-social-welfare-bulletin,ia,1873-01-01,1899-05-17
 pub_national-geographic,ia,1888-01-01,1899-12-01
@@ -9043,6 +9064,7 @@ pub_public-works,ia,1896-08-01,1899-12-01
 pub_publishers-weekly,ia,1872-01-18,1899-12-30
 pub_pulpit-and-rostrum,ia,1858-11-15,1866-06-01
 pub_punch,ia,1837-01-01,1899-12-27
+pub_quarterly-journal-of-the-chemical-society-london,ia,1849-01-01,1861-10-01
 pub_quarterly-musical-review,ia,1885-02-01,1888-08-01
 pub_quarterly-review-1809,ia,1809-02-01,1899-10-01
 pub_quaver,ia,1876-01-01,1885-03-01
@@ -9155,6 +9177,7 @@ pub_the-lancet,ia,1823-01-01,1899-12-30
 pub_the-microscope,ia,1820-03-21,1825-09-10
 pub_the-monthly-review,ia,1749-05-01,1844-12-01
 pub_the-national-observer-and-british-review-of-politics,ia,1888-11-24,1897-08-07
+pub_the-national-review-1883,ia,1883-03-01,1899-12-01
 pub_the-new-british-ladys-magazine-or-monthly-mirror,ia,1815-01-02,1819-12-31
 pub_the-outlook,ia,1898-02-05,1899-12-30
 pub_the-womans-journal,ia,1870-01-08,1899-12-30
