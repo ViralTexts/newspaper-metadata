@@ -9,6 +9,7 @@ http://dbpedia.org/resource/Aberdeen%2C_Washington,Q233808,-123.81572222222222,4
 http://dbpedia.org/resource/Abilene%2C_Kansas,Q321292,-97.217222222222,38.919722222222,Abilene,United States of America,Kansas
 http://dbpedia.org/resource/Abingdon%2C_Virginia,Q137919,-81.975555555556,36.709722222222,Abingdon,United States of America,Virginia
 http://dbpedia.org/resource/Accomac%2C_Virginia,Q1376150,-75.667222222222,37.718611111111,Accomac,United States of America,Virginia
+http://dbpedia.org/resource/Adak%2C_Alaska,Q79371,-176.636,51.872,Adak,United States of America,Alaska
 http://dbpedia.org/resource/Adelaide,Q5112,138.6,-34.9275,Adelaide,Australia,South Australia
 http://dbpedia.org/resource/Adelong%2C_New_South_Wales,Q964970,148.0688889,-35.30472222222222,Adelong,Australia,New South Wales
 http://dbpedia.org/resource/Adrian%2C_Michigan,Q372304,-84.037222222222,41.8975,Adrian,United States of America,Michigan
@@ -636,6 +637,7 @@ http://dbpedia.org/resource/Fort_Benton%2C_Montana,Q285655,-110.66972222222,47.8
 http://dbpedia.org/resource/Fort_Huachuca,Q1327004,-110.35,31.5554,Fort Huachuca,United States of America,Arizona
 http://dbpedia.org/resource/Fort_Larned_National_Historic_Site,Q5471470,-99.226667,38.156667,Fort Larned National Historic Site,United States of America,Kansas
 http://dbpedia.org/resource/Fort_Mill%2C_South_Carolina,Q2291273,-80.946944444444,35.005833333333,Fort Mill,United States of America,South Carolina
+http://dbpedia.org/resource/Fort_Novosel,,,,,,
 http://dbpedia.org/resource/Fort_Peck%2C_Montana,Q963918,-106.4551984,48.0070503,Fort Peck,United States of America,Montana
 http://dbpedia.org/resource/Fort_Pierce%2C_Florida,Q584340,-80.335555555556,27.438888888889,Fort Pierce,United States of America,Florida
 http://dbpedia.org/resource/Fort_Scott%2C_Kansas,Q2232317,-94.701944444444,37.835277777778,Fort Scott,United States of America,Kansas
@@ -652,7 +654,6 @@ http://dbpedia.org/resource/Franklinton%2C_Louisiana,Q3240485,-90.15527,30.84731
 http://dbpedia.org/resource/Frankston%2C_Victoria,Q1136771,145.135,-38.158,Frankston,Australia,Victoria
 http://dbpedia.org/resource/Frederick%2C_Maryland,Q472675,-77.420403,39.426294,Frederick,United States of America,Maryland
 http://dbpedia.org/resource/Fredericksburg%2C_Virginia,Q492342,-77.470778,38.301829,Fredericksburg,United States of America,Virginia
-http://dbpedia.org/resource/Freehold%2C_New_Jersey,Q5500907,,,"Freehold, New Jersey",,
 http://dbpedia.org/resource/Freehold_Township%2C_New_Jersey,Q1077969,-74.294983,40.235563,Freehold Township,United States of America,New Jersey
 http://dbpedia.org/resource/Freeland%2C_Pennsylvania,Q1130934,-75.8958,41.0197,Freeland,United States of America,Pennsylvania
 http://dbpedia.org/resource/Freetown%2C_Massachusetts,Q304284,-71.027222222222,41.772777777778,Freetown,United States of America,Massachusetts
@@ -851,6 +852,7 @@ http://dbpedia.org/resource/Hutchinson%2C_Kansas,Q958555,-97.9236,38.0656,Hutchi
 http://dbpedia.org/resource/Huttig%2C_Arkansas,Q80202,-92.183888888889,33.038888888889,Huttig,United States of America,Arkansas
 http://dbpedia.org/resource/Hydaburg%2C_Alaska,Q79680,-132.82083,55.20444,Hydaburg,United States of America,Alaska
 http://dbpedia.org/resource/Hyde_Park_(town)%2C_Vermont,Q2051042,-72.5647598,44.6245275,Hyde Park,United States of America,Vermont
+http://dbpedia.org/resource/Hyder%2C_Alaska,Q1640042,-130.024,55.9142,Hyder,United States of America,Alaska
 http://dbpedia.org/resource/Idaho_City%2C_Idaho,Q990262,-115.83222222222,43.828611111111,Idaho City,United States of America,Idaho
 http://dbpedia.org/resource/Idaho_Springs%2C_Colorado,Q1010506,-105.514391,39.742456,Idaho Springs,United States of America,Colorado
 http://dbpedia.org/resource/Iditarod%2C_Alaska,Q941791,-158.09527777778,62.544444444444,Iditarod,United States of America,Alaska
@@ -918,11 +920,13 @@ http://dbpedia.org/resource/Kansas_City%2C_Missouri,Q41819,-94.583333333333,39.0
 http://dbpedia.org/resource/Kapunda,Q2679736,138.916,-34.337,Kapunda,Australia,South Australia
 http://dbpedia.org/resource/Katanning%2C_Western_Australia,Q984146,117.555,-33.6908,Katanning,Australia,Western Australia
 http://dbpedia.org/resource/Katoomba%2C_New_South_Wales,Q1530148,150.312,-33.715,Katoomba,Australia,New South Wales
+http://dbpedia.org/resource/Keansburg%2C_New_Jersey,Q1085417,-74.13111,40.44722,Keansburg,United States of America,New Jersey
 http://dbpedia.org/resource/Kempsey%2C_New_South_Wales,Q1619596,152.835,-31.081944444444,Kempsey,Australia,New South Wales
 http://dbpedia.org/resource/Kenai%2C_Alaska,Q79422,-151.25833333333333,60.55444444444444,Kenai,United States of America,Alaska
 http://dbpedia.org/resource/Kendrick%2C_Idaho,Q1509997,-116.65,46.6144,Kendrick,United States of America,Idaho
 http://dbpedia.org/resource/Kenna%2C_New_Mexico,Q6389506,-103.772,33.8422,Kenna,United States of America,New Mexico
 http://dbpedia.org/resource/Kennebunk%2C_Maine,Q1994665,-70.546944444444,43.468888888889,Kennebunk,United States of America,Maine
+http://dbpedia.org/resource/Kennecott%2C_Alaska,Q995915,-142.889,61.4861,Kennecott,United States of America,Alaska
 http://dbpedia.org/resource/Kennewick%2C_Washington,Q844033,-119.15927,46.203475,Kennewick,United States of America,Washington
 http://dbpedia.org/resource/Kenosha%2C_Wisconsin,Q462161,-87.845555555556,42.582222222222,Kenosha,United States of America,Wisconsin
 http://dbpedia.org/resource/Keokuk%2C_Iowa,Q732549,-91.394444444444,40.4025,Keokuk,United States of America,Iowa
@@ -947,6 +951,7 @@ http://dbpedia.org/resource/Kinsley%2C_Kansas,Q2232037,-99.4117,37.9222,Kinsley,
 http://dbpedia.org/resource/Kirksville%2C_Missouri,Q966460,-92.5794,40.1936,Kirksville,United States of America,Missouri
 http://dbpedia.org/resource/Klagenfurt,Q41753,14.3,46.616666666667,Klagenfurt,Austria,Carinthia
 http://dbpedia.org/resource/Klamath_Falls%2C_Oregon,Q846146,-121.7775,42.223333333333,Klamath Falls,United States of America,Oregon
+http://dbpedia.org/resource/Knik_Site,Q19462812,-149.728,61.4581,Knik Site,United States of America,Alaska
 http://dbpedia.org/resource/Knoxville%2C_Iowa,Q986176,-93.101388888889,41.319166666667,Knoxville,United States of America,Iowa
 http://dbpedia.org/resource/Knoxville%2C_Tennessee,Q185582,-83.95,35.966666666667,Knoxville,United States of America,Tennessee
 http://dbpedia.org/resource/Kodiak%2C_Alaska,Q79985,-152.39416666667,57.793055555556,Kodiak,United States of America,Alaska
@@ -1221,6 +1226,7 @@ http://dbpedia.org/resource/Montpelier%2C_Vermont,Q26426,-72.5717415,44.2658586,
 http://dbpedia.org/resource/Montrose%2C_Pennsylvania,Q1184867,-75.8772,41.8331,Montrose,United States of America,Pennsylvania
 http://dbpedia.org/resource/Moora%2C_Western_Australia,Q1009636,116.01,-30.638,Moora,Australia,Western Australia
 http://dbpedia.org/resource/Moorabbin%2C_Victoria,Q6908064,145.058,-37.941,Moorabbin,Australia,Victoria
+http://dbpedia.org/resource/Moose_Pass%2C_Alaska,Q426115,-149.371,60.4878,Moose Pass,United States of America,Alaska
 http://dbpedia.org/resource/Moravian_Falls%2C_North_Carolina,Q2023489,-81.176111111111,36.106111111111,Moravian Falls,United States of America,North Carolina
 http://dbpedia.org/resource/Moree%2C_New_South_Wales,Q187859,149.8344444,-29.465,Moree,Australia,New South Wales
 http://dbpedia.org/resource/Morgan_City%2C_Louisiana,Q1021427,-91.1972,29.7008,Morgan City,United States of America,Louisiana
@@ -1843,6 +1849,7 @@ http://dbpedia.org/resource/Tuskegee%2C_Alabama,Q79718,-85.706781,32.431506,Tusk
 http://dbpedia.org/resource/Twin_Falls%2C_Idaho,Q548384,-114.475,42.578055555556,Twin Falls,United States of America,Idaho
 http://dbpedia.org/resource/Ultima%2C_Victoria,Q7880088,143.25,-35.4833,Ultima,Australia,Victoria
 http://dbpedia.org/resource/Ulverstone%2C_Tasmania,Q2169513,146.16666666667,-41.166666666667,Ulverstone,Australia,Tasmania
+http://dbpedia.org/resource/Unalakleet%2C_Alaska,Q79812,-160.78966666667,63.878908333333,Unalakleet,United States of America,Alaska
 http://dbpedia.org/resource/Union%2C_South_Carolina,Q1810731,-81.625,34.717222222222,Union,United States of America,South Carolina
 http://dbpedia.org/resource/Union_City%2C_Tennessee,Q948334,-89.050833333333,36.424444444444,Union City,United States of America,Tennessee
 http://dbpedia.org/resource/Unionville%2C_Nevada,Q14705293,-118.122,40.4458,Unionville,United States of America,Nevada
@@ -1963,7 +1970,6 @@ http://dbpedia.org/resource/Wibaux%2C_Montana,Q964844,-104.18972222222,46.986944
 http://dbpedia.org/resource/Wichita%2C_Kansas,Q49266,-97.336111111111,37.688888888889,Wichita,United States of America,Kansas
 http://dbpedia.org/resource/Wickenburg%2C_Arizona,Q996556,-112.74805555556,33.965,Wickenburg,United States of America,Arizona
 http://dbpedia.org/resource/Wickepin%2C_Western_Australia,Q4019672,117.5,-32.7833,Wickepin,Australia,Western Australia
-http://dbpedia.org/resource/Wiggins%2C_Mississippi,,,,,,
 http://dbpedia.org/resource/Wiggins%2C_Stone_County%2C_Mississippi,Q2273139,-89.137777777778,30.858611111111,Wiggins,United States of America,Mississippi
 http://dbpedia.org/resource/Wilcannia,Q574953,143.3677778,-31.565,Wilcannia,Australia,New South Wales
 http://dbpedia.org/resource/Wildwood%2C_New_Jersey,Q1087067,-74.82,38.988888888889,Wildwood,United States of America,New Jersey
