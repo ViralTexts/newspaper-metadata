@@ -759,6 +759,7 @@ http://dbpedia.org/resource/Hagerstown%2C_Maryland,Q755559,-77.72,39.64277777777
 http://dbpedia.org/resource/Hahnville%2C_Louisiana,Q2535809,-90.41,29.9669,Hahnville,United States of America,Louisiana
 http://dbpedia.org/resource/Hailey%2C_Idaho,Q1517614,-114.306,43.515,Hailey,United States of America,Idaho
 http://dbpedia.org/resource/Haines%2C_Alaska,Q79546,-135.44694444444,59.233888888889,Haines,United States of America,Alaska
+http://dbpedia.org/resource/Halle_(Saale),Q2814,11.969722222222222,51.48277777777778,Halle (Saale),Germany,Saxony-Anhalt
 http://dbpedia.org/resource/Hallowell%2C_Maine,Q2283250,-69.7978,44.2867,Hallowell,United States of America,Maine
 http://dbpedia.org/resource/Hamburg,Q1055,10,53.55,Hamburg,Germany,Hamburg
 http://dbpedia.org/resource/Hamilton%2C_Ohio,Q852673,-84.565,39.395833333333,Hamilton,United States of America,Ohio
@@ -887,6 +888,7 @@ http://dbpedia.org/resource/Jamesburg%2C_New_Jersey,Q773400,-74.439166666667,40.
 http://dbpedia.org/resource/Jamestown%2C_North_Dakota,Q1052658,-98.70844444444444,46.910555555555554,Jamestown,United States of America,North Dakota
 http://dbpedia.org/resource/Jamieson%2C_Victoria,Q2611015,146.13333333333,-37.316666666667,Jamieson,Australia,Victoria
 http://dbpedia.org/resource/Janakkala,Q374324,24.65,60.916666666667,Janakkala,Finland,Tavastia Proper
+http://dbpedia.org/resource/Janesville%2C_Wisconsin,Q257536,-89.0136316,42.6854687,Janesville,United States of America,Wisconsin
 http://dbpedia.org/resource/Jasper%2C_Indiana,Q941441,-86.9328,38.3953,Jasper,United States of America,Indiana
 http://dbpedia.org/resource/Jasper%2C_Missouri,Q943002,-94.3003,37.3356,Jasper,United States of America,Missouri
 http://dbpedia.org/resource/Jefferson%2C_Colorado,Q3176638,-105.801,39.3775,Jefferson,United States of America,Colorado
@@ -1185,6 +1187,7 @@ http://dbpedia.org/resource/Middletown%2C_Connecticut,Q49192,-72.651111111111,41
 http://dbpedia.org/resource/Middletown%2C_Delaware,Q756141,-75.71632,39.44956,Middletown,United States of America,Delaware
 http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania,Q1187797,-77.39528,40.57056,Mifflintown,United States of America,Pennsylvania
 http://dbpedia.org/resource/Mikkeli,Q190583,27.273611111111,61.6875,Mikkeli,Finland,Eastern Finland Province
+http://dbpedia.org/resource/Milan,Q490,9.19,45.466944444444,Milan,Italy,Lombardy
 http://dbpedia.org/resource/Milan%2C_Tennessee,Q1856043,-88.758055555556,35.915833333333,Milan,United States of America,Tennessee
 http://dbpedia.org/resource/Milbank%2C_South_Dakota,Q1815489,-96.633611111111,45.218611111111,Milbank,United States of America,South Dakota
 http://dbpedia.org/resource/Mildura,Q705829,142.1337636,-34.2111,Mildura,Australia,Victoria
@@ -1666,6 +1669,7 @@ http://dbpedia.org/resource/Shelton%2C_Washington,Q983986,-123.10611111111,47.21
 http://dbpedia.org/resource/Shenandoah%2C_Pennsylvania,Q1185270,-76.2028,40.8197,Shenandoah,United States of America,Pennsylvania
 http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia,Q1807266,-77.8061,39.4319,Shepherdstown,United States of America,West Virginia
 http://dbpedia.org/resource/Shepparton,Q707030,145.4,-36.383333333333,Shepparton,Australia,Victoria
+http://dbpedia.org/resource/Sherborne,Q586895,-2.5183,50.9491,Sherborne,United Kingdom,England
 http://dbpedia.org/resource/Sheridan%2C_Wyoming,Q1017214,-106.95888888889,44.796666666667,Sheridan,United States of America,Wyoming
 http://dbpedia.org/resource/Shiner%2C_Texas,Q977222,-97.1722,29.4308,Shiner,United States of America,Texas
 http://dbpedia.org/resource/Shire_of_Grenville,Q7498423,143.567,-37.6833,Shire of Grenville,Australia,Victoria
@@ -1818,6 +1822,7 @@ http://dbpedia.org/resource/Toodyay%2C_Western_Australia,Q3531970,116.45,-31.55,
 http://dbpedia.org/resource/Toora%2C_Victoria,Q7824197,146.333,-38.65,Toora,Australia,Victoria
 http://dbpedia.org/resource/Toowoomba,Q478302,151.95,-27.55,Toowoomba,Australia,Queensland
 http://dbpedia.org/resource/Topeka%2C_Kansas,Q41057,-95.67804,39.04833,Topeka,United States of America,Kansas
+http://dbpedia.org/resource/Toronto,Q172,-79.386666666667,43.670277777778,Toronto,Canada,Ontario
 http://dbpedia.org/resource/Towanda%2C_Pennsylvania,Q671662,-76.4467,41.7703,Towanda,United States of America,Pennsylvania
 http://dbpedia.org/resource/Townsville,Q190021,146.81583333333,-19.262222222222,Townsville,Australia,Queensland
 http://dbpedia.org/resource/Towson%2C_Maryland,Q755615,-76.609444444444,39.393055555556,Towson,United States of America,Maryland
@@ -1927,6 +1932,7 @@ http://dbpedia.org/resource/Waterbury%2C_Connecticut,Q49178,-73.036944444444,41.
 http://dbpedia.org/resource/Watertown%2C_New_York,Q1378026,-75.9064,43.9756,Watertown,United States of America,New York
 http://dbpedia.org/resource/Watertown%2C_South_Dakota,Q1065503,-97.120555555556,44.903333333333,Watertown,United States of America,South Dakota
 http://dbpedia.org/resource/Watertown%2C_Wisconsin,Q1207479,-88.716666666667,43.2,Watertown,United States of America,Wisconsin
+http://dbpedia.org/resource/Watervliet_Shaker_Historic_District,Q7974558,-73.818333,42.739722,Watervliet Shaker Historic District,United States of America,New York
 http://dbpedia.org/resource/Wausau%2C_Wisconsin,Q998675,-89.633333333333,44.95,Wausau,United States of America,Wisconsin
 http://dbpedia.org/resource/Wauseon%2C_Ohio,Q604851,-84.1392,41.5522,Wauseon,United States of America,Ohio
 http://dbpedia.org/resource/Wauwatosa%2C_Wisconsin,Q1006865,-88.026111111111,43.058888888889,Wauwatosa,United States of America,Wisconsin
