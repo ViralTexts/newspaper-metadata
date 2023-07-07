@@ -144,6 +144,7 @@ http://dbpedia.org/resource/Benton%2C_Louisiana,Q2618607,-93.7406,32.6947,Benton
 http://dbpedia.org/resource/Benton%2C_Missouri,Q962254,-89.5622,37.0969,Benton,United States of America,Missouri
 http://dbpedia.org/resource/Benton%2C_Tennessee,Q3287506,-84.65,35.173185,Benton,United States of America,Tennessee
 http://dbpedia.org/resource/Berea%2C_Kentucky,Q3180809,-84.2936,37.5769,Berea,United States of America,Kentucky
+http://dbpedia.org/resource/Berkeley%2C_California,Q484678,-122.26805555556,37.870277777778,Berkeley,United States of America,California
 http://dbpedia.org/resource/Berlin,Q64,13.383333333333,52.516666666667,Berlin,Germany,Berlin
 http://dbpedia.org/resource/Berringa%2C_Victoria,Q2390784,143.68333333333,-37.766666666667,Berringa,Australia,Victoria
 http://dbpedia.org/resource/Berryville%2C_Virginia,Q1373729,-77.9825,39.1511,Berryville,United States of America,Virginia
@@ -178,6 +179,7 @@ http://dbpedia.org/resource/Boise%2C_Idaho,Q35775,-116.23777777778,43.6136111111
 http://dbpedia.org/resource/Bolivar%2C_Tennessee,Q2544978,-89.0055,35.2633,Bolivar,United States of America,Tennessee
 http://dbpedia.org/resource/Bolzano,Q6526,11.35478,46.498113,Bolzano,Italy,Trentino-South Tyrol
 http://dbpedia.org/resource/Bombala%2C_New_South_Wales,Q2253650,149.2344444,-36.915,Bombala,Australia,New South Wales
+http://dbpedia.org/resource/Bonn,Q586,7.0997222222222,50.733888888889,Bonn,Germany,North Rhine-Westphalia
 http://dbpedia.org/resource/Bonners_Ferry%2C_Idaho,Q1650615,-116.3175,48.692222222222,Bonners Ferry,United States of America,Idaho
 http://dbpedia.org/resource/Boomer_Township%2C_Wilkes_County%2C_North_Carolina,Q4943478,-81.2536,36.0672,Boomer Township,United States of America,North Carolina
 http://dbpedia.org/resource/Boone%2C_North_Carolina,Q893055,-81.67455,36.21679,Boone,United States of America,North Carolina
@@ -261,6 +263,7 @@ http://dbpedia.org/resource/Caldwell%2C_Idaho,Q849592,-116.68027777778,43.658333
 http://dbpedia.org/resource/Caldwell%2C_Ohio,Q653835,-81.516111111111,39.7475,Caldwell,United States of America,Ohio
 http://dbpedia.org/resource/Calumet%2C_Michigan,Q2645447,-88.453888888889,47.246666666667,Calumet,United States of America,Michigan
 http://dbpedia.org/resource/Camberwell%2C_Victoria,Q2934668,145.071,-37.835,Camberwell,Australia,Victoria
+http://dbpedia.org/resource/Cambridge,Q350,0.1225,52.208055555556,Cambridge,United Kingdom,England
 http://dbpedia.org/resource/Cambridge%2C_Maryland,Q350,0.1225,52.208055555556,Cambridge,United Kingdom,England
 http://dbpedia.org/resource/Cambridge%2C_Massachusetts,Q350,0.1225,52.208055555556,Cambridge,United Kingdom,England
 http://dbpedia.org/resource/Camden%2C_New_Jersey,Q138367,-75.1066,39.9368,Camden,United States of America,New Jersey
@@ -450,6 +453,7 @@ http://dbpedia.org/resource/Dalyston,Q17050437,145.5408,-38.5473,Dalyston,Austra
 http://dbpedia.org/resource/Danbury%2C_Connecticut,Q49198,-73.471111111111,41.402222222222,Danbury,United States of America,Connecticut
 http://dbpedia.org/resource/Dandenong%2C_Victoria,Q1159408,145.215,-37.981,Dandenong,Australia,Victoria
 http://dbpedia.org/resource/Dannebrog%2C_Nebraska,Q934055,-98.546666666667,41.118611111111,Dannebrog,United States of America,Nebraska
+http://dbpedia.org/resource/Dansville%2C_New_York,Q5221107,,,"Dansville, New York",,
 http://dbpedia.org/resource/Danville%2C_Indiana,Q1022769,-86.5178,39.7608,Danville,United States of America,Indiana
 http://dbpedia.org/resource/Danville%2C_Kentucky,Q988923,-84.7697,37.6456,Danville,United States of America,Kentucky
 http://dbpedia.org/resource/Danville%2C_Pennsylvania,Q1135472,-76.6119,40.9617,Danville,United States of America,Pennsylvania
@@ -540,6 +544,7 @@ http://dbpedia.org/resource/East_Aurora%2C_New_York,Q1019210,-78.617222222222,42
 http://dbpedia.org/resource/East_Cleveland%2C_Ohio,Q998878,-81.5819,41.5317,East Cleveland,United States of America,Ohio
 http://dbpedia.org/resource/East_Jordan%2C_Michigan,Q1813148,-85.124166666667,45.158055555556,East Jordan,United States of America,Michigan
 http://dbpedia.org/resource/East_Liverpool%2C_Ohio,Q998893,-80.5692,40.6286,East Liverpool,United States of America,Ohio
+http://dbpedia.org/resource/Easton%2C_Pennsylvania,Q1056542,-75.216388888889,40.688333333333,Easton,United States of America,Pennsylvania
 http://dbpedia.org/resource/Eaton%2C_Ohio,Q1000148,-84.6339,39.7475,Eaton,United States of America,Ohio
 http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania,Q1130214,-78.7256,40.4864,Ebensburg,United States of America,Pennsylvania
 http://dbpedia.org/resource/Echo%2C_Oregon,Q2317450,-119.19472222222,45.741111111111,Echo,United States of America,Oregon
@@ -564,6 +569,7 @@ http://dbpedia.org/resource/Elizabethton%2C_Tennessee,Q1389138,-82.239166666667,
 http://dbpedia.org/resource/Elizabethtown%2C_Kentucky,Q946319,-85.866666666667,37.7,Elizabethtown,United States of America,Kentucky
 http://dbpedia.org/resource/Elk_City%2C_Idaho,Q2007094,-115.43666666667,45.826944444444,Elk City,United States of America,Idaho
 http://dbpedia.org/resource/Elk_Point%2C_South_Dakota,Q974611,-96.681666666667,42.685555555556,Elk Point,United States of America,South Dakota
+http://dbpedia.org/resource/Elkhart%2C_Indiana,Q2008706,-85.9689,41.6831,Elkhart,United States of America,Indiana
 http://dbpedia.org/resource/Elkhorn%2C_West_Virginia,Q5364256,-81.4108,37.3856,Elkhorn,United States of America,West Virginia
 http://dbpedia.org/resource/Elko%2C_Nevada,Q945084,-115.76316666666666,40.83247222222222,Elko,United States of America,Nevada
 http://dbpedia.org/resource/Elkton%2C_Maryland,Q754338,-75.825833333333,39.61,Elkton,United States of America,Maryland
@@ -658,13 +664,16 @@ http://dbpedia.org/resource/Fredericksburg%2C_Virginia,Q492342,-77.470778,38.301
 http://dbpedia.org/resource/Freehold_Township%2C_New_Jersey,Q1077969,-74.294983,40.235563,Freehold Township,United States of America,New Jersey
 http://dbpedia.org/resource/Freeland%2C_Pennsylvania,Q1130934,-75.8958,41.0197,Freeland,United States of America,Pennsylvania
 http://dbpedia.org/resource/Freetown%2C_Massachusetts,Q304284,-71.027222222222,41.772777777778,Freetown,United States of America,Massachusetts
+http://dbpedia.org/resource/Freiberg,Q14819,13.342777777778,50.911944444444,Freiberg,Germany,Saxony
 http://dbpedia.org/resource/Fremantle,Q606212,115.74762537009292,-32.054229516382605,Fremantle,Australia,Western Australia
 http://dbpedia.org/resource/Fremont%2C_Missouri,Q3459211,-91.164166666667,36.952222222222,Fremont,United States of America,Missouri
 http://dbpedia.org/resource/Fremont%2C_Ohio,Q934308,-83.1172,41.3489,Fremont,United States of America,Ohio
 http://dbpedia.org/resource/Friday_Harbor%2C_Washington,Q968711,-123.01712,48.53427,Friday Harbor,United States of America,Washington
 http://dbpedia.org/resource/Frostburg%2C_Maryland,Q374219,-78.9272,39.6567,Frostburg,United States of America,Maryland
+http://dbpedia.org/resource/Fuzhou,Q68481,119.29166666667,26.076944444444,Fuzhou,People's Republic of China,Fujian
 http://dbpedia.org/resource/Gainesboro%2C_Tennessee,Q2057053,-85.654722222222,36.359722222222,Gainesboro,United States of America,Tennessee
 http://dbpedia.org/resource/Gainesville%2C_Florida,Q487999,-82.336111111111,29.665277777778,Gainesville,United States of America,Florida
+http://dbpedia.org/resource/Gainsborough%2C_Lincolnshire,Q288082,-0.7732,53.4016,Gainsborough,United Kingdom,England
 http://dbpedia.org/resource/Gallipolis%2C_Ohio,Q176684,-82.1975,38.8153,Gallipolis,United States of America,Ohio
 http://dbpedia.org/resource/Galveston%2C_Texas,Q135744,-94.7977778,29.3013889,Galveston,United States of America,Texas
 http://dbpedia.org/resource/Gann_Valley%2C_South_Dakota,Q974030,-98.9875,44.033333333333,Gann Valley,United States of America,South Dakota
@@ -723,6 +732,7 @@ http://dbpedia.org/resource/Grand_Rapids%2C_Michigan,Q184587,-85.66809,42.96336,
 http://dbpedia.org/resource/Grangeville%2C_Idaho,Q1516646,-116.12138888889,45.926388888889,Grangeville,United States of America,Idaho
 http://dbpedia.org/resource/Grants_Pass%2C_Oregon,Q143405,-123.32833333333,42.438888888889,Grants Pass,United States of America,Oregon
 http://dbpedia.org/resource/Grantsville%2C_West_Virginia,Q2793224,-81.095,38.923055555556,Grantsville,United States of America,West Virginia
+http://dbpedia.org/resource/Granville%2C_Ohio,Q2485187,-82.5122,40.0675,Granville,United States of America,Ohio
 http://dbpedia.org/resource/Grass_Valley%2C_California,Q834337,-121.058333,39.219167,Grass Valley,United States of America,California
 http://dbpedia.org/resource/Grayling%2C_Michigan,Q2738881,-84.714722222222,44.661388888889,Grayling,United States of America,Michigan
 http://dbpedia.org/resource/Graz,Q13298,15.438611111111111,47.07083333333333,Graz,Austria,Styria
@@ -866,6 +876,7 @@ http://dbpedia.org/resource/Indianapolis,Q6346,-86.158055555556,39.768611111111,
 http://dbpedia.org/resource/Inglewood%2C_Victoria,Q14935166,143.86888889,-36.57638889,Inglewood,Australia,Victoria
 http://dbpedia.org/resource/Innsbruck,Q1735,11.393333333333,47.268333333333,Innsbruck,Austria,Tyrol
 http://dbpedia.org/resource/Inverell,Q1009627,151.11666666667,-29.766666666667,Inverell,Australia,New South Wales
+http://dbpedia.org/resource/Inverness,Q160493,-4.2258333333333,57.483888888889,Inverness,United Kingdom,Scotland
 http://dbpedia.org/resource/Inverness%2C_Montana,Q965666,-110.69027777778,48.557777777778,Inverness,United States of America,Montana
 http://dbpedia.org/resource/Iola%2C_Kansas,Q1913925,-95.4003,37.9228,Iola,United States of America,Kansas
 http://dbpedia.org/resource/Iowa_City%2C_Iowa,Q487977,-91.525,41.655833333333,Iowa City,United States of America,Iowa
@@ -959,6 +970,7 @@ http://dbpedia.org/resource/Knoxville%2C_Iowa,Q986176,-93.101388888889,41.319166
 http://dbpedia.org/resource/Knoxville%2C_Tennessee,Q185582,-83.95,35.966666666667,Knoxville,United States of America,Tennessee
 http://dbpedia.org/resource/Kodiak%2C_Alaska,Q79985,-152.39416666667,57.793055555556,Kodiak,United States of America,Alaska
 http://dbpedia.org/resource/Kogarah%2C_New_South_Wales,Q284224,151.13333333333,-33.966666666667,City of Kogarah,Australia,New South Wales
+http://dbpedia.org/resource/Kolkata,Q1348,88.3638815,22.5726723,Kolkata,India,West Bengal
 http://dbpedia.org/resource/Koo_Wee_Rup,Q1783750,145.489,-38.198,Koo Wee Rup,Australia,Victoria
 http://dbpedia.org/resource/Kootenai%2C_Idaho,Q1518322,-116.516,48.3106,Kootenai,United States of America,Idaho
 http://dbpedia.org/resource/Koroit,Q6432497,142.363,-38.291,Koroit,Australia,Victoria
@@ -1170,8 +1182,10 @@ http://dbpedia.org/resource/Melton%2C_Victoria,Q706032,144.58333333333,-37.68333
 http://dbpedia.org/resource/Memphis%2C_Missouri,Q962034,-92.16972,40.46083,Memphis,United States of America,Missouri
 http://dbpedia.org/resource/Memphis%2C_Tennessee,Q16563,-89.971111111111,35.1175,Memphis,United States of America,Tennessee
 http://dbpedia.org/resource/Mena%2C_Arkansas,Q79567,-94.239166666667,34.582222222222,Mena,United States of America,Arkansas
+http://dbpedia.org/resource/Menasha%2C_Wisconsin,Q1570626,-88.436111111111,44.212777777778,Menasha,United States of America,Wisconsin
 http://dbpedia.org/resource/Merano,Q131605,11.159419,46.669555,Merano,Italy,Trentino-South Tyrol
 http://dbpedia.org/resource/Mercur%2C_Utah,Q6818523,-112.212,40.3208,Mercur,United States of America,Utah
+http://dbpedia.org/resource/Meriden%2C_Connecticut,Q54220,-72.794722222222,41.536666666667,Meriden,United States of America,Connecticut
 http://dbpedia.org/resource/Meriden%2C_Kansas,Q2094322,-95.56833,39.18889,Meriden,United States of America,Kansas
 http://dbpedia.org/resource/Meridian%2C_Idaho,Q1085274,-116.39888888889,43.614166666667,Meridian,United States of America,Idaho
 http://dbpedia.org/resource/Meridian%2C_Mississippi,Q118152,-88.70366666666666,32.36430555555555,Meridian,United States of America,Mississippi
@@ -1348,6 +1362,7 @@ http://dbpedia.org/resource/North_Topeka%2C_Kansas,Q7057021,-95.6669,39.0722,Nor
 http://dbpedia.org/resource/Northam%2C_Western_Australia,Q478147,116.66611111111,-31.653055555556,Northam,Australia,Western Australia
 http://dbpedia.org/resource/Northampton%2C_Massachusetts,Q49186,-72.641666666667,42.325,Northampton,United States of America,Massachusetts
 http://dbpedia.org/resource/Northcote%2C_Victoria,Q7057754,144.999,-37.7722,Northcote,Australia,Victoria
+http://dbpedia.org/resource/Northfield%2C_Minnesota,Q996544,-93.161111111111,44.458333333333,Northfield,United States of America,Minnesota
 http://dbpedia.org/resource/Northumberland%2C_Pennsylvania,Q1181968,-76.7961,40.8939,Northumberland,United States of America,Pennsylvania
 http://dbpedia.org/resource/Norwalk%2C_Connecticut,Q54217,-73.419722222222,41.093888888889,Norwalk,United States of America,Connecticut
 http://dbpedia.org/resource/Norwich%2C_Connecticut,Q631402,-72.0875,41.550277777778,Norwich,United States of America,Connecticut
@@ -1447,6 +1462,7 @@ http://dbpedia.org/resource/Perrysburg%2C_Ohio,Q998647,-83.63,41.550277777778,Pe
 http://dbpedia.org/resource/Perth,Q3183,115.8606,-31.9559,Perth,Australia,Western Australia
 http://dbpedia.org/resource/Perth_Amboy%2C_New_Jersey,Q985592,-74.275277777778,40.519444444444,Perth Amboy,United States of America,New Jersey
 http://dbpedia.org/resource/Petal%2C_Mississippi,Q892242,-89.2556,31.3467,Petal,United States of America,Mississippi
+http://dbpedia.org/resource/Peterborough,Q172438,-0.24305555555555555,52.5725,Peterborough,United Kingdom,England
 http://dbpedia.org/resource/Peterborough%2C_South_Australia,Q3900971,138.83333333333,-32.966666666667,Peterborough,Australia,South Australia
 http://dbpedia.org/resource/Petersburg%2C_Alaska,Q80027,-132.94194444444,56.804444444444,Petersburg,United States of America,Alaska
 http://dbpedia.org/resource/Petersburg%2C_Virginia,Q511964,-77.400417,37.21295,Petersburg,United States of America,Virginia
@@ -1740,6 +1756,7 @@ http://dbpedia.org/resource/St._Martinville%2C_Louisiana,Q1987082,-91.8306,30.12
 http://dbpedia.org/resource/St_Arnaud%2C_Victoria,Q2403511,143.25,-36.6,St Arnaud,Australia,Victoria
 http://dbpedia.org/resource/Stafford%2C_Connecticut,Q2305713,-72.316666666667,41.983333333333,Stafford,United States of America,Connecticut
 http://dbpedia.org/resource/Stamford%2C_Connecticut,Q49169,-73.552222222222,41.096666666667,Stamford,United States of America,Connecticut
+http://dbpedia.org/resource/Stanford%2C_California,Q173813,-122.166079,37.424109,Stanford,United States of America,California
 http://dbpedia.org/resource/Stanford%2C_Kentucky,Q951131,-84.6603,37.5322,Stanford,United States of America,Kentucky
 http://dbpedia.org/resource/Stanley%2C_Tasmania,Q187313,145.29166666667,-40.7625,Stanley,Australia,Tasmania
 http://dbpedia.org/resource/Starke%2C_Florida,Q2047919,-82.108055555556,29.947222222222,Starke,United States of America,Florida
@@ -1755,6 +1772,7 @@ http://dbpedia.org/resource/Stevensville%2C_Montana,Q955315,-114.09333333333,46.
 http://dbpedia.org/resource/Stillwater%2C_Minnesota,Q862658,-92.822175,45.0565,Stillwater,United States of America,Minnesota
 http://dbpedia.org/resource/Stockholm,Q1754,18.068611111111,59.329444444444,Stockholm,Sweden,Stockholm County
 http://dbpedia.org/resource/Stonington%2C_Connecticut,Q755748,-71.906666666667,41.365,Stonington,United States of America,Connecticut
+http://dbpedia.org/resource/Strasbourg,Q6602,7.7522222222222,48.573333333333,Strasbourg,France,Metropolitan France
 http://dbpedia.org/resource/Stratford%2C_Victoria,Q7621911,147.083,-37.9667,Stratford,Australia,Victoria
 http://dbpedia.org/resource/Streaky_Bay%2C_South_Australia,Q918732,134.21666667,-32.8,Streaky Bay,Australia,South Australia
 http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania,Q1185729,-75.1953,40.9858,Stroudsburg,United States of America,Pennsylvania
@@ -1865,6 +1883,7 @@ http://dbpedia.org/resource/Upper_Marlboro%2C_Maryland,Q753334,-76.753333333333,
 http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio,Q1913338,-83.2792,40.8297,Upper Sandusky,United States of America,Ohio
 http://dbpedia.org/resource/Uralla%2C_New_South_Wales,Q2483917,151.48333333333,-30.633333333333,Uralla,Australia,New South Wales
 http://dbpedia.org/resource/Urana,Q7899631,146.26666666667,-35.316666666667,Urana,Australia,New South Wales
+http://dbpedia.org/resource/Urbana%2C_Illinois,Q462184,-88.204166666667,40.109722222222,Urbana,United States of America,Illinois
 http://dbpedia.org/resource/Urbana%2C_Ohio,Q1762816,-83.7514,40.1108,Urbana,United States of America,Ohio
 http://dbpedia.org/resource/Utica%2C_New_York,Q2495519,-75.2325,43.100833333333334,Utica,United States of America,New York
 http://dbpedia.org/resource/Utrecht,Q803,5.121666666666667,52.090833333333336,Utrecht,Netherlands,Utrecht
@@ -1993,6 +2012,7 @@ http://dbpedia.org/resource/Willmar%2C_Minnesota,Q1986492,-95.043333333333,45.12
 http://dbpedia.org/resource/Wilmington%2C_Delaware,Q174224,-75.551388888889,39.748333333333,Wilmington,United States of America,Delaware
 http://dbpedia.org/resource/Wilmington%2C_North_Carolina,Q659400,-77.912222222222,34.223333333333,Wilmington,United States of America,North Carolina
 http://dbpedia.org/resource/Wilson%2C_North_Carolina,Q595348,-77.928305555556,35.731055555556,Wilson,United States of America,North Carolina
+http://dbpedia.org/resource/Winchester,Q172157,-1.3086111111111,51.063333333333,Winchester,United Kingdom,England
 http://dbpedia.org/resource/Winchester%2C_Indiana,Q680183,-84.9775,40.1731,Winchester,United States of America,Indiana
 http://dbpedia.org/resource/Winchester%2C_Kentucky,Q985302,-84.184166666667,37.994722222222,Winchester,United States of America,Kentucky
 http://dbpedia.org/resource/Winchester%2C_Tennessee,Q2012613,-86.1125,35.188333333333,Winchester,United States of America,Tennessee
