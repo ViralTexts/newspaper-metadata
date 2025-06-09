@@ -5207,7 +5207,7 @@ http://dbpedia.org/resource/Galva%2C_Illinois,Q578470,-90.0425,41.1675,Galva,Uni
 http://dbpedia.org/resource/Galva%2C_Kansas,Q1857705,-97.5369,38.3831,Galva,United States of America,Kansas,WUSA
 http://dbpedia.org/resource/Galveston%2C_Indiana,Q977773,-86.1914,40.5775,Galveston,United States of America,Indiana,EUSA
 http://dbpedia.org/resource/Galveston%2C_Texas,Q135744,-94.7977778,29.3013889,Galveston,United States of America,Texas,WUSA
-http://dbpedia.org/resource/Galway%2C_New_York,Q129610,-9.0418,53.2729,Galway,Republic of Ireland,Connacht,UK
+http://dbpedia.org/resource/Galway%2C_New_York,Q5519453,-74.03152,43.01869,Galway,United States of America,New York,EUSA
 http://dbpedia.org/resource/Gambier%2C_Ohio,Q2093658,-82.3967,40.3764,Gambier,United States of America,Ohio,EUSA
 http://dbpedia.org/resource/Ganado%2C_Texas,Q982520,-96.5122,29.0411,Ganado,United States of America,Texas,WUSA
 http://dbpedia.org/resource/Gandy%2C_Nebraska,Q2443354,-100.45777777778,41.47,Gandy,United States of America,Nebraska,WUSA
@@ -9037,7 +9037,6 @@ http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania,Q1187797,-77.39528,40.57
 http://dbpedia.org/resource/Mignon%2C_Alabama,Q1274891,-86.264456,33.182929,Mignon,United States of America,Alabama,EUSA
 http://dbpedia.org/resource/Mikkeli,Q190583,27.273611111111,61.6875,Mikkeli,Finland,Eastern Finland Province,Finland
 http://dbpedia.org/resource/Milaca%2C_Minnesota,Q2229027,-93.654444444444,45.755833333333,Milaca,United States of America,Minnesota,EUSA
-http://dbpedia.org/resource/Milan,Q490,9.19,45.466944444444,Milan,Italy,Lombardy,Italy
 http://dbpedia.org/resource/Milan%2C_Illinois,Q1022976,-90.56528,41.44611,Milan,United States of America,Illinois,EUSA
 http://dbpedia.org/resource/Milan%2C_Indiana,Q2101493,-85.13056,39.1225,Milan,United States of America,Indiana,EUSA
 http://dbpedia.org/resource/Milan%2C_Kansas,Q1902842,-97.67444,37.25694,Milan,United States of America,Kansas,WUSA
@@ -12024,7 +12023,7 @@ http://dbpedia.org/resource/Roscoe%2C_New_York,Q3461738,-74.9161,41.9361,Roscoe,
 http://dbpedia.org/resource/Roscoe%2C_Pennsylvania,Q1181907,-79.8653,40.0786,Roscoe,United States of America,Pennsylvania,EUSA
 http://dbpedia.org/resource/Roscoe%2C_South_Dakota,Q2383665,-99.336666666667,45.450277777778,Roscoe,United States of America,South Dakota,WUSA
 http://dbpedia.org/resource/Roscoe%2C_Texas,Q981720,-100.539,32.4458,Roscoe,United States of America,Texas,WUSA
-http://dbpedia.org/resource/Roscommon%2C_Michigan,Q179437,-8.25,53.75,County Roscommon,Republic of Ireland,Connacht,UK
+http://dbpedia.org/resource/Roscommon%2C_Michigan,Q961207,-84.591944444444,44.498333333333,Roscommon,United States of America,Michigan,EUSA
 http://dbpedia.org/resource/Rose%2C_New_York,Q51270,-76.878611111111,43.153611111111,Rose,United States of America,New York,EUSA
 http://dbpedia.org/resource/Rose_City%2C_Michigan,Q3308147,-84.115277777778,44.421111111111,Rose City,United States of America,Michigan,EUSA
 http://dbpedia.org/resource/Rose_Hill%2C_North_Carolina,Q2024757,-78.025833333333,34.825833333333,Rose Hill,United States of America,North Carolina,EUSA
@@ -12202,6 +12201,7 @@ http://dbpedia.org/resource/Saint_Michaels%2C_Maryland,Q753688,-76.2222,38.7836,
 http://dbpedia.org/resource/Saint_Paul%2C_Minnesota,Q28848,-93.093611111111,44.944166666667,Saint Paul,United States of America,Minnesota,EUSA
 http://dbpedia.org/resource/Saint_Pauls%2C_North_Carolina,,,,,,,
 http://dbpedia.org/resource/Saint_Peters%2C_Missouri,,,,,,,
+http://dbpedia.org/resource/Saint_Petersburg,Q656,30.316666666667,59.95,Saint Petersburg,Russia,Saint Petersburg,Russia
 http://dbpedia.org/resource/Saint_Petersburg%2C_Pennsylvania,,,,,,,
 http://dbpedia.org/resource/Salado%2C_Texas,Q1479634,-97.5347,30.9553,Salado,United States of America,Texas,WUSA
 http://dbpedia.org/resource/Salamanca%2C_New_York,,,,,,,
@@ -12646,6 +12646,7 @@ http://dbpedia.org/resource/Shellsburg%2C_Iowa,Q1848297,-91.870277777778,42.0930
 http://dbpedia.org/resource/Shelter_Island_Heights%2C_New_York,Q3461370,-72.350833333333,41.078055555556,Shelter Island Heights,United States of America,New York,EUSA
 http://dbpedia.org/resource/Shelton%2C_Connecticut,Q594109,-73.138055555556,41.304166666667,Shelton,United States of America,Connecticut,EUSA
 http://dbpedia.org/resource/Shelton%2C_Nebraska,Q3288895,-98.7333,40.7775,Shelton,United States of America,Nebraska,WUSA
+http://dbpedia.org/resource/Shelton%2C_Staffordshire,Q7494003,-2.1758,53.0121,Shelton,United Kingdom,England,UK
 http://dbpedia.org/resource/Shelton%2C_Washington,Q983986,-123.10611111111,47.213611111111,Shelton,United States of America,Washington,WUSA
 http://dbpedia.org/resource/Shenandoah%2C_Iowa,Q993475,-95.370833333333,40.762222222222,Shenandoah,United States of America,Iowa,EUSA
 http://dbpedia.org/resource/Shenandoah%2C_Pennsylvania,Q1185270,-76.2028,40.8197,Shenandoah,United States of America,Pennsylvania,EUSA
@@ -13881,6 +13882,7 @@ http://dbpedia.org/resource/Tunnelton%2C_Indiana,Q7853337,-86.3428,38.7686,Tunne
 http://dbpedia.org/resource/Tuolumne_City%2C_California,Q3301923,-120.237,37.9617,Tuolumne City,United States of America,California,WUSA
 http://dbpedia.org/resource/Tupelo%2C_Mississippi,Q667727,-88.7033888888889,34.25761111111111,Tupelo,United States of America,Mississippi,EUSA
 http://dbpedia.org/resource/Tupelo%2C_Oklahoma,Q3146940,-96.420555555556,34.603055555556,Tupelo,United States of America,Oklahoma,WUSA
+http://dbpedia.org/resource/Turin,Q495,7.676111111111111,45.079166666666666,Turin,Italy,Piedmont,Italy
 http://dbpedia.org/resource/Turin%2C_New_York,Q495,7.676111111111111,45.079166666666666,Turin,Italy,Piedmont,Italy
 http://dbpedia.org/resource/Turkey%2C_Texas,Q975535,-100.895,34.3942,Turkey,United States of America,Texas,WUSA
 http://dbpedia.org/resource/Turku,Q38511,22.27,60.451666666667,Turku,Finland,South-Western Finland Regional State Administrative Agency,Finland
@@ -15307,6 +15309,7 @@ http://dbpedia.org/resource/Yoder%2C_Wyoming,Q1028064,-104.295,41.9175,Yoder,Uni
 http://dbpedia.org/resource/Yoncalla%2C_Oregon,Q2314977,-123.28555555556,43.599166666667,Yoncalla,United States of America,Oregon,WUSA
 http://dbpedia.org/resource/Yonkers%2C_New_York,Q128114,-73.864444444444,40.941388888889,Yonkers,United States of America,New York,EUSA
 http://dbpedia.org/resource/Yorba_Linda%2C_California,Q493518,-117.813231,33.888551,Yorba Linda,United States of America,California,WUSA
+http://dbpedia.org/resource/York,Q42462,-1.0833333333333,53.95,York,United Kingdom,England,UK
 http://dbpedia.org/resource/York%2C_Alabama,Q80025,-88.2978,32.4933,York,United States of America,Alabama,EUSA
 http://dbpedia.org/resource/York%2C_Maine,Q2323126,-70.648611111111,43.163333333333,York,United States of America,Maine,EUSA
 http://dbpedia.org/resource/York%2C_Nebraska,Q656815,-97.588888888889,40.867222222222,York,United States of America,Nebraska,WUSA
