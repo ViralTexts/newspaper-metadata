@@ -1,8 +1,10 @@
-corpus,title,description
-ca,Chronicling America,https://chroniclingamerica.loc.gov/
-ia,Internet Archive,https://archive.org/details/texts
-moa,Making of America,https://collections.library.cornell.edu/moa_new/browse.html
-trove,Trove Newspapers,https://trove.nla.gov.au/newspaper/
-aps,ProQuest American Periodicals Series,https://about.proquest.com/en/products-services/aps/
-gale-uk,Gale British Library Newspapers: Part I: 1800-1900,https://www.gale.com/intl/c/british-library-newspapers-part-i
-gale-us,Gale Nineteenth Century U.S. Newspapers,https://www.gale.com/c/nineteenth-century-us-newspapers
+corpus,open,title,description
+ca,TRUE,Chronicling America,https://www.loc.gov/collections/chronicling-america/
+digitalnc,TRUE,North Carolina Newspapers,https://newspapers.digitalnc.org/
+ia,TRUE,Internet Archive,https://archive.org/details/texts
+moa,TRUE,Making of America,https://collections.library.cornell.edu/moa_new/browse.html
+panewsarchive,TRUE,Pennsylvania Newspaper Archive,https://panewsarchive.psu.edu/
+trove,TRUE,Trove Newspapers,https://trove.nla.gov.au/newspaper/
+aps,FALSE,ProQuest American Periodicals Series,https://about.proquest.com/en/products-services/aps/
+gale-uk,FALSE,Gale British Library Newspapers: Part I: 1800-1900,https://www.gale.com/intl/c/british-library-newspapers-part-i
+gale-us,FALSE,Gale Nineteenth Century U.S. Newspapers,https://www.gale.com/c/nineteenth-century-us-newspapers
