@@ -17528,7 +17528,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn82016213,The colored visitor.,en,S.M. Raines,"Logansport, Ind.",ca,http://dbpedia.org/resource/Logansport%2C_Indiana
 /lccn/sn82016214,Indiana gazette.,en,E. Stout,"Vincennes, I.T. [Ind.]",gale-us,http://dbpedia.org/resource/Vincennes%2C_Indiana
 /lccn/sn82016224,The loyal Georgian.,en,Georgia Equal Rights Pub. Assn.,"Augusta, Ga.",acdc;ca,http://dbpedia.org/resource/Augusta%2C_Georgia
-/lccn/sn82016225,The Colored tribune.,en,"Toomer, White, Pleasant & Co.",Savannah [Ga.],,http://dbpedia.org/resource/Savannah%2C_Georgia
+/lccn/sn82016225,The Colored tribune.,en,"Toomer, White, Pleasant & Co.",Savannah [Ga.],ca-new,http://dbpedia.org/resource/Savannah%2C_Georgia
 /lccn/sn82016228,"Connecticut herald, and general advertiser.",en,Flagg & Gray,New Haven [Conn.],gale-us,http://dbpedia.org/resource/New_Haven%2C_Connecticut
 /lccn/sn82016229,Alaska herald.,en;ru,Agapius Honcharenko,"San Francisco, Calif.",,http://dbpedia.org/resource/San_Francisco
 /lccn/sn82016230,The Daily town talk.,en,P.P. Hull & Co.,San Francisco [Calif.],,http://dbpedia.org/resource/San_Francisco
@@ -27787,7 +27787,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn84020320,The Grand Island daily independent.,en,[F. Hedde],"Grand Island, Neb.",,http://dbpedia.org/resource/Grand_Island%2C_Nebraska
 /lccn/sn84020321,Peoples Press.,en,W.H.H. Waters,"Nebraska City, Neb.",,http://dbpedia.org/resource/Nebraska_City%2C_Nebraska
 /lccn/sn84020322,Evening world-herald.,en,[World Pub. Co.],"Omaha, Neb.",,http://dbpedia.org/resource/Omaha%2C_Nebraska
-/lccn/sn84020323,The Savannah tribune.,en,"Toomer, White, Pleasant & Co.",Savannah [Ga.],ca,http://dbpedia.org/resource/Savannah%2C_Georgia
+/lccn/sn84020323,The Savannah tribune.,en,"Toomer, White, Pleasant & Co.",Savannah [Ga.],ca;ca-new,http://dbpedia.org/resource/Savannah%2C_Georgia
 /lccn/sn84020324,St. Louis weekly times.,en,Times Co.,St. Louis [Mo.],,http://dbpedia.org/resource/St._Louis
 /lccn/sn84020325,Chestertown transcript.,en,E.F. Perkins,"Chestertown, Md.",,http://dbpedia.org/resource/Chestertown%2C_Maryland
 /lccn/sn84020326,The Clearspring sentinel.,en,L.J. Grove,"Clearspring, Md.",,
@@ -37599,7 +37599,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn84038407,Seymour reporter.,en,C.W. Bolster,"Seymour, Iowa",,http://dbpedia.org/resource/Seymour%2C_Iowa
 /lccn/sn84038408,Burroughs' journal.,en,J.W. Burroughs,"Raymond, Iowa",,http://dbpedia.org/resource/Raymond%2C_Iowa
 /lccn/sn84038409,The Jefferson era.,en,M. Henry Money,"Jefferson, Greene County, Iowa",,http://dbpedia.org/resource/Jefferson%2C_Iowa
-/lccn/sn84038410,"The Potowmac guardian, and Berkeley advertiser.",en,N. Willis,"Shepherdstown, Va. [W. Va.]",ca;ca-new,http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia
+/lccn/sn84038410,"The Potowmac guardian, and Berkeley advertiser.",en,N. Willis,"Shepherdstown, Va. [W. Va.]",ca-new,http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia
 /lccn/sn84038411,The Weekly Ottumwa Democrat.,en,Sam. B. Evans,"Ottumwa, Iowa",,http://dbpedia.org/resource/Ottumwa%2C_Iowa
 /lccn/sn84038412,Decatur daily Republican.,en,Hamsher & Mosser,"Decatur, Ill.",,http://dbpedia.org/resource/Decatur%2C_Illinois
 /lccn/sn84038413,Decatur weekly gazette.,en,James Shoaff,"Decatur, Ill.",,http://dbpedia.org/resource/Decatur%2C_Illinois
@@ -53863,7 +53863,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn85059894,The Charleston daily gazette.,en,Charleston Publ. Co.,"Charleston, W. Va.",,http://dbpedia.org/resource/Charleston%2C_West_Virginia
 /lccn/sn85059895,West Virginia herald.,en,West Virginia Herald Publ. Co.,"Charleston, W. Va.",,http://dbpedia.org/resource/Charleston%2C_West_Virginia
 /lccn/sn85059908,Huntington advertiser.,en,[publisher not identified],"Huntington, W. Va.",,
-/lccn/sn85060004,San Antonio light.,en,Light Pub. Co.,"San Antonio, Tex.",ca,http://dbpedia.org/resource/San_Antonio
+/lccn/sn85060004,San Antonio light.,en,Light Pub. Co.,"San Antonio, Tex.",ca;ca-new,http://dbpedia.org/resource/San_Antonio
 /lccn/sn85060323,Western Jewish world.,en;yi,M. Weitz,"Denver, Colo.",,http://dbpedia.org/resource/Denver
 /lccn/sn85060338,The Herald.,en,J.G. Bennett,New York,,http://dbpedia.org/resource/New_York_City
 /lccn/sn85060339,Morning herald.,en,J.G. Bennett,New York,,http://dbpedia.org/resource/New_York_City
@@ -66388,7 +66388,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86089713,Delta irrigation news.,en,Lower Rio Grande Valley Water Users' Association,"McAllen, Tex.",,http://dbpedia.org/resource/McAllen%2C_Texas
 /lccn/sn86089714,Gravity irrigation news.,en,Lower Rio Grande Valley Water Users' Association,"McAllen, Tex.",,http://dbpedia.org/resource/McAllen%2C_Texas
 /lccn/sn86089715,Lower Rio Grande Valley news.,en,Lower Rio Grande Valley Water Users' Association,"McAllen, Tex.",,http://dbpedia.org/resource/McAllen%2C_Texas
-/lccn/sn86089716,McAllen daily press.,en,C.C. McDaniel,"McAllen, Tex.",,http://dbpedia.org/resource/McAllen%2C_Texas
+/lccn/sn86089716,McAllen daily press.,en,C.C. McDaniel,"McAllen, Tex.",ca-new,http://dbpedia.org/resource/McAllen%2C_Texas
 /lccn/sn86089717,The Meridian tribune.,en,Dunlap Print. Co.,"Meridian, Tex.",,http://dbpedia.org/resource/Meridian%2C_Texas
 /lccn/sn86089718,The Marshall meridian and Pacific railroad advocate.,en,Herbert Helby,"Marshall, Tex.",,http://dbpedia.org/resource/Marshall%2C_Texas
 /lccn/sn86089719,Ranchland post dispatch.,en,Texas American Pub. Co.,"Johnson City, Tex.",,http://dbpedia.org/resource/Johnson_City%2C_Texas
@@ -82561,7 +82561,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn88069115,Irvington herald.,en,Clinton Pub. Co.,"Irvington, N.J.",,http://dbpedia.org/resource/Irvington%2C_New_Jersey
 /lccn/sn88070487,La Verità = The Truth.,it;en,American & Italian Pub. Co.,"Philadelphia, Pa.",,http://dbpedia.org/resource/Philadelphia
 /lccn/sn88071000,The Black Hills daily pioneer.,en,A.W. Merrick,"Deadwood City, Black Hills [Dakota Territory, i.e. S.D.]",,http://dbpedia.org/resource/Deadwood%2C_South_Dakota
-/lccn/sn88071001,The Augusta courier.,en,Old Man Everybody,"Augusta, Ga.",,http://dbpedia.org/resource/Augusta%2C_Georgia
+/lccn/sn88071001,The Augusta courier.,en,Old Man Everybody,"Augusta, Ga.",ca-new,http://dbpedia.org/resource/Augusta%2C_Georgia
 /lccn/sn88071002,Albuquerque evening review.,en,W.H. Bailhache & Co.,"Albuquerque, N.M.",,http://dbpedia.org/resource/Albuquerque%2C_New_Mexico
 /lccn/sn88071003,The Daily targum.,en,Targum Association of Rutgers College,"New Brunswick, N.J.",,http://dbpedia.org/resource/New_Brunswick%2C_New_Jersey
 /lccn/sn88071004,The Louisiana populist.,en,Natchitoches Pub. Co.,"Natchitoches, Natchitoches Parish, La.",acdc;ca,http://dbpedia.org/resource/Natchitoches%2C_Louisiana
@@ -118321,7 +118321,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn92067015,The news-journal.,en,News-journal Co.,"Newcastle, Weston County, Wyo.",,http://dbpedia.org/resource/Newcastle%2C_Wyoming
 /lccn/sn92067016,The news letter.,en,Newcastle Pub. Co.,"Newcastle, Weston County, Wyo.",,http://dbpedia.org/resource/Newcastle%2C_Wyoming
 /lccn/sn92067017,"The News letter, the news journal.",en,O.G. and S.J. Frazine,"Newcastle, Wyo.",,http://dbpedia.org/resource/Newcastle%2C_Wyoming
-/lccn/sn92067018,The Lusk herald.,en,Lusk Herald Co.,"Lusk, Wyo.",,http://dbpedia.org/resource/Lusk%2C_Wyoming
+/lccn/sn92067018,The Lusk herald.,en,Lusk Herald Co.,"Lusk, Wyo.",ca-new,http://dbpedia.org/resource/Lusk%2C_Wyoming
 /lccn/sn92067019,The Weston County Democrat.,en,C.T. Martin,"Newcastle, Weston County, Wyo.",,http://dbpedia.org/resource/Newcastle%2C_Wyoming
 /lccn/sn92067020,Wyoming freeman.,en,E.E. Hoffer,"Sundance, Wyo.",,http://dbpedia.org/resource/Sundance%2C_Wyoming
 /lccn/sn92067021,The Jireh record.,en,Forsythe & House,"Jireh, Wyo.",,http://dbpedia.org/resource/Lusk%2C_Wyoming
@@ -118337,8 +118337,8 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn92067031,The Lusk herald.,en,J.K. Calkins & Co.,"Lusk, Wyo. Territory [i.e. Wyo.]",ca-new,http://dbpedia.org/resource/Lusk%2C_Wyoming
 /lccn/sn92067032,Sun country review.,en,Northern Wyoming Daily News,"Worland, Wyo.",,http://dbpedia.org/resource/Worland%2C_Wyoming
 /lccn/sn92067033,Newcastle news letter journal.,en,J.R. Parrish,"Newcastle, Weston County, Wyo.",,http://dbpedia.org/resource/Newcastle%2C_Wyoming
-/lccn/sn92067034,The Lusk herald and the Lusk standard.,en,Lusk Herald Co.,"Lusk, Wyo.",,http://dbpedia.org/resource/Lusk%2C_Wyoming
-/lccn/sn92067035,The Lusk herald-standard.,en,Lusk Herald Co.,"Lusk, Wyo.",,http://dbpedia.org/resource/Lusk%2C_Wyoming
+/lccn/sn92067034,The Lusk herald and the Lusk standard.,en,Lusk Herald Co.,"Lusk, Wyo.",ca-new,http://dbpedia.org/resource/Lusk%2C_Wyoming
+/lccn/sn92067035,The Lusk herald-standard.,en,Lusk Herald Co.,"Lusk, Wyo.",ca-new,http://dbpedia.org/resource/Lusk%2C_Wyoming
 /lccn/sn92067036,The Harrison sun.,en,W.H. Ketcham,"Harrison, Neb.",,http://dbpedia.org/resource/Harrison%2C_Nebraska
 /lccn/sn92067037,The Harrison sun and Sioux County news.,en,"Gerald Bardo, James B. Griffith, Jr.","Harrison, Neb.",,http://dbpedia.org/resource/Harrison%2C_Nebraska
 /lccn/sn92067038,The Harrison sun.,en,"Gerald Bardo, James B. Griffith, Jr.","Harrison, Neb.",,http://dbpedia.org/resource/Harrison%2C_Nebraska
@@ -118394,7 +118394,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn92067091,Dubois frontier.,en,Wyoming State Journal,"Dubois, Wyo.",,http://dbpedia.org/resource/Dubois%2C_Wyoming
 /lccn/sn92067092,The Wind River mountaineer and the Dubois frontier-courier.,en,A.F. Duntsch and H.D. Phelps,"Dubois, Fremont County, Wyo.",,http://dbpedia.org/resource/Dubois%2C_Wyoming
 /lccn/sn92067093,The Dubois frontier and the Dubois courier.,en,A.F. Duntsch,"Dubois, Fremont County, Wyo.",,http://dbpedia.org/resource/Dubois%2C_Wyoming
-/lccn/sn92067094,Lander evening post.,en,W.J. Hines,"Lander, Wyo.",,http://dbpedia.org/resource/Lander%2C_Wyoming
+/lccn/sn92067094,Lander evening post.,en,W.J. Hines,"Lander, Wyo.",ca-new,http://dbpedia.org/resource/Lander%2C_Wyoming
 /lccn/sn92067095,The Buffalo news.,en,E.G. Miller,"Buffalo, Wyo.",,http://dbpedia.org/resource/Buffalo%2C_Wyoming
 /lccn/sn92067096,The Buffalo voice.,en,A.B. Taylor,"Buffalo, Johnson County [Wyo.]",acdc;ca,http://dbpedia.org/resource/Buffalo%2C_Wyoming
 /lccn/sn92067097,The Buffalo echo.,en,Echo Pub. Co.,"Buffalo, Johnson County, Wyo.",acdc;ca,http://dbpedia.org/resource/Buffalo%2C_Wyoming
@@ -118407,10 +118407,10 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn92067104,Riverton Republican.,en,Chenery & Weeks,"Riverton, Wyo.",,http://dbpedia.org/resource/Riverton%2C_Wyoming
 /lccn/sn92067105,The Riverton review.,en,"A.N. Duntsch, H.C. Duntsch","Riverton, Fremont County, Wyo.",,http://dbpedia.org/resource/Riverton%2C_Wyoming
 /lccn/sn92067106,The Buffalo bulletin.,en,De Barthe & Lingle,"Buffalo, Johnson County, Wyo.",acdc;ca,http://dbpedia.org/resource/Buffalo%2C_Wyoming
-/lccn/sn92067107,The Fremont clipper.,en,[Clipper Pub. Co.],"Lander, Fremont County, Wyo.",,http://dbpedia.org/resource/Lander%2C_Wyoming
-/lccn/sn92067108,The clipper.,en,Clipper Pub. Co.,"Lander, Fremont County, Wyo.",,http://dbpedia.org/resource/Lander%2C_Wyoming
+/lccn/sn92067107,The Fremont clipper.,en,[Clipper Pub. Co.],"Lander, Fremont County, Wyo.",ca-new,http://dbpedia.org/resource/Lander%2C_Wyoming
+/lccn/sn92067108,The clipper.,en,Clipper Pub. Co.,"Lander, Fremont County, Wyo.",ca-new,http://dbpedia.org/resource/Lander%2C_Wyoming
 /lccn/sn92067109,The Shoshoni capital-gazette.,en,[s.n.],"Shoshoni, Wyo.",,http://dbpedia.org/resource/Shoshoni%2C_Wyoming
-/lccn/sn92067110,The Shoshoni capital.,en,Capital Print. Co.,"Shoshoni, Wyo.",,http://dbpedia.org/resource/Shoshoni%2C_Wyoming
+/lccn/sn92067110,The Shoshoni capital.,en,Capital Print. Co.,"Shoshoni, Wyo.",ca-new,http://dbpedia.org/resource/Shoshoni%2C_Wyoming
 /lccn/sn92067111,The Shoshoni enterprise.,en,W.H.J. Bowey,"Shoshoni, Wyo.",,http://dbpedia.org/resource/Shoshoni%2C_Wyoming
 /lccn/sn92067112,The Lost Spring times.,en,H.C. Buffington,"Lost Spring, Wyo.",,http://dbpedia.org/resource/Lost_Springs%2C_Wyoming
 /lccn/sn92067114,The Riverton times.,en,R. Peck and R.A. Peck,"Riverton, Fremont County, Wyo.",,http://dbpedia.org/resource/Riverton%2C_Wyoming
