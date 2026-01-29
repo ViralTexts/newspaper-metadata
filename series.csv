@@ -8159,7 +8159,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/48039726,France-Amérique.,fr,France-Amérique Corp.,"New York, N.Y.",,http://dbpedia.org/resource/New_York_City
 /lccn/49014062,The broom.,en,C. Leon de Aryan,"San Diego, Calif.",,http://dbpedia.org/resource/San_Diego
 /lccn/54022729,Vassar chronicle.,en,Vassar College,"Poughkeepsie, N.Y.",,
-/lccn/56022775,Trainman news.,en,Brotherhood of Railroad Trainmen,"Indianapolis, Ind.",,http://dbpedia.org/resource/Indianapolis
+/lccn/56022775,Trainman news.,en,Brotherhood of Railroad Trainmen,"Indianapolis, Ind.",ca-new,http://dbpedia.org/resource/Indianapolis
 /lccn/56049861,The rail splitter.,en,"[Dory, Spring & Co.]",Cincinnati [Ohio],,http://dbpedia.org/resource/Cincinnati
 /lccn/56053851,The Columbian star.,en,Anderson & Meehan,Washington City,,http://dbpedia.org/resource/Washington%2C_D.C.
 /lccn/57051065,The Jesuit or Catholic sentinel.,en,H.L. Devereux,Boston,aps;ia,http://dbpedia.org/resource/Boston
@@ -8259,7 +8259,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/97067531,Montpelier advertiser.,en,Montpelier Advertiser,"Montpelier, Vt.",,http://dbpedia.org/resource/Montpelier%2C_Vermont
 /lccn/97067532,Lamoille County weekly.,en,Duncan C. Stephens,"Johnson, Vt.",,
 /lccn/97071085,The Medford mail,en,Thos. Harlan,"Medford, Or.",,http://dbpedia.org/resource/Medford%2C_Oregon
-/lccn/97071090,Medford mail tribune.,en,"","Medford, Or.",ca,http://dbpedia.org/resource/Medford%2C_Oregon
+/lccn/97071090,Medford mail tribune.,en,"","Medford, Or.",ca;oregonnews,http://dbpedia.org/resource/Medford%2C_Oregon
 /lccn/97071091,Medford mail tribune.,en,Medford Mail Tribune,"Medford, Or.",,http://dbpedia.org/resource/Medford%2C_Oregon
 /lccn/98062569,African American news and world report.,en,C.E. Pugh,"Baltimore, Md.",,http://dbpedia.org/resource/Baltimore
 /lccn/98069020,The Spearfish Queen City mail.,en,Bill Kunerth and Allen M. Hermann,"Spearfish, Lawrence County, S.D.",,http://dbpedia.org/resource/Spearfish%2C_South_Dakota
@@ -14986,7 +14986,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn78004217,Twin Cities courier.,en,Twin Cities Courier,"Minneapolis, Minn.",,http://dbpedia.org/resource/Minneapolis
 /lccn/sn78004238,Western mining news.,en,Western Mining News,"Spokane, Wash.",,http://dbpedia.org/resource/Spokane%2C_Washington
 /lccn/sn78004289,The true Latter-day Saints' herald.,en,Church of Jesus Christ of Latter Day Saints,"Plano, Ill.",,http://dbpedia.org/resource/Plano%2C_Illinois
-/lccn/sn78004456,The New York times.,en,[H.J. Raymond & Co.],New-York [N.Y.],ia;txdn,http://dbpedia.org/resource/New_York_City
+/lccn/sn78004456,The New York times.,en,[H.J. Raymond & Co.],New-York [N.Y.],ca-new;ia;txdn,http://dbpedia.org/resource/New_York_City
 /lccn/sn78004468,The American Jewish world.,en,Jewish World Pub. Co.,Minneapolis ;,ca,http://dbpedia.org/resource/Minneapolis
 /lccn/sn78004517,The Bugle.,en,Subdued Publications,"Milwaukee, Wis.",,http://dbpedia.org/resource/Milwaukee
 /lccn/sn78004621,The advocate.,en,John O'Connor,"New York, N.Y.",,http://dbpedia.org/resource/New_York_City
@@ -17504,9 +17504,9 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn82016125,Instructer.,en,James M. Lilly,"Paris, Ky.",,http://dbpedia.org/resource/Paris%2C_Kentucky
 /lccn/sn82016128,Political theatre.,en,M. & J. Norvell,"Lancaster, Ky.",,http://dbpedia.org/resource/Lancaster%2C_Kentucky
 /lccn/sn82016130,Republican auxiliary.,en,R. Richardson,"Washington, Ky.",,http://dbpedia.org/resource/Washington%2C_Kentucky
-/lccn/sn82016133,The Connecticut courant.,en,Printed by Watson and Goodwin,"Hartford, Conn.",,http://dbpedia.org/resource/Hartford%2C_Connecticut
+/lccn/sn82016133,The Connecticut courant.,en,Printed by Watson and Goodwin,"Hartford, Conn.",ca-new,http://dbpedia.org/resource/Hartford%2C_Connecticut
 /lccn/sn82016135,People's world.,en,World Pub. Co.,"San Francisco, Calif.",,http://dbpedia.org/resource/San_Francisco
-/lccn/sn82016139,The Connecticut courant and Hartford weekly intelligencer.,en,Ebenezer Watson,"Hartford, Conn.",,http://dbpedia.org/resource/Hartford%2C_Connecticut
+/lccn/sn82016139,The Connecticut courant and Hartford weekly intelligencer.,en,Ebenezer Watson,"Hartford, Conn.",ca-new,http://dbpedia.org/resource/Hartford%2C_Connecticut
 /lccn/sn82016140,New Haven journal-courier.,en,Carrington Pub. Co.,"New Haven, Conn.",,http://dbpedia.org/resource/New_Haven%2C_Connecticut
 /lccn/sn82016146,The Florida evangelist.,en,Rev. J. Milton Waldron,"Jacksonville, Fla.",ca;txdn,http://dbpedia.org/resource/Jacksonville%2C_Florida
 /lccn/sn82016148,El mundo.,es,"","Miami Beach, Fla.",,http://dbpedia.org/resource/Miami_Beach%2C_Florida
@@ -17664,7 +17664,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn82016373,The Sunday herald and weekly national intelligencer.,en,T.B. Kalbfus,Washington [D.C.],acdc;ca,http://dbpedia.org/resource/Washington%2C_D.C.
 /lccn/sn82016374,The Sun.,en,Learned & Pinkney,"Washington, D.C.",,http://dbpedia.org/resource/Washington%2C_D.C.
 /lccn/sn82016375,Union Democrat.,en,A. Kendall,"Washington, D.C.",,http://dbpedia.org/resource/Washington%2C_D.C.
-/lccn/sn82016376,The Connecticut courant.,en,T. Green,"Hartford, Conn.",,http://dbpedia.org/resource/Hartford%2C_Connecticut
+/lccn/sn82016376,The Connecticut courant.,en,T. Green,"Hartford, Conn.",ca-new,http://dbpedia.org/resource/Hartford%2C_Connecticut
 /lccn/sn82016377,New-England Republican.,en,Printed by Gray & Steele,"Danbury, Conn.",,http://dbpedia.org/resource/Danbury%2C_Connecticut
 /lccn/sn82016378,Windham herald.,en,Printed by J. Byrne,Windham [Conn.],,http://dbpedia.org/resource/Windham%2C_Connecticut
 /lccn/sn82016379,"The Phenix, or, Windham herald.",en,Printed by J. Byrne,Windham [Conn.],,http://dbpedia.org/resource/Windham%2C_Connecticut
@@ -19168,7 +19168,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83016740,Minnesota leader.,en,National Nonpartisan League in Minnesota,"Saint Paul, Minn.",,http://dbpedia.org/resource/Saint_Paul%2C_Minnesota
 /lccn/sn83016741,The Detroit daily press.,en,[M.G. Dwerkin],"Detroit, Mich.",,http://dbpedia.org/resource/Detroit
 /lccn/sn83016742,Denver Rocky Mountain news.,en,[Denver Pub. Co.,"Denver, Colo.",,http://dbpedia.org/resource/Denver
-/lccn/sn83016743,Rocky Mountain news.,en,Rocky Mountain News Print. Co.,"Denver, Colo.",gale-us,http://dbpedia.org/resource/Denver
+/lccn/sn83016743,Rocky Mountain news.,en,Rocky Mountain News Print. Co.,"Denver, Colo.",ca-new;gale-us,http://dbpedia.org/resource/Denver
 /lccn/sn83016744,The daily pioneer and Democrat.,en,[publisher not identified],"Saint Paul, Minn. Territory",,http://dbpedia.org/resource/Saint_Paul%2C_Minnesota
 /lccn/sn83016745,The Pioneer and Democrat.,en,Pioneer Print Co.,"Saint Paul, Minn.",,http://dbpedia.org/resource/Saint_Paul%2C_Minnesota
 /lccn/sn83016746,The Saint Paul pioneer.,en,Pioneer Print. Co.,Saint Paul [Minn.],,http://dbpedia.org/resource/Saint_Paul%2C_Minnesota
@@ -19848,7 +19848,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83020449,"The Essex journal and Merrimack packet, or, The Massachusetts and New-Hampshire general advertiser.",en,I. Thomas and H.-W. Tinges,"Newbury-port, Mass.",,http://dbpedia.org/resource/Newburyport%2C_Massachusetts
 /lccn/sn83020450,"The Essex journal, or, The Massachusetts and New-Hampshire general advertiser, &c.",en,E. Lunt & H.W. Tinges,"Newbury-port, Mass.",,http://dbpedia.org/resource/Newburyport%2C_Massachusetts
 /lccn/sn83020451,"The Essex journal, or, New-Hampshire packet.",en,J. Mycall and H.W. Tinges,Newbury-port [Mass.],,http://dbpedia.org/resource/Newburyport%2C_Massachusetts
-/lccn/sn83020452,"The Essex journal, and New-Hampshire packet.",en,J. Mycall and H.-W. Tinges,Newbury-port [Mass.],,http://dbpedia.org/resource/Newburyport%2C_Massachusetts
+/lccn/sn83020452,"The Essex journal, and New-Hampshire packet.",en,J. Mycall and H.-W. Tinges,Newbury-port [Mass.],ca-new,http://dbpedia.org/resource/Newburyport%2C_Massachusetts
 /lccn/sn83020453,"The Essex journal, or, The New-Hampshire packet, and the weekly advertiser.",en,J. Mycall,Newbury-port [Mass.],,http://dbpedia.org/resource/Newburyport%2C_Massachusetts
 /lccn/sn83020454,The Essex journal.,en,J. Mycall,Newbury-port [Mass.],,http://dbpedia.org/resource/Newburyport%2C_Massachusetts
 /lccn/sn83020455,The Essex journal and the Massachusetts and New-Hampshire general advertiser.,en,J. Mycall,"Newbury-port, Mass.",,http://dbpedia.org/resource/Newburyport%2C_Massachusetts
@@ -19878,7 +19878,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83020479,The Easthampton leader.,en,H. DeBill,"Easthampton, Mass.",,http://dbpedia.org/resource/Easthampton%2C_Massachusetts
 /lccn/sn83020480,The Essex gazette.,en,S. Hall,Salem [Mass.],,http://dbpedia.org/resource/Salem%2C_Massachusetts
 /lccn/sn83020481,"The New-England chronicle, or, the Essex gazette.",en,S. & E. Hall,Cambridge [Mass.],,http://dbpedia.org/resource/Cambridge%2C_Massachusetts
-/lccn/sn83020482,The New-England chronicle.,en,S. Hall,Boston [Mass.],,http://dbpedia.org/resource/Boston
+/lccn/sn83020482,The New-England chronicle.,en,S. Hall,Boston [Mass.],ca-new,http://dbpedia.org/resource/Boston
 /lccn/sn83020483,The independent chronicle.,en,Powars & Willis,Boston [Mass.],,http://dbpedia.org/resource/Boston
 /lccn/sn83020484,The Independent chronicle and the universal advertiser.,en,Powars & Willis,"Boston, Mass.",,http://dbpedia.org/resource/Boston
 /lccn/sn83020485,The independent chronicle.,en,Adams & Rhoades,Boston [Mass.],,http://dbpedia.org/resource/Boston
@@ -19890,7 +19890,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83020491,The Norfolk repository.,en,Herman Mann,"Dedham, Mass.",,http://dbpedia.org/resource/Dedham%2C_Massachusetts
 /lccn/sn83020492,Dedham gazette.,en,Samuel Hall,"Dedham, Mass.",,http://dbpedia.org/resource/Dedham%2C_Massachusetts
 /lccn/sn83020493,"The Salem Mercury: political, commercial, and moral.",en,Dabney & Cushing,Salem [Mass.],,http://dbpedia.org/resource/Salem%2C_Massachusetts
-/lccn/sn83020494,"The American gazette, or, the Constitutional journal.",en,John Rogers,"Salem, Mass.",,http://dbpedia.org/resource/Salem%2C_Massachusetts
+/lccn/sn83020494,"The American gazette, or, the Constitutional journal.",en,John Rogers,"Salem, Mass.",ca-new,http://dbpedia.org/resource/Salem%2C_Massachusetts
 /lccn/sn83020495,The Salem Mercury.,en,Dabney & Cushing,Salem [Mass.],,http://dbpedia.org/resource/Salem%2C_Massachusetts
 /lccn/sn83020496,The Salem chronicle and Essex advertiser.,en,"",Salem [Mass.],,http://dbpedia.org/resource/Salem%2C_Massachusetts
 /lccn/sn83020497,The friend.,en,S.C. Blyth [i.e. S.C. Blydon] & Haven Pool,"Salem, Mass.",,http://dbpedia.org/resource/Salem%2C_Massachusetts
@@ -20255,7 +20255,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83020863,Bunker-Hill sentinel and Middlesex Republican.,en,George Clark & Co.,"Charlestown [Boston], Mass.",,http://dbpedia.org/resource/Boston
 /lccn/sn83020864,"Wrentham recorder, and county register.",en,J.M. Stewart,"Wrentham, Mass.",,http://dbpedia.org/resource/Wrentham%2C_Massachusetts
 /lccn/sn83020865,The Reporter.,en,W.A. Wallace,"Canaan, N.H.",,http://dbpedia.org/resource/Canaan%2C_New_Hampshire
-/lccn/sn83020866,Cherokee phoenix.,en;chr,Isaac H. Harris,New Echota [Ga.],ca;gale-us,http://dbpedia.org/resource/New_Echota
+/lccn/sn83020866,Cherokee phoenix.,en;chr,Isaac H. Harris,New Echota [Ga.],ca;ca-new;gale-us,http://dbpedia.org/resource/New_Echota
 /lccn/sn83020867,Quincy Aurora.,en,[C. Clapp],"Quincy, Mass.",,http://dbpedia.org/resource/Quincy%2C_Massachusetts
 /lccn/sn83020868,Morning chronicle.,en,Leavitt & Alden,"Boston, Mass.",,http://dbpedia.org/resource/Boston
 /lccn/sn83020869,The evening chronicle.,en,French & Flinn,"[Boston, Mass.]",,http://dbpedia.org/resource/Boston
@@ -20263,7 +20263,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83020871,The Columbian detector.,en,[s.n.],"Boston, Mass.",,http://dbpedia.org/resource/Boston
 /lccn/sn83020872,The commentator.,en,Francis Ingraham,Boston [Mass.],,http://dbpedia.org/resource/Boston
 /lccn/sn83020873,"The Commentator, and Sunday times.",en,Frederic S. Hill,"Boston, Mass.",,http://dbpedia.org/resource/Boston
-/lccn/sn83020874,"Cherokee phoenix, and Indians' advocate.",chr;en,Cherokee Nation,New Echota [Ga.],ca;gale-us,http://dbpedia.org/resource/New_Echota
+/lccn/sn83020874,"Cherokee phoenix, and Indians' advocate.",chr;en,Cherokee Nation,New Echota [Ga.],ca;ca-new;gale-us,http://dbpedia.org/resource/New_Echota
 /lccn/sn83020875,American intelligencer.,en,Richard Davison,"West Springfield, Mass.",,http://dbpedia.org/resource/West_Springfield%2C_Massachusetts
 /lccn/sn83020876,Watch light.,en,Eldad Lewis,"Lenox, Mass.",,http://dbpedia.org/resource/Lenox%2C_Massachusetts
 /lccn/sn83020877,Farmer's register.,en,Theodore and A.H. Leonard,"Conway, Mass.",,http://dbpedia.org/resource/Conway%2C_Massachusetts
@@ -20510,10 +20510,10 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83021123,The Poughkeepsie journal.,en,Printed by Nicholas Power,"Poughkeepsie, Dutchess County [N.Y.]",,
 /lccn/sn83021124,"The Poughkeepsie journal, and constitutional Republican.",en,Printed by Nicholas Power and Co.,Poughkeepsie [N.Y.],,
 /lccn/sn83021125,"The Pennsylvania packet, and the general advertiser.",en,J. Dunlap,"Philadelphia, Pa.",,http://dbpedia.org/resource/Philadelphia
-/lccn/sn83021126,"Dunlap's Pennsylvania packet, or, The general advertiser.",en,J. Dunlap,"Philadelphia, Pa.",,http://dbpedia.org/resource/Philadelphia
-/lccn/sn83021127,"The Pennsylvania packet, or, The general advertiser.",en,J. Dunlap,"Lancaster, Pa.",,http://dbpedia.org/resource/Lancaster%2C_Pennsylvania
+/lccn/sn83021126,"Dunlap's Pennsylvania packet, or, The general advertiser.",en,J. Dunlap,"Philadelphia, Pa.",ca-new,http://dbpedia.org/resource/Philadelphia
+/lccn/sn83021127,"The Pennsylvania packet, or, The general advertiser.",en,J. Dunlap,"Lancaster, Pa.",ca-new,http://dbpedia.org/resource/Lancaster%2C_Pennsylvania
 /lccn/sn83021128,"The Pennsylvania packet, and general advertiser.",en,D.C. Claypoole,"Philadelphia, Pa.",,http://dbpedia.org/resource/Philadelphia
-/lccn/sn83021129,"The Pennsylvania packet, and daily advertiser.",en,J. Dunlap and D.C. Claypoole,"Philadelphia, Pa.",,http://dbpedia.org/resource/Philadelphia
+/lccn/sn83021129,"The Pennsylvania packet, and daily advertiser.",en,J. Dunlap and D.C. Claypoole,"Philadelphia, Pa.",ca-new,http://dbpedia.org/resource/Philadelphia
 /lccn/sn83021130,American cabinet and Boston athenaeum.,en,H. Mason & Co.,Boston [Mass.],,http://dbpedia.org/resource/Boston
 /lccn/sn83021131,American signal.,en,J.E. Farwell & Co.,Boston [Mass.],,http://dbpedia.org/resource/Boston
 /lccn/sn83021132,American signal.,en,"John E. Whitney, J.W. Monroe, George H. Moore",Boston [Mass.],,http://dbpedia.org/resource/Boston
@@ -20570,7 +20570,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83021191,Lynchburg daily Republican.,en,"Betts, Hardwicke & Foster","Lynchburg, Va.",,http://dbpedia.org/resource/Lynchburg%2C_Virginia
 /lccn/sn83021192,Independent chronicle & Boston patriot.,en,Ballard & Wright,Boston [Mass.],,http://dbpedia.org/resource/Boston
 /lccn/sn83021193,The Massachusetts spy.,en,"Zechariah Fowle, Isaiah Thomas",Boston [Mass.],ca,http://dbpedia.org/resource/Boston
-/lccn/sn83021194,"The Massachusetts spy, or, Thomas's Boston journal.",en,Isaiah Thomas,Boston [Mass.],ca,http://dbpedia.org/resource/Boston
+/lccn/sn83021194,"The Massachusetts spy, or, Thomas's Boston journal.",en,Isaiah Thomas,Boston [Mass.],ca;ca-new,http://dbpedia.org/resource/Boston
 /lccn/sn83021195,"The Massachusetts spy, or, American oracle of liberty.",en,I. Thomas,"Worcester, Mass.",,http://dbpedia.org/resource/Worcester%2C_Massachusetts
 /lccn/sn83021196,"Thomas's Massachusetts spy, or, American oracle of liberty.",en,[I. Thomas],"Worcester, Mass.",,http://dbpedia.org/resource/Worcester%2C_Massachusetts
 /lccn/sn83021197,"Thomas's Massachusetts spy, or, the Worcester gazette.",en,I. Thomas,"Worcester, Mass.",,http://dbpedia.org/resource/Worcester%2C_Massachusetts
@@ -20666,7 +20666,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83021288,"The Boston gazette, or, New England weekly journal.",en,Printed by S. Kneeland and T. Green,Boston [Mass.],,http://dbpedia.org/resource/Boston
 /lccn/sn83021289,"The Boston gazette, or, Weekly journal.",en,S. Kneeland and T. Green,Boston [Mass.],,http://dbpedia.org/resource/Boston
 /lccn/sn83021290,"The Boston gazette, or, Weekly advertiser.",en,S. Kneeland,Boston [Mass.],,http://dbpedia.org/resource/Boston
-/lccn/sn83021292,"The Boston gazette, or, Country journal.",en,B. Edes and J. Gill,Boston [Mass.],,http://dbpedia.org/resource/Boston
+/lccn/sn83021292,"The Boston gazette, or, Country journal.",en,B. Edes and J. Gill,Boston [Mass.],ca-new,http://dbpedia.org/resource/Boston
 /lccn/sn83021293,"The Boston gazette, and weekly Republican journal.",en,B. Edes,Boston [Mass.],,http://dbpedia.org/resource/Boston
 /lccn/sn83021294,The Free Soil Republican.,en,[publisher not identified],"Hallowell, Me.",,http://dbpedia.org/resource/Hallowell%2C_Maine
 /lccn/sn83021295,Massachusetts weekly spy.,en,Foss & Farnum,Worcester [Mass.],ca,http://dbpedia.org/resource/Worcester%2C_Massachusetts
@@ -20741,7 +20741,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83021370,The Denton review.,en,J.P. Bates,"Denton, Tex.",,http://dbpedia.org/resource/Denton%2C_Texas
 /lccn/sn83021371,The Ellis County news.,en,A.D. Rust,"Ennis, Tex.",,http://dbpedia.org/resource/Ennis%2C_Texas
 /lccn/sn83021372,Ennis Saturday review.,en,S.M. Carleton,"Ennis, Tex.",,http://dbpedia.org/resource/Ennis%2C_Texas
-/lccn/sn83021373,The Fort Worth Democrat.,en,W.H. Graves,"Fort Worth, Tex.",,http://dbpedia.org/resource/Fort_Worth%2C_Texas
+/lccn/sn83021373,The Fort Worth Democrat.,en,W.H. Graves,"Fort Worth, Tex.",txdn,http://dbpedia.org/resource/Fort_Worth%2C_Texas
 /lccn/sn83021374,Fort Worth standard.,en,Millican & Saunders,"Fort Worth, Tex.",txdn,http://dbpedia.org/resource/Fort_Worth%2C_Texas
 /lccn/sn83021375,Workingmen's advocate.,en,John Dorr,"Belfast, Me.",,http://dbpedia.org/resource/Belfast%2C_Maine
 /lccn/sn83021376,Democrat and free press.,en,A. & E. Sprague,"Rockland, Me.",,http://dbpedia.org/resource/Rockland%2C_Maine
@@ -21429,7 +21429,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83025468,Washington Whig.,en,Peter Hay,"Bridgetown [i.e. Bridgeton], West New-Jersey",,http://dbpedia.org/resource/Bridgeton%2C_New_Jersey
 /lccn/sn83025469,East-Jersey republican.,en,Nathaniel L. Coombes,"Bridge-Town [i.e. Rahway], N.J.",,http://dbpedia.org/resource/Rahway%2C_New_Jersey
 /lccn/sn83025470,The Sentinel of freedom.,en,"D. Dodge, [etc.]","Newark, N.J.",,
-/lccn/sn83025471,The New-Jersey gazette.,en,Printed by Issac Collins,Burlington [N.J.],,http://dbpedia.org/resource/Burlington%2C_New_Jersey
+/lccn/sn83025471,The New-Jersey gazette.,en,Printed by Issac Collins,Burlington [N.J.],ca-new,http://dbpedia.org/resource/Burlington%2C_New_Jersey
 /lccn/sn83025472,Nachrichten aus Schleswig-Holstein.,de,H. Kaul,"Oak Park, Ill.",,http://dbpedia.org/resource/Boone%2C_Iowa
 /lccn/sn83025473,Dakota weekly union.,en,Geo. W. Kingsbury,"Yankton, Dakota Territory [S.D.]",gale-us,http://dbpedia.org/resource/Yankton%2C_South_Dakota
 /lccn/sn83025474,The Weekly Dakotian.,en,Dakotian Print. Co.,"Yancton, Dakota Territory [S.D.]",gale-us,http://dbpedia.org/resource/Yankton%2C_South_Dakota
@@ -21671,7 +21671,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83025727,The Jackson headlight.,en,"C.A. Leftwich, Joshua W. Lane, Rev. W.H. Daniel","Jackson, Tenn.",ca;txdn,http://dbpedia.org/resource/Jackson%2C_Tennessee
 /lccn/sn83025728,Maryville Republican.,en,"","Maryville, Tenn.",acdc;ca,http://dbpedia.org/resource/Maryville%2C_Tennessee
 /lccn/sn83025729,The Lexington standard.,en,R.C.O. Benjamin,"Lexington, Ky.",ca,http://dbpedia.org/resource/Lexington%2C_Kentucky
-/lccn/sn83025730,The Texas Republican.,en,F.J. Patillo,"Marshall, Tex.",acdc;ca,http://dbpedia.org/resource/Marshall%2C_Texas
+/lccn/sn83025730,The Texas Republican.,en,F.J. Patillo,"Marshall, Tex.",acdc;ca;txdn,http://dbpedia.org/resource/Marshall%2C_Texas
 /lccn/sn83025731,Der Texas Demokrat.,de,G.H. White,"Victoria, Tex.",,http://dbpedia.org/resource/Victoria%2C_Texas
 /lccn/sn83025732,Galveston weekly news.,en,"Cherry, Lewis & Co.","Galveston, Tex.",txdn,http://dbpedia.org/resource/Galveston%2C_Texas
 /lccn/sn83025733,The Dallas daily herald.,en,Jno. W. Swindells & Co.,"Dallas, Tex.",acdc;ca;txdn,http://dbpedia.org/resource/Dallas
@@ -21830,11 +21830,11 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83025891,St. Thomae tidende.,da;en,J. Englund,St. Thomas [V.I.],,
 /lccn/sn83025892,The Level of Europe and North America = Niveau de l'Europe & de l'Amérique septentrionalle.,fr;en,W.W. Woodward,Philadelphia [Pa.],,http://dbpedia.org/resource/Philadelphia
 /lccn/sn83025893,"The Pennsylvania chronicle, and universal advertiser.",en,William Goddard,"Philadelphia, Pa.",,http://dbpedia.org/resource/Philadelphia
-/lccn/sn83025894,The Pennsylvania evening post.,en,B. Towne,"Philadelphia, Pa.",,http://dbpedia.org/resource/Philadelphia
+/lccn/sn83025894,The Pennsylvania evening post.,en,B. Towne,"Philadelphia, Pa.",ca-new,http://dbpedia.org/resource/Philadelphia
 /lccn/sn83025895,The Saturday evening mail.,en,R.H. See,Philadelphia [Pa.],,http://dbpedia.org/resource/Philadelphia
 /lccn/sn83025896,"The Pennsylvania ledger, or, The Philadelphia market-day advertiser.",en,J. Humphreys,"Philadelphia, Pa.",,http://dbpedia.org/resource/Philadelphia
 /lccn/sn83025897,"The Pennsylvania ledger, or, The weekly advertiser.",en,J. Humphreys,"Philadelphia, Pa.",,http://dbpedia.org/resource/Philadelphia
-/lccn/sn83025898,"The Pennsylvania ledger, or, The Virginia, Maryland, Pennsylvania, & New-Jersey weekly advertiser.",en,J. Humphreys,"Philadelphia, Pa.",,http://dbpedia.org/resource/Philadelphia
+/lccn/sn83025898,"The Pennsylvania ledger, or, The Virginia, Maryland, Pennsylvania, & New-Jersey weekly advertiser.",en,J. Humphreys,"Philadelphia, Pa.",ca-new,http://dbpedia.org/resource/Philadelphia
 /lccn/sn83025899,"The Pennsylvania evening post, and daily advertiser.",en,B. Towne,"Philadelphia, Pa.",,http://dbpedia.org/resource/Philadelphia
 /lccn/sn83025900,"The Pennsylvania evening post, and public advertiser.",en,B. Towne,"[Philadelphia], Pa.",,
 /lccn/sn83025902,Porcupine's gazette and United States daily advertiser.,en,W. Cobbett,Philadelphia [Pa.],,http://dbpedia.org/resource/Philadelphia
@@ -22196,7 +22196,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83030132,Gazette extraordinary.,en,"Metcalf, Everett & Southworth",New York [N.Y.],,http://dbpedia.org/resource/New_York_City
 /lccn/sn83030133,New York weekly globe.,en,Casper C. Childs,New York [N.Y.],,http://dbpedia.org/resource/New_York_City
 /lccn/sn83030134,"Genius of temperance, philanthropist and people's advocate.",en,Wm. Goodell & P. Crandall,New York [N.Y.],,http://dbpedia.org/resource/Boston
-/lccn/sn83030135,"The New York packet, and the American advertiser.",en,S. Loudon,New York [N.Y.],,http://dbpedia.org/resource/Fishkill%2C_New_York
+/lccn/sn83030135,"The New York packet, and the American advertiser.",en,S. Loudon,New York [N.Y.],ca-new,http://dbpedia.org/resource/Fishkill%2C_New_York
 /lccn/sn83030136,Loudon's New-York packet.,en,S. Loudon,New York,,http://dbpedia.org/resource/New_York_City
 /lccn/sn83030137,The New-York packet.,en,S. Loudon,New York [N.Y.],ca-new,http://dbpedia.org/resource/New_York_City
 /lccn/sn83030138,American referee.,en,Exchange News and Pub. Co.,New York,,http://dbpedia.org/resource/New_York_City
@@ -22365,7 +22365,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83030310,New-York herald.,en,M. Burnham,New York,gale-us,http://dbpedia.org/resource/New_York_City
 /lccn/sn83030311,The herald.,en,James Gordon Bennett,New York [N.Y.],ca;gale-us,http://dbpedia.org/resource/New_York_City
 /lccn/sn83030312,Morning herald.,en,James Gordon Bennett,New York [N.Y.],acdc;ca;gale-us,http://dbpedia.org/resource/New_York_City
-/lccn/sn83030313,The New York herald.,en,James Gordon Bennett,New York [N.Y.],acdc;ca;gale-us;txdn,http://dbpedia.org/resource/New_York_City
+/lccn/sn83030313,The New York herald.,en,James Gordon Bennett,New York [N.Y.],acdc;ca;ca-new;gale-us;txdn,http://dbpedia.org/resource/New_York_City
 /lccn/sn83030314,The colored American.,en,Robert Sears,New York [N.Y.],,http://dbpedia.org/resource/New_York_City
 /lccn/sn83030315,Weekly advocate.,en,Robert Sears,New-York [N.Y.],,http://dbpedia.org/resource/New_York_City
 /lccn/sn83030316,Min qi ri bao = Chinese nationalist daily.,gan,Mun Hey Pub. Co.,New York [N.Y.],,http://dbpedia.org/resource/New_York_City
@@ -22536,7 +22536,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83030490,New-York gazette and general advertiser.,en,A. M'Lean,New-York [N.Y.],,http://dbpedia.org/resource/New_York_City
 /lccn/sn83030491,Inwood advocate.,en,Inwood Community Action,New York,,http://dbpedia.org/resource/New_York_City
 /lccn/sn83030492,The New-York mercury.,en,H. Gaine,New-York [N.Y.],,http://dbpedia.org/resource/New_York_City
-/lccn/sn83030493,"The New-York gazette, and the weekly Mercury.",en,H. Gaine,New-York [N.Y.],,http://dbpedia.org/resource/Newark%2C_New_Jersey
+/lccn/sn83030493,"The New-York gazette, and the weekly Mercury.",en,H. Gaine,New-York [N.Y.],ca-new,http://dbpedia.org/resource/Newark%2C_New_Jersey
 /lccn/sn83030494,The Instructor.,en,J. Parker and W. Weyman,New-York [N.Y.],aps;ia,http://dbpedia.org/resource/New_York_City
 /lccn/sn83030495,Dicksons' uptown weekly.,en,J. Dickson & Bro.,New York,,http://dbpedia.org/resource/New_York_City
 /lccn/sn83030496,New-York advance and Bronx borough record and Dicksons' uptown weekly.,en,Bedell Brothers,New York,,http://dbpedia.org/resource/New_York_City
@@ -23220,7 +23220,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83031190,The Kingston argus.,en,H.G. Crouch,"Kingston, N.Y.",,http://dbpedia.org/resource/Kingston%2C_New_York
 /lccn/sn83031191,The farmer's register.,en,N. Power and W. Copp,Kingston [N.Y.],,http://dbpedia.org/resource/Kingston%2C_New_York
 /lccn/sn83031192,Rising sun.,en,"",Kingston [N.Y.],,http://dbpedia.org/resource/Kingston%2C_New_York
-/lccn/sn83031193,Ulster County gazette.,en,Samuel Freer and Son,Kingston [N.Y.],,http://dbpedia.org/resource/Kingston%2C_New_York
+/lccn/sn83031193,Ulster County gazette.,en,Samuel Freer and Son,Kingston [N.Y.],ca-new,http://dbpedia.org/resource/Kingston%2C_New_York
 /lccn/sn83031194,Ulster gazette.,en,Samuel S. Freer,Kingston [N.Y.],,http://dbpedia.org/resource/Kingston%2C_New_York
 /lccn/sn83031195,The era.,en,An Association of Writers and Printers,"Brooklyn, N.Y.",,http://dbpedia.org/resource/Brooklyn
 /lccn/sn83031196,The Brooklyn era.,en,An Association of Printers and Writers,"Brooklyn, N.Y.",,http://dbpedia.org/resource/Brooklyn
@@ -26245,7 +26245,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83045163,The Raleigh Minerva.,en,William Boylan,"Raleigh, N.C.",digitalnc,http://dbpedia.org/resource/Raleigh%2C_North_Carolina
 /lccn/sn83045165,The morning call.,en,Allentown Call Pub. Co.,"Allentown, Pa.",,http://dbpedia.org/resource/Allentown%2C_Pennsylvania
 /lccn/sn83045166,Boston daily advertiser & patriot.,en,Nathan Hale,Boston [Mass.],,http://dbpedia.org/resource/Boston
-/lccn/sn83045167,Cleveland plain dealer.,en,Plain Dealer,Cleveland [Ohio],,http://dbpedia.org/resource/Cleveland
+/lccn/sn83045167,Cleveland plain dealer.,en,Plain Dealer,Cleveland [Ohio],ca-new,http://dbpedia.org/resource/Cleveland
 /lccn/sn83045168,The Charleston mercury.,en,H.L. Pinckney,"Charleston, S.C.",gale-us,http://dbpedia.org/resource/Charleston%2C_South_Carolina
 /lccn/sn83045169,Tri-weekly mercury.,en,Henry L. Pinckney,"Charleston, S.C.",,http://dbpedia.org/resource/Charleston%2C_South_Carolina
 /lccn/sn83045170,The Charleston Mercury.,en,H.L. Pinckney,"Charleston, S.C.",,http://dbpedia.org/resource/Charleston%2C_South_Carolina
@@ -26356,7 +26356,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83045282,L'Indépendant de Woonsocket.,fr,L.P. Clapin,"Woonsocket, R.I.",,http://dbpedia.org/resource/Woonsocket%2C_Rhode_Island
 /lccn/sn83045283,Gazette van Moline.,nl,Moline Gazette Pub. Co.,"Moline, Ill.",,http://dbpedia.org/resource/Moline%2C_Illinois
 /lccn/sn83045284,Lietuva.,lt,Lithuanian Pub. Co.,"Chicago, Ill.",ca,http://dbpedia.org/resource/Chicago
-/lccn/sn83045285,Louisville Anzeiger.,de;en,Doern & Scheeffer,"Louisville, Ky.",,http://dbpedia.org/resource/Louisville%2C_Kentucky
+/lccn/sn83045285,Louisville Anzeiger.,de;en,Doern & Scheeffer,"Louisville, Ky.",ca-new,http://dbpedia.org/resource/Louisville%2C_Kentucky
 /lccn/sn83045286,The Lorain journal and times-herald.,en,The Lorain Journal Co.,"Lorain, Ohio",,http://dbpedia.org/resource/Lorain%2C_Ohio
 /lccn/sn83045287,Loxias tou Sikagou = Chicago Loxias.,el,D.S. Eutaxias,"Chicago, Ill.",,http://dbpedia.org/resource/Chicago
 /lccn/sn83045288,Louisville Argus.,en;de,Glaubensbote Pub. Co.,Louisville [Ky.],,http://dbpedia.org/resource/Louisville%2C_Kentucky
@@ -26459,7 +26459,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn83045392,Saule = The Sun.,lt,W.D. Boczkowski,"Mahanoy City, Pa.",,http://dbpedia.org/resource/Mahanoy_City%2C_Pennsylvania
 /lccn/sn83045393,Los Angeles sentinel.,en,"L.H. Washington, Jr.","Los Angeles, Calif.",,http://dbpedia.org/resource/Los_Angeles
 /lccn/sn83045394,La prensa.,es,International Pub. Co.,"Los Angeles, Calif.",ca,http://dbpedia.org/resource/Los_Angeles
-/lccn/sn83045395,La prensa.,es,La Prensa,"San Antonio, Tex.",ca,http://dbpedia.org/resource/San_Antonio
+/lccn/sn83045395,La prensa.,es,La Prensa,"San Antonio, Tex.",ca;txdn,http://dbpedia.org/resource/San_Antonio
 /lccn/sn83045396,The Salt Lake tribune.,en,Tribune Pub. Co.,"Salt Lake City, Utah",ca,http://dbpedia.org/resource/Salt_Lake_City
 /lccn/sn83045397,Chicago journal of commerce and La Salle Street journal.,en,Journal of Commerce Pub. Co.,"Chicago, Ill.",,http://dbpedia.org/resource/Chicago
 /lccn/sn83045398,La revista de Taos.,en;es,José Montaner,"Taos, Nuevo México",ca,http://dbpedia.org/resource/Taos%2C_New_Mexico
@@ -28040,7 +28040,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn84020588,The union.,en,s.n.],Trenton [N.J.,,http://dbpedia.org/resource/Trenton%2C_New_Jersey
 /lccn/sn84020589,New Jersey courier.,en,George M. Joy,"Toms River, N.J.",,
 /lccn/sn84020590,The Wildwood leader tribune-journal.,en,Cape May County Leader Co.,"Wildwood, N.J.",,http://dbpedia.org/resource/Wildwood%2C_New_Jersey
-/lccn/sn84020591,The Constitutional courant.,en,Andrew Marvel,"Woodbridge, N.J.",,http://dbpedia.org/resource/Woodbridge_Township%2C_New_Jersey
+/lccn/sn84020591,The Constitutional courant.,en,Andrew Marvel,"Woodbridge, N.J.",ca-new,http://dbpedia.org/resource/Woodbridge_Township%2C_New_Jersey
 /lccn/sn84020592,Peninsular news and advertiser.,en,J.S. Prettyman,"Milford, Del.",,http://dbpedia.org/resource/Milford%2C_Delaware
 /lccn/sn84020593,"The Delaware register, or, Farmers', manufacturers' & mechanics' advocate.",en,A. & H. Wilson,"Wilmington, Del.",ca,http://dbpedia.org/resource/Wilmington%2C_Delaware
 /lccn/sn84020594,Wilmington daily commercial.,en,Jenkins & Atkinson,"Wilmington, Del.",acdc;ca,http://dbpedia.org/resource/Wilmington%2C_Delaware
@@ -28280,16 +28280,16 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn84022014,The Frontier echo.,en,R. Chandler,"Jacksboro, Tex.",txdn,http://dbpedia.org/resource/Jacksboro%2C_Texas
 /lccn/sn84022015,The Jasper news-boy.,en,Edward I. Kellie,"Jasper, Tex.",,http://dbpedia.org/resource/Jasper%2C_Texas
 /lccn/sn84022016,The Jasper weekly news-boy.,en,Carraway & Green,"Jasper, Tex.",txdn,http://dbpedia.org/resource/Jasper%2C_Texas
-/lccn/sn84022017,The daily jimplecute.,en,"Taylor, McCutcheon & Manly","Jefferson, Tex.",,http://dbpedia.org/resource/Jefferson%2C_Texas
+/lccn/sn84022017,The daily jimplecute.,en,"Taylor, McCutcheon & Manly","Jefferson, Tex.",txdn,http://dbpedia.org/resource/Jefferson%2C_Texas
 /lccn/sn84022018,East Texas daily leader.,en,W.Y. Leader,"Jefferson, Tex.",,http://dbpedia.org/resource/Jefferson%2C_Texas
-/lccn/sn84022019,Semiweekly jimplecute.,en,Taylor & Morgan,"Jefferson, Tex.",,http://dbpedia.org/resource/Jefferson%2C_Texas
+/lccn/sn84022019,Semiweekly jimplecute.,en,Taylor & Morgan,"Jefferson, Tex.",txdn,http://dbpedia.org/resource/Jefferson%2C_Texas
 /lccn/sn84022020,Weekly jimplecute.,en,Taylor & Morgan,"Jefferson, Tex.",,http://dbpedia.org/resource/Jefferson%2C_Texas
 /lccn/sn84022021,The Jefferson radical.,en,[C.T. Garland],"Jefferson, Tex.",txdn,http://dbpedia.org/resource/Jefferson%2C_Texas
 /lccn/sn84022022,The Weekly Jefferson times.,en,[publisher not identified],"Jefferson, Tex.",,http://dbpedia.org/resource/Jefferson%2C_Texas
 /lccn/sn84022023,Trans-continental iron age.,en,W.Y. Leader,"Jefferson, Tex.",,http://dbpedia.org/resource/Jefferson%2C_Texas
 /lccn/sn84022024,The Kaufman telegraph.,en,T.H. Strong & Co.,"Kaufman, Tex.",,http://dbpedia.org/resource/Jefferson%2C_Texas
 /lccn/sn84022025,The frontiersman.,en,Fels & Ward,"Kerrville, Tex.",,http://dbpedia.org/resource/Kerrville%2C_Texas
-/lccn/sn84022026,The Fayette County new era.,en,J.J. Gossler,"La Grange, Tex.",,http://dbpedia.org/resource/La_Grange%2C_Texas
+/lccn/sn84022026,The Fayette County new era.,en,J.J. Gossler,"La Grange, Tex.",txdn,http://dbpedia.org/resource/La_Grange%2C_Texas
 /lccn/sn84022027,The Fayette County record.,en,Gregory & Craft,"LaGrange, Tex.",txdn,http://dbpedia.org/resource/La_Grange%2C_Texas
 /lccn/sn84022028,The Lampasas dispatch.,en,W.T. Melton & C.A. Wooldridge,"Lampasas, Tex.",txdn,http://dbpedia.org/resource/Lampasas%2C_Texas
 /lccn/sn84022029,The Cass County sun.,en,Charles A. Kesseler,"Linden, Tex.",txdn,http://dbpedia.org/resource/Linden%2C_Texas
@@ -28355,7 +28355,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn84022094,South-east Texan.,en,[publisher not identified],"San Augustine, Tex.",,http://dbpedia.org/resource/San_Augustine%2C_Texas
 /lccn/sn84022095,San Luis advocate.,en,T. Robinson & Co.,San Luis [Tex.],txdn,http://dbpedia.org/resource/San_Luis_Pass_(Galveston_Island)
 /lccn/sn84022096,West Texas free press.,en,I.H. Julian,"San Marcos, Tex.",txdn,http://dbpedia.org/resource/San_Marcos%2C_Texas
-/lccn/sn84022097,The San Saba news.,en,Melton & Millican,"San Saba, Tex.",acdc;ca,http://dbpedia.org/resource/San_Saba%2C_Texas
+/lccn/sn84022097,The San Saba news.,en,Melton & Millican,"San Saba, Tex.",acdc;ca;txdn,http://dbpedia.org/resource/San_Saba%2C_Texas
 /lccn/sn84022098,Guadalupe times.,en,Wright & Son,"Seguin, Tex.",,http://dbpedia.org/resource/Seguin%2C_Texas
 /lccn/sn84022099,The Sherman courier.,en,T.J. Crooks & Co.,"Sherman, Tex.",,http://dbpedia.org/resource/Sherman%2C_Texas
 /lccn/sn84022100,Sherman patriot.,en,Patriot Print. Co.,"Sherman, Tex.",,http://dbpedia.org/resource/Sherman%2C_Texas
@@ -28367,7 +28367,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn84022106,The Tyler Democrat.,en,L.H. Beaird,"Tyler, Tex.",,http://dbpedia.org/resource/Tyler%2C_Texas
 /lccn/sn84022107,The National index.,en,B.W. Reilly,"Tyler, Tex.",,http://dbpedia.org/resource/Tyler%2C_Texas
 /lccn/sn84022108,The Victoria advocate.,en,S.A. White,"Victoria, Tex.",txdn,http://dbpedia.org/resource/Victoria%2C_Texas
-/lccn/sn84022109,The Waco daily examiner.,en,J.W. Downs,"Waco, Tex.",acdc;ca,http://dbpedia.org/resource/Waco%2C_Texas
+/lccn/sn84022109,The Waco daily examiner.,en,J.W. Downs,"Waco, Tex.",acdc;ca;txdn,http://dbpedia.org/resource/Waco%2C_Texas
 /lccn/sn84022110,Examiner and patron.,en,J.W. Downs,"Waco, Tex.",,http://dbpedia.org/resource/Waco%2C_Texas
 /lccn/sn84022111,The Waco register.,en,W.R. Chase,"Waco, Tex.",,http://dbpedia.org/resource/Waco%2C_Texas
 /lccn/sn84022112,The Waco daily reporter.,en,[publisher not identified],"Waco, Tex.",txdn,http://dbpedia.org/resource/Waco%2C_Texas
@@ -30048,7 +30048,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn84023852,Semi-weekly advertiser.,en,J.C. Emerson,"Manchester, N.H.",,http://dbpedia.org/resource/Manchester%2C_New_Hampshire
 /lccn/sn84023853,Amoskeag representative.,en,John Caldwell,"Manchester, N.H.",,http://dbpedia.org/resource/Manchester%2C_New_Hampshire
 /lccn/sn84023854,Manchester representative.,en,John Caldwell,"Manchester, N.H.",,http://dbpedia.org/resource/Manchester%2C_New_Hampshire
-/lccn/sn84023855,"The Connecticut courant, and the weekly intelligencer.",en,Printed by Watson & Goodwin,Hartford [Conn.],,http://dbpedia.org/resource/Hartford%2C_Connecticut
+/lccn/sn84023855,"The Connecticut courant, and the weekly intelligencer.",en,Printed by Watson & Goodwin,Hartford [Conn.],ca-new,http://dbpedia.org/resource/Hartford%2C_Connecticut
 /lccn/sn84023856,The Connecticut courant.,en,Printed by Hudson & Goodwin,Hartford [Conn.],gale-us,http://dbpedia.org/resource/Hartford%2C_Connecticut
 /lccn/sn84023857,Middlebury Argus.,en,E.H. Washburn,"Middlebury, Vt.",,http://dbpedia.org/resource/Middlebury%2C_Vermont
 /lccn/sn84023858,The horn of the Green Mountains.,en,E.C. Purdy,"Manchester, Vt.",,
@@ -30879,7 +30879,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn84024735,Richmond enquirer.,en,Thomas Ritchie,"Richmond, Va.",acdc;ca;gale-us,http://dbpedia.org/resource/Richmond%2C_Virginia
 /lccn/sn84024736,The enquirer.,en,Ritchie & Worsley,"Richmond, Va.",ca,http://dbpedia.org/resource/Richmond%2C_Virginia
 /lccn/sn84024737,The Richmond times.,en,Chas. H. Wynne,"Richmond, Va.",gale-us,http://dbpedia.org/resource/Richmond%2C_Virginia
-/lccn/sn84024738,The daily dispatch.,en,J.A. Cowardin,Richmond [Va.],acdc;ca;gale-us,http://dbpedia.org/resource/Richmond%2C_Virginia
+/lccn/sn84024738,The daily dispatch.,en,J.A. Cowardin,Richmond [Va.],acdc;ca;ca-new;gale-us,http://dbpedia.org/resource/Richmond%2C_Virginia
 /lccn/sn84024739,The Virginia gazette.,en,Printed by W. Parks,Williamsburg [Va.],ca-new,http://dbpedia.org/resource/Williamsburg%2C_Virginia
 /lccn/sn84024740,Rind's Virginia gazette.,en,William Rind,Williamsburg [Va.],ca-new,http://dbpedia.org/resource/Williamsburg%2C_Virginia
 /lccn/sn84024741,The Virginia gazette.,en,William Rind,"Williamsburg, Va.",ca-new,http://dbpedia.org/resource/Williamsburg%2C_Virginia
@@ -31909,7 +31909,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn84026368,The Pennsylvania gazette and weekly advertiser.,en,"","Philadelphia, Pa.",,http://dbpedia.org/resource/Philadelphia
 /lccn/sn84026369,The Universal instructor in all arts and sciences: and Pennsylvania gazette.,en,Printed by Samuel Keimer,"Philadelphia, Pa.",,http://dbpedia.org/resource/Philadelphia
 /lccn/sn84026370,The Pennsylvania gazette.,en,Printed by Hall & Sellers,"Philadelphia, Pa.",,http://dbpedia.org/resource/Philadelphia
-/lccn/sn84026371,The Pennsylvania gazette.,en,B. Franklin and H. Meredith,"Philadelphia, Pa.",,http://dbpedia.org/resource/York%2C_Pennsylvania
+/lccn/sn84026371,The Pennsylvania gazette.,en,B. Franklin and H. Meredith,"Philadelphia, Pa.",ca-new,http://dbpedia.org/resource/York%2C_Pennsylvania
 /lccn/sn84026372,MahoningArgus.,en,J.K. Coxson,"Punxsutawney, Pa.",,http://dbpedia.org/resource/Punxsutawney%2C_Pennsylvania
 /lccn/sn84026373,Bauern Freund und Pennsburg Demokrat.,de;en,A. Kneule,"Pennsburg, Pa.",,http://dbpedia.org/resource/Pennsburg%2C_Pennsylvania
 /lccn/sn84026374,Die Reading Post.,de;en,W. Rosenthal,"Reading, Pa.",,http://dbpedia.org/resource/Reading%2C_Pennsylvania
@@ -32455,7 +32455,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn84026939,"The city gazette, and the daily advertiser.",en,Haswell & M'Iver,Charleston,,http://dbpedia.org/resource/Charleston%2C_South_Carolina
 /lccn/sn84026942,"The Columbian herald, or, The Independent courier of North-America.",en,Printed by T.B. Bowen & J. Markland,"Charleston, S.C.",,http://dbpedia.org/resource/Charleston%2C_South_Carolina
 /lccn/sn84026943,The South-Carolina gazette.,en,T. Whitmarsh,Charlestown [S.C.],,http://dbpedia.org/resource/Charleston%2C_South_Carolina
-/lccn/sn84026945,The Gazette of the state of South-Carolina.,en,Printed by Peter Timothy,Charles-town [S.C.],,http://dbpedia.org/resource/Charleston%2C_South_Carolina
+/lccn/sn84026945,The Gazette of the state of South-Carolina.,en,Printed by Peter Timothy,Charles-town [S.C.],ca-new,http://dbpedia.org/resource/Charleston%2C_South_Carolina
 /lccn/sn84026947,Christian intelligencer and eastern chronicle.,en,P. Sheldon,"Gardiner, Me.",aps,http://dbpedia.org/resource/Gardiner%2C_Maine
 /lccn/sn84026948,Christian intelligencer.,en,P. Sheldon,"Gardiner, Me.",aps,http://dbpedia.org/resource/Gardiner%2C_Maine
 /lccn/sn84026950,"L'oracle, français-américain.",en;fr,J.J. Negrin,"[Charleston, S.C]",,http://dbpedia.org/resource/Charleston%2C_South_Carolina
@@ -40422,7 +40422,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn85026938,Southwest Virginia.,en,John Gatewood,"Tazewell Court House, Va.",,http://dbpedia.org/resource/Tazewell%2C_Virginia
 /lccn/sn85026939,West Point star.,en,[S. Roszel Donohoe],"West Point, Va.",,http://dbpedia.org/resource/West_Point%2C_Virginia
 /lccn/sn85026940,The Suffolk herald.,en,[T.G. Elam],"Suffolk, Va.",,http://dbpedia.org/resource/Suffolk%2C_Virginia
-/lccn/sn85026941,Shenandoah herald.,en,Gatewood & Trout,"Woodstock, Va.",acdc;ca,http://dbpedia.org/resource/Woodstock%2C_Virginia
+/lccn/sn85026941,Shenandoah herald.,en,Gatewood & Trout,"Woodstock, Va.",acdc;ca;ca-new,http://dbpedia.org/resource/Woodstock%2C_Virginia
 /lccn/sn85026942,Southern rights advocate.,en,Ibzan J. Rice,"Anderson, S.C.",,http://dbpedia.org/resource/Anderson%2C_South_Carolina
 /lccn/sn85026943,The Anderson gazette.,en,A.O. Norris & Co.,"Anderson, S.C.",,http://dbpedia.org/resource/Anderson%2C_South_Carolina
 /lccn/sn85026944,The banner.,en,Allen & Kerr,"Abbeville, S.C.",acdc;ca,http://dbpedia.org/resource/Abbeville%2C_South_Carolina
@@ -44865,7 +44865,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn85033842,Clark County herald.,en,M.O. Frost,"Marshall, Ill.",,http://dbpedia.org/resource/Marshall%2C_Illinois
 /lccn/sn85033843,The Marshall weekly messenger.,en,J. Littlefield,"Marshall, Ill.",,http://dbpedia.org/resource/Marshall%2C_Illinois
 /lccn/sn85033844,Martinville express.,en,M.O. Frost,"Martinville, Ill.",,
-/lccn/sn85033845,The Texas pioneer.,en,J.L. Caldwell & G.K. Anderson,Fairfield ;,,http://dbpedia.org/resource/Fairfield%2C_Texas
+/lccn/sn85033845,The Texas pioneer.,en,J.L. Caldwell & G.K. Anderson,Fairfield ;,txdn,http://dbpedia.org/resource/Fairfield%2C_Texas
 /lccn/sn85033846,Mason City independent.,en,[Haughey & Warnock],"Mason City, Ill.",,http://dbpedia.org/resource/Mason_City%2C_Illinois
 /lccn/sn85033847,The Mattoon commercial.,en,Rufus Sumerlin & Sons,"Mattoon, Ill.",,http://dbpedia.org/resource/Mattoon%2C_Illinois
 /lccn/sn85033848,The Weekly telegraph.,en,Allen & Brocket,"Houston, Tex.",txdn,http://dbpedia.org/resource/Houston
@@ -45441,7 +45441,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn85034435,Georgia weekly constitutionalist.,en,James Gardner,"Augusta, Ga.",,http://dbpedia.org/resource/Augusta%2C_Georgia
 /lccn/sn85034436,"The Weekly Georgia constitutionalist, and weekly republic.",en,"James Gardner, Jr.","Augusta, Ga.",,http://dbpedia.org/resource/Augusta%2C_Georgia
 /lccn/sn85034437,The Daily constitutionalist and republic.,en,"James Gardner, Jr.","Augusta, Ga.",,http://dbpedia.org/resource/Augusta%2C_Georgia
-/lccn/sn85034438,The times.,en,Times Co.,"Richmond, Va.",acdc;ca,http://dbpedia.org/resource/Richmond%2C_Virginia
+/lccn/sn85034438,The times.,en,Times Co.,"Richmond, Va.",acdc;ca;ca-new,http://dbpedia.org/resource/Richmond%2C_Virginia
 /lccn/sn85034439,Southern religious telegraph.,en,Printed by J. MacFarlan,"Richmond, Va.",,http://dbpedia.org/resource/Richmond%2C_Virginia
 /lccn/sn85034440,Weekly Georgia constitutionalist and republic.,en,"James Gardner, Jr.","Augusta, Ga.",,http://dbpedia.org/resource/Augusta%2C_Georgia
 /lccn/sn85034441,The daily new era.,en,"","Atlanta, Ga.",,http://dbpedia.org/resource/Atlanta
@@ -46687,7 +46687,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn85038611,Aberdeen daily news.,en,Starling and Torrey,"Aberdeen, Dakota [S.D.]",,http://dbpedia.org/resource/Aberdeen%2C_South_Dakota
 /lccn/sn85038612,"West Side journal, and monthly advertiser.",en,W.A. Ingham,"Cleveland, Ohio",,http://dbpedia.org/resource/Cleveland
 /lccn/sn85038613,The sentinel.,en,"Smith, Bailey & Co.","Richmond, Va.",,http://dbpedia.org/resource/Richmond%2C_Virginia
-/lccn/sn85038614,Richmond dispatch.,en,Dispatch Co.,"Richmond, Va.",acdc;ca,http://dbpedia.org/resource/Richmond%2C_Virginia
+/lccn/sn85038614,Richmond dispatch.,en,Dispatch Co.,"Richmond, Va.",acdc;ca;ca-new,http://dbpedia.org/resource/Richmond%2C_Virginia
 /lccn/sn85038615,The times dispatch.,en,Times-Dispatch Co.,"Richmond, Va.",ca,http://dbpedia.org/resource/Richmond%2C_Virginia
 /lccn/sn85038616,The Sunday morning times.,en,A.J. Johnson,Richmond [Va.],,http://dbpedia.org/resource/Richmond%2C_Virginia
 /lccn/sn85038618,Richmond daily mercantile advertiser.,en,W. Ramsey,Richmond [Va.],,http://dbpedia.org/resource/Richmond%2C_Virginia
@@ -50173,7 +50173,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn85047527,The Rockport journal.,en,"","Rockport, Indiana",,http://dbpedia.org/resource/Rockport%2C_Indiana
 /lccn/sn85047528,Gales's independent gazetteer.,en,J. Gales,Philadelphia [Pa.],,http://dbpedia.org/resource/Philadelphia
 /lccn/sn85047529,"The Weekly advertiser, or, Pennsylvania journal.",en,Printed and sold by William Bradford,Philadelphia [Pa.],,http://dbpedia.org/resource/Philadelphia
-/lccn/sn85047530,"The Pennsylvania journal, or, Weekly advertiser.",en,Printed and sold by William Bradford,"Philadelphia, Pa.",,http://dbpedia.org/resource/Philadelphia
+/lccn/sn85047530,"The Pennsylvania journal, or, Weekly advertiser.",en,Printed and sold by William Bradford,"Philadelphia, Pa.",ca-new,http://dbpedia.org/resource/Philadelphia
 /lccn/sn85047534,The Washington Democrat.,en,Boyd & Backes,"Washington, Ind.",,http://dbpedia.org/resource/Washington%2C_Indiana
 /lccn/sn85047535,The Washington daily times.,en,Boyd & Backes,"Washington, Ind.",,http://dbpedia.org/resource/Washington%2C_Indiana
 /lccn/sn85047536,The Washington times-herald.,en,"Washington Times-Herald, Inc.","Washington, Ind.",,http://dbpedia.org/resource/Washington%2C_Indiana
@@ -51454,7 +51454,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn85050979,Hardin County ledger.,en,H.S. Kneedler,"Eldora, Iowa",,http://dbpedia.org/resource/Eldora%2C_Iowa
 /lccn/sn85052001,The leader.,en,Lowell C. Daniels,"Beaver Dam, Ky.",,http://dbpedia.org/resource/Beaver_Dam%2C_Kentucky
 /lccn/sn85052002,The reporter.,en,Waggener-Walker Newspapers,"Monticello, Ky.",,http://dbpedia.org/resource/Monticello%2C_Kentucky
-/lccn/sn85052003,The Hazard herald.,en,Herald Pub. Co.,"Hazard, Ky.",,http://dbpedia.org/resource/Hazard%2C_Kentucky
+/lccn/sn85052003,The Hazard herald.,en,Herald Pub. Co.,"Hazard, Ky.",ca-new,http://dbpedia.org/resource/Hazard%2C_Kentucky
 /lccn/sn85052004,Hazard herald-voice.,en,[publisher not identified],"Hazard, Ky.",,http://dbpedia.org/resource/Hazard%2C_Kentucky
 /lccn/sn85052005,The East Kentucky voice.,en,[Oscar Combs],"Hazard, Ky.",,http://dbpedia.org/resource/Hazard%2C_Kentucky
 /lccn/sn85052006,The herald-voice.,en,Donald E. Gipson,"Hazard, Ky.",,http://dbpedia.org/resource/Hazard%2C_Kentucky
@@ -57786,7 +57786,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86060363,The Nodaway valley news.,en,[s.n.],"Nodaway, Iowa",,http://dbpedia.org/resource/Nodaway%2C_Iowa
 /lccn/sn86060364,The Riverton Republican.,en,Hallowell & Wheeler,"Riverton, Fremont County, Iowa",,http://dbpedia.org/resource/Riverton%2C_Iowa
 /lccn/sn86060365,Marshall weekly Republican.,en,A.H. Neidig & Co.,"Marshalltown, Iowa",,http://dbpedia.org/resource/Marshalltown%2C_Iowa
-/lccn/sn86060451,The daily news.,en,T.H. Arnold and G.H. Dains,"Middlesborough, Ky.",,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
+/lccn/sn86060451,The daily news.,en,T.H. Arnold and G.H. Dains,"Middlesborough, Ky.",ca-new,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
 /lccn/sn86060896,The Winterset Madisonian.,en,H.J.B. Cummings,"Winterset, Iowa",,http://dbpedia.org/resource/Winterset%2C_Iowa
 /lccn/sn86060897,The Madisonian.,en,H.J.B. Cummings,"Winterset, Madison County, Iowa",,http://dbpedia.org/resource/Winterset%2C_Iowa
 /lccn/sn86060898,The Truro news.,en,C.P. Shane,"Truro, Iowa",,http://dbpedia.org/resource/Truro%2C_Iowa
@@ -59129,7 +59129,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86064225,The Marshall messenger.,en,E.M. Ragland & Willis Stedman,"Marshall, Tex.",,http://dbpedia.org/resource/Marshall%2C_Texas
 /lccn/sn86064226,Marshall news messenger.,en,Marshall News Messenger Pub. Co.,"Marshall, Tex.",,http://dbpedia.org/resource/Marshall%2C_Texas
 /lccn/sn86064227,The daily index.,en,Index Print. Co.,"Mineral Wells, Tex.",txdn,http://dbpedia.org/resource/Mineral_Wells%2C_Texas
-/lccn/sn86064228,The weekly index.,en,Index Print. Co.,"Mineral Wells, Tex.",,http://dbpedia.org/resource/Mineral_Wells%2C_Texas
+/lccn/sn86064228,The weekly index.,en,Index Print. Co.,"Mineral Wells, Tex.",txdn,http://dbpedia.org/resource/Mineral_Wells%2C_Texas
 /lccn/sn86064229,The daily sentinel.,en,Haltom & Harris,"Nacogdoches, Tex.",,http://dbpedia.org/resource/Nacogdoches%2C_Texas
 /lccn/sn86064230,The Orange daily leader.,en,Orange Print. Co.,"Orange, Tex.",txdn,http://dbpedia.org/resource/Orange%2C_Texas
 /lccn/sn86064231,Velasco daily times.,en,Goodman & McFarland Bros.,"Velasco, Tex.",txdn,http://dbpedia.org/resource/Velasco%2C_Texas
@@ -59140,7 +59140,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86064237,The valley farmer.,en,Light Pub. Co.,"San Benito, Tex.",,http://dbpedia.org/resource/San_Benito%2C_Texas
 /lccn/sn86064238,The Sherman weekly democrat.,en,Hunter Bros.,"Sherman, Tex.",,http://dbpedia.org/resource/Sherman%2C_Texas
 /lccn/sn86064239,The Snyder signal.,en,E.B. Barnes,"Snyder, Tex.",ca;txdn,http://dbpedia.org/resource/Snyder%2C_Texas
-/lccn/sn86064240,The Oil City visitor.,en,B.L. Cornwell,"Sour Lake, Tex.",,http://dbpedia.org/resource/Sour_Lake%2C_Texas
+/lccn/sn86064240,The Oil City visitor.,en,B.L. Cornwell,"Sour Lake, Tex.",txdn,http://dbpedia.org/resource/Sour_Lake%2C_Texas
 /lccn/sn86064241,The Vernon record.,en,Nichols and Mason,"Vernon, Tex.",txdn,http://dbpedia.org/resource/Vernon%2C_Texas
 /lccn/sn86064242,The Velasco times.,en,Goodman & McFarland Bros.,"Velasco, Tex.",txdn,http://dbpedia.org/resource/Velasco%2C_Texas
 /lccn/sn86064243,Tyler weekly courier-times.,en,"[McDougal, Hanks, Butler]","Tyler, Tex.",,http://dbpedia.org/resource/Tyler%2C_Texas
@@ -59324,7 +59324,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86069018,Lexington daily news.,en,[publisher not identified],"Lexington, Ky.",,http://dbpedia.org/resource/Lexington%2C_Kentucky
 /lccn/sn86069019,Daily evening news.,en,T.A. Flannelly,"Lexington, Ky.",,http://dbpedia.org/resource/Lexington%2C_Kentucky
 /lccn/sn86069020,Lexington weekly news.,en,T.A. Flannelly,"Lexington, Ky.",,http://dbpedia.org/resource/Lexington%2C_Kentucky
-/lccn/sn86069021,The Falmouth outlook.,en,Warren J. Shonert,"Falmouth, Ky.",,http://dbpedia.org/resource/Falmouth%2C_Kentucky
+/lccn/sn86069021,The Falmouth outlook.,en,Warren J. Shonert,"Falmouth, Ky.",ca-new,http://dbpedia.org/resource/Falmouth%2C_Kentucky
 /lccn/sn86069022,The Pendleton reformer.,en,F.L. Billings,"Butler, Ky.",,http://dbpedia.org/resource/Butler%2C_Kentucky
 /lccn/sn86069023,The Pendleton democrat.,en,"Lyman Harding, Jr.",Falmouth [Ky.],,http://dbpedia.org/resource/Falmouth%2C_Kentucky
 /lccn/sn86069024,The Falmouth democrat.,en,Adie O. Robertson,"Falmouth, Ky.",,http://dbpedia.org/resource/Falmouth%2C_Kentucky
@@ -59748,7 +59748,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86069448,The Franklin favorite.,en,H.H. Brown,"Franklin, Ky.",,http://dbpedia.org/resource/Franklin%2C_Kentucky
 /lccn/sn86069449,The Greenup news.,en,J.L. Kinner,"Greenup, Ky.",,http://dbpedia.org/resource/Greenup%2C_Kentucky
 /lccn/sn86069450,The Greenup County sentinel.,en,Stultz Pub. Co.,"Greenup, Ky.",,http://dbpedia.org/resource/Greenup%2C_Kentucky
-/lccn/sn86069452,The Middlesborough news.,en,T.H. Arnold and G.H. Dains,"Middlesborough, Ky.",,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
+/lccn/sn86069452,The Middlesborough news.,en,T.H. Arnold and G.H. Dains,"Middlesborough, Ky.",ca-new,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
 /lccn/sn86069453,The Rowan County news.,en,Jack Wilson,"Morehead, Ky.",,
 /lccn/sn86069454,Morehead news.,en,W.E. Crutcher,"Morehead, Ky.",,http://dbpedia.org/resource/Morehead%2C_Kentucky
 /lccn/sn86069455,The Morehead independent.,en,Independent Publishrs [sic],"Morehead, Ky.",,http://dbpedia.org/resource/Morehead%2C_Kentucky
@@ -59820,16 +59820,16 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86069521,The Tri-county Sunday news.,en,Ernest Ray Watkins,"Corbin, Ky.",,http://dbpedia.org/resource/Corbin%2C_Kentucky
 /lccn/sn86069522,The tri-county news.,en,Ernest Ray Watkins,"Corbin, Ky.",,http://dbpedia.org/resource/Corbin%2C_Kentucky
 /lccn/sn86069523,The Corbin news.,en,St. John's Academy,Corbin [Ky.],,http://dbpedia.org/resource/Corbin%2C_Kentucky
-/lccn/sn86069524,The weekly herald.,en,Herald Print. Co.,"Middlesboro, Ky.",,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
-/lccn/sn86069525,The herald.,en,Griffith & Ratcliffe,"Middlesboro, Ky.",,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
-/lccn/sn86069526,The daily herald.,en,Herald Pub. Co.,"Middlesborough, Ky.",,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
+/lccn/sn86069524,The weekly herald.,en,Herald Print. Co.,"Middlesboro, Ky.",ca-new,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
+/lccn/sn86069525,The herald.,en,Griffith & Ratcliffe,"Middlesboro, Ky.",ca-new,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
+/lccn/sn86069526,The daily herald.,en,Herald Pub. Co.,"Middlesborough, Ky.",ca-new,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
 /lccn/sn86069527,The Wayne County outlook.,en,Monticello Pub. Co.,"Monticello, Ky.",,http://dbpedia.org/resource/Monticello%2C_Kentucky
-/lccn/sn86069528,The democrat.,en,W.H. Polk,"Middlesborough, Ky.",,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
-/lccn/sn86069529,The daily democrat.,en,W.H. Polk,"Middlesborough, Ky.",,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
-/lccn/sn86069530,Cumberland republican.,en,News Print. Co.,"Middlesborough, Ky.",,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
+/lccn/sn86069528,The democrat.,en,W.H. Polk,"Middlesborough, Ky.",ca-new,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
+/lccn/sn86069529,The daily democrat.,en,W.H. Polk,"Middlesborough, Ky.",ca-new,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
+/lccn/sn86069530,Cumberland republican.,en,News Print. Co.,"Middlesborough, Ky.",ca-new,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
 /lccn/sn86069531,Bell County republican.,en,John H. Hurst,"Middlesboro, Ky.",,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
 /lccn/sn86069532,The critic.,en,Critic Pub. Co.,"Middlesborough, Ky.",,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
-/lccn/sn86069533,Mining journal.,en,Powell Print. Co.,"Middlesborough, Ky.",,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
+/lccn/sn86069533,Mining journal.,en,Powell Print. Co.,"Middlesborough, Ky.",ca-new,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
 /lccn/sn86069534,The free press.,en,J.R. Owens and W.D. Hurst,"Middlesborough, Ky.",,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
 /lccn/sn86069535,The weekly record.,en,Record Pub. Co.,"Middlesboro, Ky.",,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
 /lccn/sn86069536,The Middlesboro record.,en,Cunningham Print. Co.,"Middlesboro, Ky.",,http://dbpedia.org/resource/Middlesboro%2C_Kentucky
@@ -59892,11 +59892,11 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86069594,The Flemingsburg gazette.,en,O.P. Nute,"Flemingsburg, Ky.",,http://dbpedia.org/resource/Flemingsburg%2C_Kentucky
 /lccn/sn86069595,Fleming gazette.,en,[publisher not identified],"Flemingsburg, Ky.",,http://dbpedia.org/resource/Flemingsburg%2C_Kentucky
 /lccn/sn86069596,Flemingsburg gazette.,en,Lowell O. Denton,"Flemingsburg, Ky.",,http://dbpedia.org/resource/Flemingsburg%2C_Kentucky
-/lccn/sn86069597,The Vanceburg courier.,en,[publisher not identified],"Vanceburg, Ky.",,http://dbpedia.org/resource/Vanceburg%2C_Kentucky
-/lccn/sn86069598,The Vanceburg sun.,en,M.O. Wilson,"Vanceburg, Ky.",,http://dbpedia.org/resource/Vanceburg%2C_Kentucky
-/lccn/sn86069599,The sun.,en,Wilson & Grote,"Vanceburg, Ky.",,http://dbpedia.org/resource/Vanceburg%2C_Kentucky
-/lccn/sn86069600,The Vanceburg sun.,en,M.O. Wilson,"Vanceburg, Ky.",,http://dbpedia.org/resource/Vanceburg%2C_Kentucky
-/lccn/sn86069601,The sun.,en,M.F. Grote,"Vanceburg, Ky.",,http://dbpedia.org/resource/Vanceburg%2C_Kentucky
+/lccn/sn86069597,The Vanceburg courier.,en,[publisher not identified],"Vanceburg, Ky.",ca-new,http://dbpedia.org/resource/Vanceburg%2C_Kentucky
+/lccn/sn86069598,The Vanceburg sun.,en,M.O. Wilson,"Vanceburg, Ky.",ca-new,http://dbpedia.org/resource/Vanceburg%2C_Kentucky
+/lccn/sn86069599,The sun.,en,Wilson & Grote,"Vanceburg, Ky.",ca-new,http://dbpedia.org/resource/Vanceburg%2C_Kentucky
+/lccn/sn86069600,The Vanceburg sun.,en,M.O. Wilson,"Vanceburg, Ky.",ca-new,http://dbpedia.org/resource/Vanceburg%2C_Kentucky
+/lccn/sn86069601,The sun.,en,M.F. Grote,"Vanceburg, Ky.",ca-new,http://dbpedia.org/resource/Vanceburg%2C_Kentucky
 /lccn/sn86069602,Lewis County herald.,en,Lewis County Herald Pub. Co.,"Vanceburg, Ky.",,http://dbpedia.org/resource/Vanceburg%2C_Kentucky
 /lccn/sn86069603,The Greenup gazette.,en,H.B. Woodrow & Co.,"Greenup, Ky.",,http://dbpedia.org/resource/Greenup%2C_Kentucky
 /lccn/sn86069604,Eastern Kentucky democrat.,en,R.E.L. Wilson,"Greenup, Ky.",,http://dbpedia.org/resource/Greenup%2C_Kentucky
@@ -60837,7 +60837,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86071851,"The Salem gazette, or, Newbury and Marblehead advertiser.",en,E. Russell,Salem [Mass.],,http://dbpedia.org/resource/Salem%2C_Massachusetts
 /lccn/sn86071852,"State rights Republican, journal of education and Constitutional reformer.",en,Theophilus Fisk,"Richmond, Va.",,http://dbpedia.org/resource/Richmond%2C_Virginia
 /lccn/sn86071853,The Sunday state.,en,Richard F. Beirne,"Richmond, Va.",,http://dbpedia.org/resource/Richmond%2C_Virginia
-/lccn/sn86071854,The Daily times.,en,Times Pub. Co.,"Richmond, Va.",acdc;ca,http://dbpedia.org/resource/Richmond%2C_Virginia
+/lccn/sn86071854,The Daily times.,en,Times Pub. Co.,"Richmond, Va.",acdc;ca-new,http://dbpedia.org/resource/Richmond%2C_Virginia
 /lccn/sn86071855,Daily Richmond times.,en,W.C. Carrington & W.H. Davis,"Richmond, Va.",ca,http://dbpedia.org/resource/Richmond%2C_Virginia
 /lccn/sn86071856,The Richmond times.,en,"Carrington, Cowardin & Davis","Richmond, Va.",,http://dbpedia.org/resource/Richmond%2C_Virginia
 /lccn/sn86071857,The Virginia times.,en,[W. Ramsey],Richmond [Va.],,http://dbpedia.org/resource/Richmond%2C_Virginia
@@ -64796,7 +64796,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088065,The Texas Democrat.,en,Chas. G. Norton,"Austin, Tex.",,http://dbpedia.org/resource/Austin%2C_Texas
 /lccn/sn86088066,Texas mute ranger.,en,A.B. Dobyns,"Austin, Tex.",,http://dbpedia.org/resource/Austin%2C_Texas
 /lccn/sn86088067,Austin forum-advocate.,en,Sam T. Hill,"Austin, Tex.",,http://dbpedia.org/resource/Austin%2C_Texas
-/lccn/sn86088068,The daily news-telegram.,en,R.L. Tate,"Sulphur Springs, Tex.",,http://dbpedia.org/resource/Sulphur_Springs%2C_Texas
+/lccn/sn86088068,The daily news-telegram.,en,R.L. Tate,"Sulphur Springs, Tex.",txdn,http://dbpedia.org/resource/Sulphur_Springs%2C_Texas
 /lccn/sn86088069,San Augustine weekly news.,en,J.A. Harrison,"San Augustine, Tex.",txdn,http://dbpedia.org/resource/San_Augustine%2C_Texas
 /lccn/sn86088070,The Texan.,en,[University of Texas],"Austin, Tex.",,http://dbpedia.org/resource/Austin%2C_Texas
 /lccn/sn86088071,Austin daily dispatch.,en,Knape Print. Co.,"Austin, Tex.",,http://dbpedia.org/resource/Austin%2C_Texas
@@ -64928,7 +64928,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088198,Burkburnett news.,en,Harry C. Dodson,"Burkburnett, Tex.",,http://dbpedia.org/resource/Burkburnett%2C_Texas
 /lccn/sn86088199,Canyon City news.,en,Geo. A. Brandon,"Canyon City, Tex.",ca;txdn,http://dbpedia.org/resource/Canyon_City%2C_Texas
 /lccn/sn86088200,The Matagorda news.,en,C.E. Gilbert,"Matagorda, Tex.",,http://dbpedia.org/resource/Matagorda%2C_Texas
-/lccn/sn86088201,The Waco evening news.,en,Hill & Ivy,"Waco, Tex.",acdc;ca,http://dbpedia.org/resource/Waco%2C_Texas
+/lccn/sn86088201,The Waco evening news.,en,Hill & Ivy,"Waco, Tex.",acdc;ca;txdn,http://dbpedia.org/resource/Waco%2C_Texas
 /lccn/sn86088202,The Schulenburg sticker.,en,Ernst Goeth,"Schulenburg, Tex.",txdn,http://dbpedia.org/resource/Schulenburg%2C_Texas
 /lccn/sn86088203,The Kerrville paper.,en,Edward Smallwood & Son,"Kerrville, Tex.",,http://dbpedia.org/resource/Kerrville%2C_Texas
 /lccn/sn86088204,Foard County news.,en,News Pub. Co.,"Crowell, Tex.",,http://dbpedia.org/resource/Crowell%2C_Texas
@@ -65002,7 +65002,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088274,Weekly Austin Republican.,en,Hamilton and Longley,"Austin, Tex.",,http://dbpedia.org/resource/Austin%2C_Texas
 /lccn/sn86088275,The Evening capitolian.,en,Capitolian Pub. Co.,"Austin, Tex.",,http://dbpedia.org/resource/Austin%2C_Texas
 /lccn/sn86088276,Taylor County times.,en,"","Abilene, Tex.",,http://dbpedia.org/resource/Abilene%2C_Texas
-/lccn/sn86088277,The Alice echo.,en,D.S. Booth,"Alice, Tex.",,http://dbpedia.org/resource/Alice%2C_Texas
+/lccn/sn86088277,The Alice echo.,en,D.S. Booth,"Alice, Tex.",txdn,http://dbpedia.org/resource/Alice%2C_Texas
 /lccn/sn86088278,The Texas Baptist.,en,T.D. & R.A. Van Horn,"Anderson, Grimes County, Tex.",,http://dbpedia.org/resource/Anderson%2C_Texas
 /lccn/sn86088279,Austin wochenblatt.,de,Albert and Henry Schütze,"Austin, Tex.",txdn,http://dbpedia.org/resource/Austin%2C_Texas
 /lccn/sn86088280,Tri-weekly state times.,en,"John S. Ford & Joseph Walker, 1853.","Austin, Tex.",txdn,http://dbpedia.org/resource/Austin%2C_Texas
@@ -65073,7 +65073,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088348,The Blooming Grove rustler.,en,R.W. George,"Blooming Grove, Tex.",,http://dbpedia.org/resource/Blooming_Grove%2C_Texas
 /lccn/sn86088349,The Blanco news.,en,Blanco News Co.,"Blanco, Tex.",,http://dbpedia.org/resource/Blanco%2C_Texas
 /lccn/sn86088350,Blooming Grove times.,en,James E. Laney,"Blooming Grove, Tex.",,http://dbpedia.org/resource/Blooming_Grove%2C_Texas
-/lccn/sn86088351,The Boerne post.,en,John Guthrie,"Boerne, Tex.",,http://dbpedia.org/resource/Boerne%2C_Texas
+/lccn/sn86088351,The Boerne post.,en,John Guthrie,"Boerne, Tex.",txdn,http://dbpedia.org/resource/Boerne%2C_Texas
 /lccn/sn86088352,The Boerne star.,en,L.N. Cooke,"Boerne, Tex.",txdn,http://dbpedia.org/resource/Boerne%2C_Texas
 /lccn/sn86088353,The Daily sentinel.,en,S.G. Spann,"Brenham, Tex.",,http://dbpedia.org/resource/Brenham%2C_Texas
 /lccn/sn86088354,The Brenham weekly times.,en,P.J. Malone [and] E.B. Aspinall,"Brenham, Tex.",,http://dbpedia.org/resource/Brenham%2C_Texas
@@ -65150,7 +65150,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088431,The Washington American.,en,G.W. Perkins & Co.,"Washington, Tex.",txdn,http://dbpedia.org/resource/Washington-on-the-Brazos%2C_Texas
 /lccn/sn86088432,The Trinity County star.,en,Star Pub. Co.,"Groveton, Tex.",,http://dbpedia.org/resource/Groveton%2C_Texas
 /lccn/sn86088433,The Thornton hustler.,en,J.G. Devoe,"Thornton, Tex.",txdn,http://dbpedia.org/resource/Thornton%2C_Texas
-/lccn/sn86088434,The Van Zandter.,en,R.E. Yantis,"Wills Point, Tex.",,http://dbpedia.org/resource/Wills_Point%2C_Texas
+/lccn/sn86088434,The Van Zandter.,en,R.E. Yantis,"Wills Point, Tex.",txdn,http://dbpedia.org/resource/Wills_Point%2C_Texas
 /lccn/sn86088435,The Colorado herald.,en,James W. Dallam,Matagorda [Tex.],txdn,http://dbpedia.org/resource/Matagorda%2C_Texas
 /lccn/sn86088436,Texas bluebonnet.,en,G.F. Oheim and B.F. Nebergall,"New Braunfels, Tex.",,http://dbpedia.org/resource/New_Braunfels%2C_Texas
 /lccn/sn86088437,The Van Zandter.,en,S.W. Adams,"Canton, Tex.",,http://dbpedia.org/resource/Canton%2C_Texas
@@ -65166,7 +65166,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088448,The Democrat-voice.,en,The Democrat-Voice Pub. Co.,"Coleman, Tex.",txdn,http://dbpedia.org/resource/Coleman%2C_Texas
 /lccn/sn86088449,Coleman democrat-voice.,en,Democrat-voice Pub. Co.,"Coleman, Tex.",,http://dbpedia.org/resource/Coleman%2C_Texas
 /lccn/sn86088450,The Cisco daily news.,en,Cisco Print. & Pub. Co.,"Cisco, Tex.",,http://dbpedia.org/resource/Cisco%2C_Texas
-/lccn/sn86088452,San Saba County news.,en,Geo. H. Hagan,"San Saba, Tex.",ca,http://dbpedia.org/resource/San_Saba%2C_Texas
+/lccn/sn86088452,San Saba County news.,en,Geo. H. Hagan,"San Saba, Tex.",ca;txdn,http://dbpedia.org/resource/San_Saba%2C_Texas
 /lccn/sn86088453,The Dalhart Texan.,en,Ault Print. Co.,"Dalhart, Tex.",,http://dbpedia.org/resource/Dalhart%2C_Texas
 /lccn/sn86088454,The Dallas weekly news.,en,A.H. Belb & Co.,"Dallas, Tex.",,http://dbpedia.org/resource/Dallas
 /lccn/sn86088455,Denver City press.,en,Snyder Bros.,"Denver City, Tex.",,
@@ -65205,7 +65205,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088489,Eastland telegram.,en,Times Pub. Co.,"Eastland, Tex.",,http://dbpedia.org/resource/Eastland%2C_Texas
 /lccn/sn86088490,Eastland County record.,en,Henry G. Vermillion,"Eastland, Tex.",,http://dbpedia.org/resource/Eastland%2C_Texas
 /lccn/sn86088491,Southwestern farmer and breeder.,en,Reporter Pub. Co.,"North Fort Worth, Tex.",,http://dbpedia.org/resource/Fort_Worth%2C_Texas
-/lccn/sn86088492,The Daily Fort Worth Democrat.,en,[s.n.],"Fort Worth, Tex.",,http://dbpedia.org/resource/Fort_Worth%2C_Texas
+/lccn/sn86088492,The Daily Fort Worth Democrat.,en,[s.n.],"Fort Worth, Tex.",txdn,http://dbpedia.org/resource/Fort_Worth%2C_Texas
 /lccn/sn86088493,The Waco examiner.,en,J.W. Downs [and] E.A. Hicks,"Waco, Tex.",,http://dbpedia.org/resource/Waco%2C_Texas
 /lccn/sn86088494,San Antonio-Zeitung.,en;de,Adolf Douai,"San Antonio, Tex.",txdn,http://dbpedia.org/resource/San_Antonio
 /lccn/sn86088495,Daily advocate.,en,James McDonald,"Victoria, Texas",txdn,http://dbpedia.org/resource/Victoria%2C_Texas
@@ -65317,7 +65317,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088603,Deutsche Rundschau.,de,Wm. T. Gichholz,"Cuero, Tex.",txdn,http://dbpedia.org/resource/Cuero%2C_Texas
 /lccn/sn86088604,Texas siftings.,en,Alex. E. Sweet and J. Armoy Knox,"Austin, Tex.",txdn,http://dbpedia.org/resource/Austin%2C_Texas
 /lccn/sn86088605,The Colorado County citizen.,en,Kermit K. Kendlall,"Columbus, Tex.",,http://dbpedia.org/resource/Columbus%2C_Texas
-/lccn/sn86088606,The Greenville banner.,en,J.F. Mitchell,"Greenville, Tex.",,http://dbpedia.org/resource/Greenville%2C_Texas
+/lccn/sn86088606,The Greenville banner.,en,J.F. Mitchell,"Greenville, Tex.",txdn,http://dbpedia.org/resource/Greenville%2C_Texas
 /lccn/sn86088607,The Hansford headlight.,en,J.H. Buchanan,"Hansford, Tex.",,
 /lccn/sn86088608,Panhandle news.,en,Wm. J. Grant,"Clarendon, Tex.",,http://dbpedia.org/resource/Clarendon%2C_Texas
 /lccn/sn86088609,The Northern standard.,en,Chas. De Morse,"Clarksville, Tex.",txdn,http://dbpedia.org/resource/Clarksville%2C_Texas
@@ -65345,7 +65345,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088633,The gate city guide.,en,W.S. Pearson,"Denison, Tex.",,http://dbpedia.org/resource/Denison%2C_Texas
 /lccn/sn86088634,The Cumby rustler.,en,G.M. Morton,"Cumby, Tex.",txdn,http://dbpedia.org/resource/Cumby%2C_Texas
 /lccn/sn86088635,The weekly star.,en,Wm. J.S. Scobell & Co.,Galveston [Tex.],txdn,http://dbpedia.org/resource/Galveston%2C_Texas
-/lccn/sn86088636,Sanderson times.,en,[publisher not identified],"Sanderson, Tex.",,http://dbpedia.org/resource/Sanderson%2C_Texas
+/lccn/sn86088636,Sanderson times.,en,[publisher not identified],"Sanderson, Tex.",txdn,http://dbpedia.org/resource/Sanderson%2C_Texas
 /lccn/sn86088637,Texas gazette and Brazoria commercial advertiser.,en,[publisher not identified],"Brazoria, Tex.",txdn,http://dbpedia.org/resource/Brazoria%2C_Texas
 /lccn/sn86088638,The Houston County courier.,en,Lufkin Pub. Co.,"Crockett, Tex.",,http://dbpedia.org/resource/Crockett%2C_Texas
 /lccn/sn86088639,The Dallas journal.,en,A.H. Belo & Co.,"Dallas, Tex.",,http://dbpedia.org/resource/Dallas
@@ -65424,9 +65424,9 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088714,El Campo citizen.,en,Riley Webb,"El Campo, Tex.",txdn,http://dbpedia.org/resource/El_Campo%2C_Texas
 /lccn/sn86088715,The El Campo news.,en,Edward B. Patrick,"El Campo, Tex.",,http://dbpedia.org/resource/El_Campo%2C_Texas
 /lccn/sn86088716,Frontier klansman.,en,C.L. Sirmans,"El Paso, Tex.",,http://dbpedia.org/resource/El_Paso%2C_Texas
-/lccn/sn86088717,The Success.,en,A.T. Wright,"Eldorado, Tex.",,http://dbpedia.org/resource/Eldorado%2C_Texas
+/lccn/sn86088717,The Success.,en,A.T. Wright,"Eldorado, Tex.",txdn,http://dbpedia.org/resource/Eldorado%2C_Texas
 /lccn/sn86088718,Eagle Lake headlight.,en,Bruce W. McCarty,"Eagle Lake, Tex.",,http://dbpedia.org/resource/Eagle_Lake%2C_Texas
-/lccn/sn86088719,Eagle Pass guide.,en,Guide Pub. Co.,"Eagle Pass, Tex.",,http://dbpedia.org/resource/Eagle_Pass%2C_Texas
+/lccn/sn86088719,Eagle Pass guide.,en,Guide Pub. Co.,"Eagle Pass, Tex.",txdn,http://dbpedia.org/resource/Eagle_Pass%2C_Texas
 /lccn/sn86088720,Daily guide.,es;en,Jas. O. Boehmer,"Eagle Pass, Tex.",,http://dbpedia.org/resource/Eagle_Pass%2C_Texas
 /lccn/sn86088721,The International news guide.,en,L.M. Hufman,"Eagle Pass, Tex.",,http://dbpedia.org/resource/Eagle_Pass%2C_Texas
 /lccn/sn86088722,Edgewood enterprise.,en,Jordan W. Hobbs,"Edgewood, Tex.",,http://dbpedia.org/resource/Edgewood%2C_Texas
@@ -65441,18 +65441,18 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088731,Erath County Democrat.,en,A.M. Phipps,"Dublin, Tex.",txdn,http://dbpedia.org/resource/Dublin%2C_Texas
 /lccn/sn86088732,The Dublin enterprise.,en,J.G. O'Brien,"Dublin, Tex.",,http://dbpedia.org/resource/Dublin%2C_Texas
 /lccn/sn86088733,The Dialville reporter.,en,H.G. Harris,"Dialville, Tex.",txdn,
-/lccn/sn86088734,The DeKalb enterprise.,en,[publisher not identified],"DeKalb, Tex.",,http://dbpedia.org/resource/DeKalb%2C_Texas
+/lccn/sn86088734,The DeKalb enterprise.,en,[publisher not identified],"DeKalb, Tex.",txdn,http://dbpedia.org/resource/DeKalb%2C_Texas
 /lccn/sn86088736,The Devine wide-awake.,en,C.M. Harbaugh,"Devine, Tex.",,http://dbpedia.org/resource/Devine%2C_Texas
 /lccn/sn86088737,The Rio Grande sentinel.,en,E.B. Scarborough,"Brownsville, Tex.",,http://dbpedia.org/resource/Brownsville%2C_Texas
 /lccn/sn86088738,The D'Hanis star.,en,Fletcher Davis,"D'Hanis, Tex.",txdn,http://dbpedia.org/resource/D%27Hanis%2C_Texas
 /lccn/sn86088739,Denton County news.,en,[publisher not identified],"Denton, Tex.",txdn,http://dbpedia.org/resource/Denton%2C_Texas
-/lccn/sn86088740,Val Verde County herald.,en,Del Rio Herald Pub. Co.,"Del Rio, Tex.",,http://dbpedia.org/resource/Del_Rio%2C_Texas
-/lccn/sn86088741,Val Verde County herald and Del Rio record-news.,en,Huffman & Nanney,"Del Rio, Tex.",,http://dbpedia.org/resource/Del_Rio%2C_Texas
-/lccn/sn86088742,The Del Rio record-news.,en,Price Bros.,"Del Rio, Tex.",,http://dbpedia.org/resource/Del_Rio%2C_Texas
-/lccn/sn86088743,The Del Rio record.,en,Geo. M. Martin,"Del Rio, Tex.",,http://dbpedia.org/resource/Del_Rio%2C_Texas
-/lccn/sn86088744,Del Rio weekly news.,en,Del Rio Pub. Co.,"Del Rio, Tex.",,http://dbpedia.org/resource/Del_Rio%2C_Texas
-/lccn/sn86088745,The Del Rio daily news.,en,Del Rio Pub. Co.,"Del Rio, Tex.",,http://dbpedia.org/resource/Del_Rio%2C_Texas
-/lccn/sn86088746,The progressive advertiser.,en,Turner Print. Co.,"DeKalb, Tex.",,http://dbpedia.org/resource/DeKalb%2C_Texas
+/lccn/sn86088740,Val Verde County herald.,en,Del Rio Herald Pub. Co.,"Del Rio, Tex.",txdn,http://dbpedia.org/resource/Del_Rio%2C_Texas
+/lccn/sn86088741,Val Verde County herald and Del Rio record-news.,en,Huffman & Nanney,"Del Rio, Tex.",txdn,http://dbpedia.org/resource/Del_Rio%2C_Texas
+/lccn/sn86088742,The Del Rio record-news.,en,Price Bros.,"Del Rio, Tex.",txdn,http://dbpedia.org/resource/Del_Rio%2C_Texas
+/lccn/sn86088743,The Del Rio record.,en,Geo. M. Martin,"Del Rio, Tex.",txdn,http://dbpedia.org/resource/Del_Rio%2C_Texas
+/lccn/sn86088744,Del Rio weekly news.,en,Del Rio Pub. Co.,"Del Rio, Tex.",txdn,http://dbpedia.org/resource/Del_Rio%2C_Texas
+/lccn/sn86088745,The Del Rio daily news.,en,Del Rio Pub. Co.,"Del Rio, Tex.",txdn,http://dbpedia.org/resource/Del_Rio%2C_Texas
+/lccn/sn86088746,The progressive advertiser.,en,Turner Print. Co.,"DeKalb, Tex.",txdn,http://dbpedia.org/resource/DeKalb%2C_Texas
 /lccn/sn86088747,The constitution.,en,A.J. Carothers,"Cuero, Tex.",,http://dbpedia.org/resource/Cuero%2C_Texas
 /lccn/sn86088748,El horizonte.,es,José L. Montalbo & Bro.,"Corpus Christi, Tex.",,http://dbpedia.org/resource/Corpus_Christi%2C_Texas
 /lccn/sn86088749,The Maverick.,en,Theodore Terry,"Eagle Pass, Tex.",,http://dbpedia.org/resource/Eagle_Pass%2C_Texas
@@ -65489,7 +65489,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088782,The Hansford plainsman.,en,[publisher not identified],"Spearman, Tex.",,http://dbpedia.org/resource/Spearman%2C_Texas
 /lccn/sn86088783,Hale Center American.,en,Meritt Print. Co.,"Hale Center, Tex.",,http://dbpedia.org/resource/Hale_Center%2C_Texas
 /lccn/sn86088784,Gruver statesman.,en,William M. Miller,"Gruver, Tex.",,http://dbpedia.org/resource/Gruver%2C_Texas
-/lccn/sn86088785,The mountain eagle.,en,[publisher not identified],"Goldthwaite, Tex.",,http://dbpedia.org/resource/Goldthwaite%2C_Texas
+/lccn/sn86088785,The mountain eagle.,en,[publisher not identified],"Goldthwaite, Tex.",txdn,http://dbpedia.org/resource/Goldthwaite%2C_Texas
 /lccn/sn86088786,The Young County news.,en,Young County News Co.,"Graham, Tex.",txdn,http://dbpedia.org/resource/Graham%2C_Texas
 /lccn/sn86088787,The Graham daily reporter.,en,[publisher not identified],"Graham, Tex.",,http://dbpedia.org/resource/Graham%2C_Texas
 /lccn/sn86088788,The Graham reporter.,en,"E.B. Harris and E.B. Harris, Jr.","Graham, Tex.",,http://dbpedia.org/resource/Graham%2C_Texas
@@ -65503,7 +65503,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088796,The Dawson times.,en,Jo. A. Kirgan,"Dawson, Tex.",,http://dbpedia.org/resource/Dawson%2C_Texas
 /lccn/sn86088797,The commercial advertiser.,en,J.B. Dutler and J.S. Lillard,"Decatur, Tex.",,http://dbpedia.org/resource/Decatur%2C_Texas
 /lccn/sn86088798,Galveston County press.,en,William Law,"Dickinson, Tex.",,http://dbpedia.org/resource/Dickinson%2C_Texas
-/lccn/sn86088799,Graham daily leader.,en,Graham Leader Co.,"Graham, Tex.",,http://dbpedia.org/resource/Graham%2C_Texas
+/lccn/sn86088799,Graham daily leader.,en,Graham Leader Co.,"Graham, Tex.",txdn,http://dbpedia.org/resource/Graham%2C_Texas
 /lccn/sn86088800,The Citizen.,en,Reporter Pub. Co.,"North Fort Worth, Tex.",,http://dbpedia.org/resource/Fort_Worth%2C_Texas
 /lccn/sn86088802,Littlefield leader.,en,Jess. Mitchell,"Littlefield, Tex.",,http://dbpedia.org/resource/Littlefield%2C_Texas
 /lccn/sn86088803,County-wide news.,en,Littlefield Print. Co.,"Littlefield, Tex.",,http://dbpedia.org/resource/Littlefield%2C_Texas
@@ -65610,7 +65610,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088909,The Gatesville post.,en,John T. Post & Co.,"Gatesville, Tex.",,http://dbpedia.org/resource/Gatesville%2C_Texas
 /lccn/sn86088910,The Gatesville news.,en,[publisher not identified],"Gatesville, Tex.",,http://dbpedia.org/resource/Gatesville%2C_Texas
 /lccn/sn86088911,The Gatesville star.,en,Gus Perry,"Gatesville, Tex.",,http://dbpedia.org/resource/Gatesville%2C_Texas
-/lccn/sn86088912,The Decatur news.,en,L.W. Tyler,"Decatur, Tex.",,http://dbpedia.org/resource/Decatur%2C_Texas
+/lccn/sn86088912,The Decatur news.,en,L.W. Tyler,"Decatur, Tex.",txdn,http://dbpedia.org/resource/Decatur%2C_Texas
 /lccn/sn86088913,The Leon pioneer.,en,"Wood, Horn, & Co.","Centerville, Tex.",,http://dbpedia.org/resource/Centerville%2C_Texas
 /lccn/sn86088914,The Dallas mercury.,en,E.G. Rust,"Dallas, Tex.",,http://dbpedia.org/resource/Dallas
 /lccn/sn86088915,The two republics.,en,Republics Pub. Co.,"El Paso, Tex.",,http://dbpedia.org/resource/El_Paso%2C_Texas
@@ -65647,7 +65647,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088947,Rains County record.,en,[publisher not identified],"Emory, Tex.",,http://dbpedia.org/resource/Emory%2C_Texas
 /lccn/sn86088948,Emhouse enterprise.,en,L.A. Gordon,"Emhouse, Tex.",,http://dbpedia.org/resource/Emhouse%2C_Texas
 /lccn/sn86088949,The Forney headlight.,en,J.D. Adams,"Forney, Tex.",txdn,http://dbpedia.org/resource/Forney%2C_Texas
-/lccn/sn86088950,The Fairfield recorder.,en,L.D. Lillard,"Fairfield, Tex.",,http://dbpedia.org/resource/Fairfield%2C_Texas
+/lccn/sn86088950,The Fairfield recorder.,en,L.D. Lillard,"Fairfield, Tex.",txdn,http://dbpedia.org/resource/Fairfield%2C_Texas
 /lccn/sn86088951,Falls City facts.,en,Falls City Print. Co.,"Falls City, Tex.",,http://dbpedia.org/resource/Falls_City%2C_Texas
 /lccn/sn86088952,El Paso sentinel.,en,S. Hart,"El Paso, Tex.",,http://dbpedia.org/resource/El_Paso%2C_Texas
 /lccn/sn86088953,The Palmer rustler.,en,United Pub. Co.,"Palmer, Tex.",,http://dbpedia.org/resource/Palmer%2C_Texas
@@ -65669,7 +65669,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088970,The Odessa American.,en,Odessa News-Times Co.,"Odessa, Tex.",,http://dbpedia.org/resource/Odessa%2C_Texas
 /lccn/sn86088971,The Donley County leader.,en,J.C. Eastlack,"Clarendon, Tex.",,http://dbpedia.org/resource/Clarendon%2C_Texas
 /lccn/sn86088972,The Donley County leader and the Clarendon news.,en,A.D. & G.W. Estlack,"Clarendon, Tex.",,http://dbpedia.org/resource/Clarendon%2C_Texas
-/lccn/sn86088973,The Wellington leader.,en,Thomas Durham,"Wellington, Tex.",,http://dbpedia.org/resource/Wellington%2C_Texas
+/lccn/sn86088973,The Wellington leader.,en,Thomas Durham,"Wellington, Tex.",txdn,http://dbpedia.org/resource/Wellington%2C_Texas
 /lccn/sn86088974,Swisher County news.,en,Vicky Sexton,"Happy, Tex.",,http://dbpedia.org/resource/Happy%2C_Texas
 /lccn/sn86088975,The Vega enterprise.,en,Bob Moore,"Vega, Tex.",,http://dbpedia.org/resource/Vega%2C_Texas
 /lccn/sn86088976,The Moore County news.,en,R.W. Miller,"Dumas, Tex.",,http://dbpedia.org/resource/Dumas%2C_Texas
@@ -65677,10 +65677,10 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86088978,The daily Vernon hornet.,en,Early Hendrick,"Vernon, Tex.",,http://dbpedia.org/resource/Vernon%2C_Texas
 /lccn/sn86088979,The Vernon call.,en,D.D. McConnell,"Vernon, Tex.",,http://dbpedia.org/resource/Vernon%2C_Texas
 /lccn/sn86088980,Hall County herald.,en,W.A. Johnson,"Memphis, Tex.",,http://dbpedia.org/resource/Memphis%2C_Texas
-/lccn/sn86088981,The Olney enterprise.,en,R. Shuffler,"Olney, Tex.",,http://dbpedia.org/resource/Olney%2C_Texas
+/lccn/sn86088981,The Olney enterprise.,en,R. Shuffler,"Olney, Tex.",txdn,http://dbpedia.org/resource/Olney%2C_Texas
 /lccn/sn86088982,The Ozona kicker.,en,C.B. Hudspeth,"Ozona, Tex.",,http://dbpedia.org/resource/Ozona%2C_Texas
 /lccn/sn86088983,Ozona enterprise.,en,Archie Cockran,"Ozona, Tex.",,http://dbpedia.org/resource/Ozona%2C_Texas
-/lccn/sn86088984,The Odell reporter.,en,[s.n.],"Odell, Tex.",,
+/lccn/sn86088984,The Odell reporter.,en,[s.n.],"Odell, Tex.",txdn,
 /lccn/sn86088985,The Mullin enterprise.,en,R.H. Patterson,"Mullin, Tex.",,http://dbpedia.org/resource/Mullin%2C_Texas
 /lccn/sn86088987,Semi-weekly Pecos record-times.,en,Record-times Co.,"Pecos, Tex.",,http://dbpedia.org/resource/Pecos%2C_Texas
 /lccn/sn86088988,The Pecos daily times.,en,B.J. Strichland,"Pecos, Tex.",,http://dbpedia.org/resource/Pecos%2C_Texas
@@ -65750,7 +65750,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86089054,Fort Worth whig chief.,en,A.B. Norton and Co.,"Fort Worth, Tex.",,http://dbpedia.org/resource/Fort_Worth%2C_Texas
 /lccn/sn86089055,The Frisco journal.,en,John T. Risien,"Frisco, Tex.",txdn,http://dbpedia.org/resource/Frisco%2C_Texas
 /lccn/sn86089056,Gainesville evening chronicle.,en,Wortham and Dunn,"Gainesville, Tex.",,http://dbpedia.org/resource/Gainesville%2C_Texas
-/lccn/sn86089057,The weekly hesperian.,en,Geo. T. Yates,"Gainesville, Tex.",,http://dbpedia.org/resource/Gainesville%2C_Texas
+/lccn/sn86089057,The weekly hesperian.,en,Geo. T. Yates,"Gainesville, Tex.",txdn,http://dbpedia.org/resource/Gainesville%2C_Texas
 /lccn/sn86089058,The Gainesville messenger.,en,James K. Rudolph,"Gainesville, Tex.",,http://dbpedia.org/resource/Gainesville%2C_Texas
 /lccn/sn86089059,The Gainesville daily register.,en,[s.n.],"Gainesville, Tex.",,http://dbpedia.org/resource/Gainesville%2C_Texas
 /lccn/sn86089060,The Gainesville weekly register.,en,Register Pub. Co.,"Gainesville, Tex.",,http://dbpedia.org/resource/Gainesville%2C_Texas
@@ -65846,7 +65846,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86089153,The Rusk County news.,en,Dodson & Harris,"Henderson, Tex.",txdn,http://dbpedia.org/resource/Henderson%2C_Texas
 /lccn/sn86089154,Henderson daily news.,en,News Pub. Co.,"Henderson, Tex.",,http://dbpedia.org/resource/Henderson%2C_Texas
 /lccn/sn86089155,Henderson morning herald.,en,News Pub. Co.,"Henderson, Tex.",,http://dbpedia.org/resource/Henderson%2C_Texas
-/lccn/sn86089156,The Greenville herald.,en,E.W. Harris,"Greenville, Tex.",,http://dbpedia.org/resource/Greenville%2C_Texas
+/lccn/sn86089156,The Greenville herald.,en,E.W. Harris,"Greenville, Tex.",txdn,http://dbpedia.org/resource/Greenville%2C_Texas
 /lccn/sn86089157,The Glazier review.,en,Ida M. Farrell,"Glazier, Tex.",,http://dbpedia.org/resource/Glazier%2C_Texas
 /lccn/sn86089158,The Glen Rose herald.,en,H.W. Brown,"Glen Rose, Tex.",,http://dbpedia.org/resource/Glen_Rose%2C_Texas
 /lccn/sn86089159,The Somervell County reporter.,en,J.A. Pharr,"Glen Rose, Tex.",,http://dbpedia.org/resource/Glen_Rose%2C_Texas
@@ -65977,7 +65977,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86089285,The Guadalupe gazette-bulletin.,en,Co-operative Pub. Co.,"Seguin, Tex.",,http://dbpedia.org/resource/Seguin%2C_Texas
 /lccn/sn86089286,The Guadalupe gazette.,en,Bryan & Wagener,"Seguin, Tex.",txdn,http://dbpedia.org/resource/Seguin%2C_Texas
 /lccn/sn86089287,Fort Bend reporter.,en,Clymer L. Wright,"Rosenberg, Tex.",,http://dbpedia.org/resource/Rosenberg%2C_Texas
-/lccn/sn86089288,The local-chronicle.,en,R.E. Yantis & T.E. Strong,"Wills Point, Tex.",,http://dbpedia.org/resource/Wills_Point%2C_Texas
+/lccn/sn86089288,The local-chronicle.,en,R.E. Yantis & T.E. Strong,"Wills Point, Tex.",txdn,http://dbpedia.org/resource/Wills_Point%2C_Texas
 /lccn/sn86089289,The weekly sentinel.,en,Haltom & Harris,"Nacogdoches, Tex.",,http://dbpedia.org/resource/Nacogdoches%2C_Texas
 /lccn/sn86089290,The Good government news.,en,Woodruff Schley,"Dallas, Tex.",,http://dbpedia.org/resource/Dallas
 /lccn/sn86089291,The Hoover herald.,en,R.B. Morris [and] Jesse E. Moseley,"Houston, Tex.",,http://dbpedia.org/resource/Houston
@@ -66077,7 +66077,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86089388,The Indianolian.,en,Alfred P. Bennett,"Indianola, Tex.",txdn,http://dbpedia.org/resource/Indianola%2C_Texas
 /lccn/sn86089389,The Iredell index.,en,J.H. Neel,"Iredell, Tex.",,http://dbpedia.org/resource/Iredell%2C_Texas
 /lccn/sn86089390,The tri-weekly ledger.,en,John H. Hutchinson,"Hempstead, Tex.",txdn,http://dbpedia.org/resource/Hempstead%2C_Texas
-/lccn/sn86089391,Greenville evening banner.,en,"Dial, Hodge & Gee","Greenville, Tex.",,http://dbpedia.org/resource/Greenville%2C_Texas
+/lccn/sn86089391,Greenville evening banner.,en,"Dial, Hodge & Gee","Greenville, Tex.",txdn,http://dbpedia.org/resource/Greenville%2C_Texas
 /lccn/sn86089392,The evening mirror.,en,Thompson G. Campbell,"Hillsboro, Tex.",,http://dbpedia.org/resource/Hillsboro%2C_Texas
 /lccn/sn86089393,Lavaca County nachrichten.,de,Waltersdorf & Zierahn,"Halletsville, Tex.",,http://dbpedia.org/resource/Hallettsville%2C_Texas
 /lccn/sn86089394,The Houston labor echo.,en,Echo Co.,"Houston, Tex.",,http://dbpedia.org/resource/Houston
@@ -66092,7 +66092,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86089404,The Holland progress.,en,L.D. Murphy,"Holland, Tex.",,http://dbpedia.org/resource/Holland%2C_Texas
 /lccn/sn86089405,Weekly Texas citizen.,en,J.J. Rhodes,"Honey Grove, Tex.",txdn,http://dbpedia.org/resource/Honey_Grove%2C_Texas
 /lccn/sn86089406,Galveston weekly journal.,en,Waddell & Gossler,Galveston [Tex.],txdn,http://dbpedia.org/resource/Galveston%2C_Texas
-/lccn/sn86089407,The Greenville morning herald.,en,E.W. Harris,"Greenville, Tex.",ca,http://dbpedia.org/resource/Greenville%2C_Texas
+/lccn/sn86089407,The Greenville morning herald.,en,E.W. Harris,"Greenville, Tex.",ca;txdn,http://dbpedia.org/resource/Greenville%2C_Texas
 /lccn/sn86089408,The Denison herald.,en,Herald Pub. Co.,"Denison, Tex.",txdn,http://dbpedia.org/resource/Denison%2C_Texas
 /lccn/sn86089409,The Hemphill reporter.,en,W.H. Harris,"Hemphill, Tex.",,http://dbpedia.org/resource/Hemphill%2C_Texas
 /lccn/sn86089410,Spirit of the age.,en,Geo. W. Miller,"Houston, Tex.",,http://dbpedia.org/resource/Houston
@@ -66504,7 +66504,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86089831,The Newsome item.,en,Jacques T. Little,"Newsome, Tex.",,
 /lccn/sn86089832,The Newsome argus.,en,J.M. Scott,"Newsome, Tex.",,
 /lccn/sn86089833,The Newton news.,en,J.R. West,"Newton, Tex.",,http://dbpedia.org/resource/Newton%2C_Texas
-/lccn/sn86089834,New Ulm enterprise.,en,John B. Moran,"New Ulm, Tex.",,http://dbpedia.org/resource/New_Ulm%2C_Texas
+/lccn/sn86089834,New Ulm enterprise.,en,John B. Moran,"New Ulm, Tex.",txdn,http://dbpedia.org/resource/New_Ulm%2C_Texas
 /lccn/sn86089835,The Democrat.,en,Clinton Thompson,"McKinney, Tex.",txdn,http://dbpedia.org/resource/McKinney%2C_Texas
 /lccn/sn86089836,The Daily visitor.,en,Deming & Gibson,"Palestine, Tex.",txdn,http://dbpedia.org/resource/Palestine%2C_Texas
 /lccn/sn86089837,Texas sun.,en,Gifford and Winter,"Houston, Tex.",,http://dbpedia.org/resource/Houston
@@ -66586,7 +66586,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86089914,The highlander.,en,Lyman Jones,"Marble Falls, Tex.",,http://dbpedia.org/resource/Marble_Falls%2C_Texas
 /lccn/sn86089915,The Avinger citizen.,en,Leland D. Tidwell,"Avinger, Tex.",,http://dbpedia.org/resource/Avinger%2C_Texas
 /lccn/sn86089916,Biggers' semi-monthly.,en,Don H. Biggers,"Fort Worth, Tex.",,http://dbpedia.org/resource/Fort_Worth%2C_Texas
-/lccn/sn86089917,Ballinger daily ledger.,en,Ledger Pub. Co.,"Ballinger, Tex.",,http://dbpedia.org/resource/Ballinger%2C_Texas
+/lccn/sn86089917,Ballinger daily ledger.,en,Ledger Pub. Co.,"Ballinger, Tex.",txdn,http://dbpedia.org/resource/Ballinger%2C_Texas
 /lccn/sn86089919,The Blossom monitor.,en,C.N. Harris,"Blossom, Tex.",,http://dbpedia.org/resource/Blossom%2C_Texas
 /lccn/sn86089920,The Blossom bee.,en,W. Chester,"Blossom, Tex.",,http://dbpedia.org/resource/Blossom%2C_Texas
 /lccn/sn86089921,The Channing register.,en,C.F. Rudolph,"Channing, Tex.",,http://dbpedia.org/resource/Channing%2C_Texas
@@ -66714,7 +66714,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86090046,The San Angelo enterprise.,en,Felix Probandt,"San Angelo, Tex.",,http://dbpedia.org/resource/San_Angelo%2C_Texas
 /lccn/sn86090047,The Salado news-letter.,en,E.W. Billings,"Salado, Tex.",,http://dbpedia.org/resource/Salado%2C_Texas
 /lccn/sn86090048,The San Angelo press-news.,en,News Pub. Co.,"San Angelo, Tex.",,http://dbpedia.org/resource/San_Angelo%2C_Texas
-/lccn/sn86090049,The San Angelo press.,en,Smith & Parsons,"San Angelo, Tex.",ca,http://dbpedia.org/resource/San_Angelo%2C_Texas
+/lccn/sn86090049,The San Angelo press.,en,Smith & Parsons,"San Angelo, Tex.",ca;txdn,http://dbpedia.org/resource/San_Angelo%2C_Texas
 /lccn/sn86090050,Lone star ranger.,en,[s.n.],"Navasota, Tex.",,http://dbpedia.org/resource/Navasota%2C_Texas
 /lccn/sn86090051,Cherokee standard.,en,A.J. Owens,"Rusk, Tex.",,http://dbpedia.org/resource/Rusk%2C_Texas
 /lccn/sn86090052,San Antonio wöchentlicher courier.,de,Courier Pub. Co.,"San Antonio, Tex.",,http://dbpedia.org/resource/San_Antonio
@@ -66726,10 +66726,10 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86090058,The Lockhart weekly post.,en,Post Pub. Co.,"Lockhart, Tex.",,http://dbpedia.org/resource/Lockhart%2C_Texas
 /lccn/sn86090059,The Lockhart post.,en,Schofield and Andrews,"Lockhart, Tex.",,http://dbpedia.org/resource/Lockhart%2C_Texas
 /lccn/sn86090060,Lockhart post-register.,en,"Schofield, Andrewss and Co.","Lockhart, Tex.",,http://dbpedia.org/resource/Lockhart%2C_Texas
-/lccn/sn86090061,The Sabine news.,en,F.H. Robinson,"Sabine, Tex.",,
-/lccn/sn86090062,The Saint Jo tribune.,en,Clyde Cash,"Saint Jo, Tex.",,
-/lccn/sn86090063,The Sabinal sentinel.,en,Hal Sevier,"Sabinal, Tex.",,http://dbpedia.org/resource/Sabinal%2C_Texas
-/lccn/sn86090064,Sabinal weekly sentinel.,en,T.F. & Hal Sevier,"Sabinal, Tex.",,http://dbpedia.org/resource/Sabinal%2C_Texas
+/lccn/sn86090061,The Sabine news.,en,F.H. Robinson,"Sabine, Tex.",txdn,
+/lccn/sn86090062,The Saint Jo tribune.,en,Clyde Cash,"Saint Jo, Tex.",txdn,
+/lccn/sn86090063,The Sabinal sentinel.,en,Hal Sevier,"Sabinal, Tex.",txdn,http://dbpedia.org/resource/Sabinal%2C_Texas
+/lccn/sn86090064,Sabinal weekly sentinel.,en,T.F. & Hal Sevier,"Sabinal, Tex.",txdn,http://dbpedia.org/resource/Sabinal%2C_Texas
 /lccn/sn86090065,The weekly quid nunc.,en,[s.n.],"Round Rock, Tex.",,http://dbpedia.org/resource/Round_Rock%2C_Texas
 /lccn/sn86090066,The Round Rock news.,en,Wood & Brymer,"Round Rock, Tex.",,http://dbpedia.org/resource/Round_Rock%2C_Texas
 /lccn/sn86090067,The Rosebud news.,en,W.L. Warrock,"Rosebud, Tex.",,http://dbpedia.org/resource/Rosebud%2C_Texas
@@ -66758,14 +66758,14 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86090090,Dritte ausstellung.,de,[publisher not identified],"San Antonio, Tex.",,http://dbpedia.org/resource/San_Antonio
 /lccn/sn86090091,San Antonio weekly times.,en,Times Print. Co.,"San Antonio, Tex.",,http://dbpedia.org/resource/San_Antonio
 /lccn/sn86090092,The people's era.,en,J.H. Julian,"San Marcos, Tex.",txdn,http://dbpedia.org/resource/San_Marcos%2C_Texas
-/lccn/sn86090093,La Fe catolica.,es,Carlos Backmann,"San Antonio, Tex.",,http://dbpedia.org/resource/San_Antonio
+/lccn/sn86090093,La Fe catolica.,es,Carlos Backmann,"San Antonio, Tex.",txdn,http://dbpedia.org/resource/San_Antonio
 /lccn/sn86090094,Texas banner.,de,Texas Banner Pub. Co.,"San Antonio, Tex.",,http://dbpedia.org/resource/San_Antonio
 /lccn/sn86090095,The San Antonian.,en,R.J. Teel,"San Antonio, Tex.",,http://dbpedia.org/resource/San_Antonio
 /lccn/sn86090096,The Texas Jewish press.,en,J. Riklin,"San Antonio, Tex.",,http://dbpedia.org/resource/San_Antonio
 /lccn/sn86090097,The Texas tribune.,en,Texas Tribune Pub. Co.,"San Antonio, Tex.",,http://dbpedia.org/resource/San_Antonio
 /lccn/sn86090098,San Augustine tribune.,en,Littleton Terry,"San Augustine, Tex.",txdn,http://dbpedia.org/resource/San_Augustine%2C_Texas
-/lccn/sn86090099,San Benito light.,en,A.E. Stephenson,"San Benito, Tex.",,http://dbpedia.org/resource/San_Benito%2C_Texas
-/lccn/sn86090100,The Sanger courier.,en,Ernest Logsdon,"Sanger, Tex.",,http://dbpedia.org/resource/Sanger%2C_Texas
+/lccn/sn86090099,San Benito light.,en,A.E. Stephenson,"San Benito, Tex.",txdn,http://dbpedia.org/resource/San_Benito%2C_Texas
+/lccn/sn86090100,The Sanger courier.,en,Ernest Logsdon,"Sanger, Tex.",txdn,http://dbpedia.org/resource/Sanger%2C_Texas
 /lccn/sn86090101,La voz.,es;en,Estrella Print. Co.,"San Antonio, Tex.",,http://dbpedia.org/resource/San_Antonio
 /lccn/sn86090102,The Navasota examiner and Grimes County review.,en,Whitten & Son,"Navasota, Tex.",,http://dbpedia.org/resource/Navasota%2C_Texas
 /lccn/sn86090103,The Daily herald and San Antonio public advertiser.,en,Logan & West,"San Antonio, Tex.",txdn,http://dbpedia.org/resource/San_Antonio
@@ -66773,11 +66773,11 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86090105,The San Antonio weekly herald.,en,"Logan, Sweet & Palmer","San Antonio, Tex.",txdn,http://dbpedia.org/resource/San_Antonio
 /lccn/sn86090106,The star.,en,Star Pub. Co.,"San Antonio, Tex.",,http://dbpedia.org/resource/San_Antonio
 /lccn/sn86090107,The evening paper.,en,Evening Paper Pub. Co.,"San Antonio, Tex.",,http://dbpedia.org/resource/San_Antonio
-/lccn/sn86090108,El Democrata.,es,Prof. A. Reina y Garcia,"San Ygnacio, Tex.",,
-/lccn/sn86090109,El aldeano.,es,Clemente G. Gonzales,"Uribeño, Tex.",,
+/lccn/sn86090108,El Democrata.,es,Prof. A. Reina y Garcia,"San Ygnacio, Tex.",txdn,
+/lccn/sn86090109,El aldeano.,es,Clemente G. Gonzales,"Uribeño, Tex.",txdn,
 /lccn/sn86090110,Labor messenger.,en,Houston Labor & Trade Council Pub. Co.,Houston,,http://dbpedia.org/resource/Houston
 /lccn/sn86090111,Duval County facts.,en,Edwards Pub. Co.,"San Diego, Tex.",,http://dbpedia.org/resource/San_Diego%2C_Texas
-/lccn/sn86090112,La Libertad.,es,F. de P. González,"San Diego, Tex.",,http://dbpedia.org/resource/San_Diego%2C_Texas
+/lccn/sn86090112,La Libertad.,es,F. de P. González,"San Diego, Tex.",txdn,http://dbpedia.org/resource/San_Diego%2C_Texas
 /lccn/sn86090113,The San Marcos weekly pioneer.,en,Snyder & Earnest,"San Marcos, Tex.",,http://dbpedia.org/resource/San_Marcos%2C_Texas
 /lccn/sn86090114,The Hays County times and farmers' journal.,en,Geo. A. McNaughton,"Kyle, Tex.",txdn,http://dbpedia.org/resource/Kyle%2C_Texas
 /lccn/sn86090115,San Marcos daily herald.,en,[publisher not identified],"San Marcos, Tex.",,http://dbpedia.org/resource/San_Marcos%2C_Texas
@@ -66796,12 +66796,12 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86090128,The Paris morning news.,en,North Texas Pub. Co.,"Paris, Tex.",,http://dbpedia.org/resource/Paris%2C_Texas
 /lccn/sn86090129,Flake's Galveston bulletin.,en,Bulletin Pub. Co.,"Galveston, Tex.",,http://dbpedia.org/resource/Galveston%2C_Texas
 /lccn/sn86090130,The Quitman weekly news.,en,J.S. Hogg,"Quitman, Tex.",,http://dbpedia.org/resource/Quitman%2C_Texas
-/lccn/sn86090131,The Trans=Pecos news.,en,A.T. Folsom,"Sanderson, Tex.",,http://dbpedia.org/resource/Sanderson%2C_Texas
+/lccn/sn86090131,The Trans=Pecos news.,en,A.T. Folsom,"Sanderson, Tex.",txdn,http://dbpedia.org/resource/Sanderson%2C_Texas
 /lccn/sn86090132,The Paris evening news (and the dinner horn).,en,North Texas Pub. Co.,"Paris, Tex.",,http://dbpedia.org/resource/Paris%2C_Texas
 /lccn/sn86090133,The Paris morning news (and the dinner horn).,en,North Texas Pub. Co.,"Paris, Tex.",,http://dbpedia.org/resource/Paris%2C_Texas
 /lccn/sn86090134,The Southwest retailer.,en,Southwest Retailer Pub. Co.,"San Antonio, Tex.",,http://dbpedia.org/resource/San_Antonio
 /lccn/sn86090135,The Kingsville record.,en,R.G. Mecklin,"Kingsville, Tex.",txdn,http://dbpedia.org/resource/Kingsville%2C_Texas
-/lccn/sn86090136,Waco daily news.,en,Hill & Ivy,"Waco, Tex.",,http://dbpedia.org/resource/Waco%2C_Texas
+/lccn/sn86090136,Waco daily news.,en,Hill & Ivy,"Waco, Tex.",txdn,http://dbpedia.org/resource/Waco%2C_Texas
 /lccn/sn86090137,Texas capitol news.,en,John T. Smith,"Austin, Tex.",,http://dbpedia.org/resource/Austin%2C_Texas
 /lccn/sn86090138,T-patch : 36th Infantry Division news.,en,36th Infantry Division,[Place of publication not identified],,http://dbpedia.org/resource/Austin%2C_Texas
 /lccn/sn86090139,The Lavaca commercial.,en,H.S. Thrall,"Lavaca [i.e. Port Lavaca], Tex.",,http://dbpedia.org/resource/Port_Lavaca%2C_Texas
@@ -66903,7 +66903,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86090238,San Antonio light and gazette.,en,G.D. Robbins,"San Antonio, Tex.",ca;txdn,http://dbpedia.org/resource/San_Antonio
 /lccn/sn86090239,The daily Texan.,en,G.R. Fink,San Antonio [Tex.],txdn,http://dbpedia.org/resource/San_Antonio
 /lccn/sn86090240,The tri-weekly ledger.,en,J.M. Smith,San Antonio [Tex.],,http://dbpedia.org/resource/San_Antonio
-/lccn/sn86090241,The West Texas news.,en,West Texas News Pub. Co.,"Snyder, Tex.",,http://dbpedia.org/resource/Snyder%2C_Texas
+/lccn/sn86090241,The West Texas news.,en,West Texas News Pub. Co.,"Snyder, Tex.",txdn,http://dbpedia.org/resource/Snyder%2C_Texas
 /lccn/sn86090242,The Union.,en,[s.n.],"San Antonio, Tex.",txdn,http://dbpedia.org/resource/San_Antonio
 /lccn/sn86090243,Skidmore sentinel.,en,J.R. Street,"Skidmore, Tex.",,http://dbpedia.org/resource/Skidmore%2C_Texas
 /lccn/sn86090244,The Sealy news.,en,Lon Davis,"Sealy, Tex.",txdn,http://dbpedia.org/resource/Sealy%2C_Texas
@@ -66917,8 +66917,8 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86090252,Springtown local.,en,Nix & Dikes,"Springtown, Tex.",txdn,http://dbpedia.org/resource/Springtown%2C_Texas
 /lccn/sn86090253,Stephenville journal.,en,C.B. Bassel,"Stephenville, Tex.",txdn,http://dbpedia.org/resource/Stephenville%2C_Texas
 /lccn/sn86090254,The Erath appeal.,en,Hibdon & King,"Stephenville, Tex.",txdn,http://dbpedia.org/resource/Stephenville%2C_Texas
-/lccn/sn86090255,The Somerville advertiser.,en,Frank Burney,"Somerville, Tex.",,http://dbpedia.org/resource/Somerville%2C_Texas
-/lccn/sn86090256,The Somerville tribune.,en,Shannon Print. Co.,"Somerville, Tex.",,http://dbpedia.org/resource/Somerville%2C_Texas
+/lccn/sn86090255,The Somerville advertiser.,en,Frank Burney,"Somerville, Tex.",txdn,http://dbpedia.org/resource/Somerville%2C_Texas
+/lccn/sn86090256,The Somerville tribune.,en,Shannon Print. Co.,"Somerville, Tex.",txdn,http://dbpedia.org/resource/Somerville%2C_Texas
 /lccn/sn86090257,The Snyder daily news.,en,Times Print. Co.,"Snyder, Tex.",,http://dbpedia.org/resource/Snyder%2C_Texas
 /lccn/sn86090258,The San Benito news.,en,E.E. Meyers,"San Benito, Tex.",,http://dbpedia.org/resource/San_Benito%2C_Texas
 /lccn/sn86090259,The Sealy news.,en,Lon Davis,"Sealy, Tex.",txdn,http://dbpedia.org/resource/Sealy%2C_Texas
@@ -66932,7 +66932,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86090267,The Smiley reflector.,en,Geo. W. Coltrin,"Smiley, Tex.",,http://dbpedia.org/resource/Smiley%2C_Texas
 /lccn/sn86090268,The Smithville transcript.,en,W.M. Cobb,"Smithville, Tex.",,http://dbpedia.org/resource/Smithville%2C_Texas
 /lccn/sn86090269,The Stamford news.,en,S. Gray,"Stamford, Tex.",txdn,http://dbpedia.org/resource/Stamford%2C_Texas
-/lccn/sn86090270,Shiner gazette.,en,C.W. Ward,"Shiner, Tex.",acdc;ca,http://dbpedia.org/resource/Shiner%2C_Texas
+/lccn/sn86090270,Shiner gazette.,en,C.W. Ward,"Shiner, Tex.",acdc;ca;txdn,http://dbpedia.org/resource/Shiner%2C_Texas
 /lccn/sn86090271,Grayson County news.,en,[publisher not identified],"Grayson, Tex.",,http://dbpedia.org/resource/Sherman%2C_Texas
 /lccn/sn86090272,The Veteran news magazine.,en,A.N. Stroter,"Corpus Christi, Tex.",,http://dbpedia.org/resource/Corpus_Christi%2C_Texas
 /lccn/sn86090273,The Tioga herald.,en,[publisher not identified],"Tioga, Tex.",txdn,http://dbpedia.org/resource/Tioga%2C_Texas
@@ -66965,7 +66965,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn86090300,The Waco daily day.,en,A.M. Kennedy,"Waco, Tex.",,http://dbpedia.org/resource/Waco%2C_Texas
 /lccn/sn86090301,Street's weekly news.,en,J.K. Street,"Waco, Tex.",,http://dbpedia.org/resource/Waco%2C_Texas
 /lccn/sn86090302,Brazos statesman.,en,J.O. Shook & Co.,"Waco, Tex.",txdn,http://dbpedia.org/resource/Waco%2C_Texas
-/lccn/sn86090303,The Coming West.,en,E.W. Pool,"Snyder, Tex.",,http://dbpedia.org/resource/Snyder%2C_Texas
+/lccn/sn86090303,The Coming West.,en,E.W. Pool,"Snyder, Tex.",txdn,http://dbpedia.org/resource/Snyder%2C_Texas
 /lccn/sn86090304,Tyler American.,en,L.M. Green,"Tyler, Tex.",txdn,http://dbpedia.org/resource/Tyler%2C_Texas
 /lccn/sn86090305,The daily courier.,en,Green & McDougal,"Tyler, Tex.",txdn,http://dbpedia.org/resource/Tyler%2C_Texas
 /lccn/sn86090306,The semi=weekly courier.,en,Green & Adams,"Tyler, Tex.",txdn,http://dbpedia.org/resource/Tyler%2C_Texas
@@ -72849,7 +72849,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn87060180,The American red man.,en,M.L. Marshall,"Louisville, Ky.",,http://dbpedia.org/resource/Louisville%2C_Kentucky
 /lccn/sn87060182,Catholic advocate.,en,B.J. Webb,Louisville [Ky.],,http://dbpedia.org/resource/Louisville%2C_Kentucky
 /lccn/sn87060183,"Catholic advocate, and journal of useful literature, and general intelligence.",en,B.J. Webb,"Bardstown, Ky.",,http://dbpedia.org/resource/Bardstown%2C_Kentucky
-/lccn/sn87060184,Omnibus.,de,Wilhelm Krippenstapel,"[Louisville, Ky.]",ia,http://dbpedia.org/resource/Louisville%2C_Kentucky
+/lccn/sn87060184,Omnibus.,de,Wilhelm Krippenstapel,"[Louisville, Ky.]",ca-new;ia,http://dbpedia.org/resource/Louisville%2C_Kentucky
 /lccn/sn87060185,"The Baptist banner, and journal of health.",en,Dr. J. Wilson,"Shelbyville, Ky.",,http://dbpedia.org/resource/Shelbyville%2C_Kentucky
 /lccn/sn87060187,Christian intelligencer.,en,Printed and published by William A. Mercein for an Association of members of the Protestant Reformed Dutch Church,New-York [N.Y.],,http://dbpedia.org/resource/New_York_City
 /lccn/sn87060188,Floyd County times.,en,Prestonsburg Pub. Co.,"Prestonsburg, Ky.",,http://dbpedia.org/resource/Prestonsburg%2C_Kentucky
@@ -75188,7 +75188,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn87076631,Defiance crescent-news.,en,Crescent Print. Co.,"Defiance, Ohio",,http://dbpedia.org/resource/Defiance%2C_Ohio
 /lccn/sn87076632,Daily Republican.,en,C.J. Thompson,"Defiance, Ohio",,http://dbpedia.org/resource/Defiance%2C_Ohio
 /lccn/sn87076633,Defiance daily express.,en,W.D. Trumbull,"Defiance, Ohio",,http://dbpedia.org/resource/Defiance%2C_Ohio
-/lccn/sn87076634,The News-Tribune.,en,E.D. Potter & R.A. Noffsinger,"Hicksville, Ohio",,http://dbpedia.org/resource/Hicksville%2C_Ohio
+/lccn/sn87076634,The News-Tribune.,en,E.D. Potter & R.A. Noffsinger,"Hicksville, Ohio",ca-new,http://dbpedia.org/resource/Hicksville%2C_Ohio
 /lccn/sn87076635,The Arlingtonian.,en,C.C. Longworth,"Arlington, Ohio",,http://dbpedia.org/resource/Arlington%2C_Ohio
 /lccn/sn87076636,Hancock journal.,en,G.G. & J.S. Lyon,"Findlay, Ohio",,http://dbpedia.org/resource/Findlay%2C_Ohio
 /lccn/sn87076637,Findlay Wochenblatt.,de,Christian Penn,"Findlay, Hancock County, Ohio",,http://dbpedia.org/resource/Findlay%2C_Ohio
@@ -77929,7 +77929,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn87090243,Evening record.,en,Galveston Print'g & Pub. Co.,"Galveston, Tex.",,http://dbpedia.org/resource/Galveston%2C_Texas
 /lccn/sn87090244,The Galveston clipper.,en,Clipper Pub. Co.,"Galveston, Tex.",,http://dbpedia.org/resource/Galveston%2C_Texas
 /lccn/sn87090245,Galveston daily union.,en,A.W. Hartman,"Galveston, Tex.",,http://dbpedia.org/resource/Galveston%2C_Texas
-/lccn/sn87090246,The Galveston star.,en,G. Walter Reed,"Galveston, Tex.",,http://dbpedia.org/resource/Galveston%2C_Texas
+/lccn/sn87090246,The Galveston star.,en,G. Walter Reed,"Galveston, Tex.",txdn,http://dbpedia.org/resource/Galveston%2C_Texas
 /lccn/sn87090247,The Galveston daily record.,en,City Pub. Co.,"Galveston, Tex.",,http://dbpedia.org/resource/Galveston%2C_Texas
 /lccn/sn87090248,Texas star.,en,C.H. de Lamorton,"Galveston, Tex.",,http://dbpedia.org/resource/Galveston%2C_Texas
 /lccn/sn87090249,The Democrat.,en,W.N. Hammons,"Galveston, Tex.",,http://dbpedia.org/resource/Galveston%2C_Texas
@@ -78011,7 +78011,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn87090327,L'aurora.,it;en,[publisher not identified],"Houston, Tex.",,http://dbpedia.org/resource/Houston
 /lccn/sn87090328,Wochentliche union.,de,A. Flake,"Galveston, Tex.",,http://dbpedia.org/resource/Galveston%2C_Texas
 /lccn/sn87090329,Galveston journal.,de,Carl Ungar,"Galveston, Tex.",,http://dbpedia.org/resource/Galveston%2C_Texas
-/lccn/sn87090330,La Stella del Texas.,it,La Stella del Texas Print. Co.,"Galveston, Tex.",,http://dbpedia.org/resource/Galveston%2C_Texas
+/lccn/sn87090330,La Stella del Texas.,it,La Stella del Texas Print. Co.,"Galveston, Tex.",txdn,http://dbpedia.org/resource/Galveston%2C_Texas
 /lccn/sn87090331,La Patria degli Italiani.,it,A. Bresso,"Galveston, Tex.",,http://dbpedia.org/resource/Galveston%2C_Texas
 /lccn/sn87090332,Farm Bureau news.,en,Texas Farm Bureau Federation,"Dallas, Tex.",,http://dbpedia.org/resource/Dallas
 /lccn/sn87090333,Pioneer news-observer.,en,"Western Horizons, Inc.","Mountain Home, Tex.",,http://dbpedia.org/resource/Kerrville%2C_Texas
@@ -78034,8 +78034,8 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn87090351,Texas white ribbon.,en,Mrs Jeane Dixon,"Dallas, Tex.",,http://dbpedia.org/resource/Dallas
 /lccn/sn87090352,Richland register and the Central Texas times.,en,A & P Pub.,"Corsicana, Tex.",,http://dbpedia.org/resource/Corsicana%2C_Texas
 /lccn/sn87090353,Tri-weekly enterprise.,en,Enterprise Pub. Co.,"Cleburne, Tex.",,http://dbpedia.org/resource/Cleburne%2C_Texas
-/lccn/sn87090354,The Texan-telephone.,en,W.E. Foster,"Canton, Tex.",,http://dbpedia.org/resource/Canton%2C_Texas
-/lccn/sn87090355,The Canton telephone.,en,W.E. Foster,"Canton, Tex.",,http://dbpedia.org/resource/Canton%2C_Texas
+/lccn/sn87090354,The Texan-telephone.,en,W.E. Foster,"Canton, Tex.",txdn,http://dbpedia.org/resource/Canton%2C_Texas
+/lccn/sn87090355,The Canton telephone.,en,W.E. Foster,"Canton, Tex.",txdn,http://dbpedia.org/resource/Canton%2C_Texas
 /lccn/sn87090356,The vox populi.,en,P.W. Carr,"Calvert, Tex.",,http://dbpedia.org/resource/Calvert%2C_Texas
 /lccn/sn87090357,Missionary Baptist.,en,J.B. Cole,"Aubrey, Tex.",,http://dbpedia.org/resource/Aubrey%2C_Texas
 /lccn/sn87090358,The Baptist tribune.,en,J.B. Cranfill,"Abilene, Tex.",,http://dbpedia.org/resource/Abilene%2C_Texas
@@ -78065,7 +78065,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn87090382,The Daily advance.,en,G.B. Gerald,"Waco, Tex.",,http://dbpedia.org/resource/Waco%2C_Texas
 /lccn/sn87090383,The Silsbee signal.,en,J.B. Power,"Silsbee, Tex.",,http://dbpedia.org/resource/Silsbee%2C_Texas
 /lccn/sn87090384,The Kimble County citizen.,en,H.L. Winslett,"Junction City, Tex.",,
-/lccn/sn87090385,Waco evening news.,en,The News Co.,"Waco, Tex.",ca,http://dbpedia.org/resource/Waco%2C_Texas
+/lccn/sn87090385,Waco evening news.,en,The News Co.,"Waco, Tex.",ca;txdn,http://dbpedia.org/resource/Waco%2C_Texas
 /lccn/sn87090386,Waco news.,en,News Pub. Co.,"Waco, Tex.",,http://dbpedia.org/resource/Waco%2C_Texas
 /lccn/sn87090387,Waco morning news.,en,[s.n.],"Waco, Tex.",,http://dbpedia.org/resource/Waco%2C_Texas
 /lccn/sn87090388,The Youth's southland.,en,Southland Pub. Co.,"Waco, Tex.",,http://dbpedia.org/resource/Waco%2C_Texas
@@ -78871,7 +78871,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn87091218,Liberty County news and progressive outlook.,en,M.B. Brown,"Hull-Daisetta, Tex.",,http://dbpedia.org/resource/Daisetta%2C_Texas
 /lccn/sn87091220,The Daytonite.,en,Le Sueur & Daniel,"Dayton, Tex.",,http://dbpedia.org/resource/Dayton%2C_Texas
 /lccn/sn87091221,San Saba news and San Saba star.,en,Howard A. Harrison,"San Saba, Tex.",,http://dbpedia.org/resource/San_Saba%2C_Texas
-/lccn/sn87091222,The San Saba weekly news.,en,J.E. Vernor,"San Saba, Tex.",ca,http://dbpedia.org/resource/San_Saba%2C_Texas
+/lccn/sn87091222,The San Saba weekly news.,en,J.E. Vernor,"San Saba, Tex.",ca;txdn,http://dbpedia.org/resource/San_Saba%2C_Texas
 /lccn/sn87091223,The Gulf Coast news.,en,Gulf Coast Pub.,"Winnie, Tex.",,http://dbpedia.org/resource/Winnie%2C_Texas
 /lccn/sn87091224,The Hempstead-Waller news.,en,Hempstead Pub. Corp.,"Hempstead, Tex.",,http://dbpedia.org/resource/Hempstead%2C_Texas
 /lccn/sn87091225,The Illustrated press of Liberty County.,en,Wiley Smith,"Dayton, Tex.",,http://dbpedia.org/resource/Dayton%2C_Texas
@@ -86980,7 +86980,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn88083185,Town crier.,en,Gary Burford,"San Marcos, Tex.",,http://dbpedia.org/resource/San_Marcos%2C_Texas
 /lccn/sn88083186,Suburban news.,en,Ed King,"Dallas, Tex.",,http://dbpedia.org/resource/Dallas
 /lccn/sn88083187,The White Rocker news.,en,"White Rocker, Inc.","Dallas, Tex.",,http://dbpedia.org/resource/Dallas
-/lccn/sn88083188,Lockhart daily post.,en,Post Pub. Co.,"Lockhart, Tex.",,http://dbpedia.org/resource/Lockhart%2C_Texas
+/lccn/sn88083188,Lockhart daily post.,en,Post Pub. Co.,"Lockhart, Tex.",txdn,http://dbpedia.org/resource/Lockhart%2C_Texas
 /lccn/sn88083189,Kyle eagle.,en,Gary Burford,"Kyle, Tex.",,http://dbpedia.org/resource/Kyle%2C_Texas
 /lccn/sn88083190,The sun.,en,Terry Lantrip,"Lake Dallas, Tex.",,http://dbpedia.org/resource/Lake_Dallas%2C_Texas
 /lccn/sn88083191,The Ft. Wolters trumpet.,en,Weatherford Democrat,"Weatherford, Tex.",,http://dbpedia.org/resource/Weatherford%2C_Texas
@@ -87111,7 +87111,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn88083320,Texas farm and fireside and semi-weekly post.,en,Houston Print. Co.,"Houston, Tex.",,http://dbpedia.org/resource/Houston
 /lccn/sn88083321,Southwest Texas Baptist.,en,E.E. Dawson,"Kingsville, Tex.",,http://dbpedia.org/resource/Kingsville%2C_Texas
 /lccn/sn88083322,The Spurlin advance.,en,Spurlin Townsite Co.,"Spurlin, Tex.",,
-/lccn/sn88083323,The Teague chronicle.,en,Chronicle Pub. Co.,"Teague, Tex.",,http://dbpedia.org/resource/Teague%2C_Texas
+/lccn/sn88083323,The Teague chronicle.,en,Chronicle Pub. Co.,"Teague, Tex.",txdn,http://dbpedia.org/resource/Teague%2C_Texas
 /lccn/sn88083324,Teague daily herald.,en,Yantis & Daniel,"Teague, Tex.",,http://dbpedia.org/resource/Teague%2C_Texas
 /lccn/sn88083325,The Waco oil news.,en,Central Pub. Co.,"Waco, Tex.",,http://dbpedia.org/resource/Waco%2C_Texas
 /lccn/sn88083326,Church bell.,en,E. Wickens & W.D. Sartwelle,"Waco, Tex.",,http://dbpedia.org/resource/Waco%2C_Texas
@@ -87202,7 +87202,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn88083413,The Daily evening star.,en,Jan Byrd,"Cleburne, Tex.",,http://dbpedia.org/resource/Cleburne%2C_Texas
 /lccn/sn88083414,The Cleburne telegram.,en,Moore & Senter,"Cleburne, Tex.",,http://dbpedia.org/resource/Cleburne%2C_Texas
 /lccn/sn88083415,Cleburne herald.,en,Herald Pub. Co.,"Cleburne, Tex.",,http://dbpedia.org/resource/Cleburne%2C_Texas
-/lccn/sn88083416,Daily enterprise.,en,J.R. Ransone,"Cleburne, Tex.",,http://dbpedia.org/resource/Cleburne%2C_Texas
+/lccn/sn88083416,Daily enterprise.,en,J.R. Ransone,"Cleburne, Tex.",txdn,http://dbpedia.org/resource/Cleburne%2C_Texas
 /lccn/sn88083417,The Wimberley times.,en,[s.n.],"Wimberley, Tex.",,http://dbpedia.org/resource/Wimberley%2C_Texas
 /lccn/sn88083418,Strawn success.,en,Byrd Bros.,"Strawn, Tex.",,http://dbpedia.org/resource/Strawn%2C_Texas
 /lccn/sn88083419,The Times guardian and Comal County chronicle.,en,Southern Newspapers Inc.,"Canyon Lake, Tex.",,http://dbpedia.org/resource/Canyon_Lake%2C_Texas
@@ -87243,7 +87243,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn88083454,The Lake Worth news.,en,Suburban Newspapers,"Fort Worth, Tex.",,http://dbpedia.org/resource/Fort_Worth%2C_Texas
 /lccn/sn88083455,The Appeal.,en,Alice L. Leech,"Cleburne, Tex.",,http://dbpedia.org/resource/Cleburne%2C_Texas
 /lccn/sn88083456,Daily twin city newss.,en,Carl Miller,"Texarkana, Ark.",,http://dbpedia.org/resource/Texarkana%2C_Arkansas
-/lccn/sn88083457,The Fayetteville fact.,en,Fayetteville Pub. Co.,"Fayetteville, Tex.",,http://dbpedia.org/resource/Fayetteville%2C_Texas
+/lccn/sn88083457,The Fayetteville fact.,en,Fayetteville Pub. Co.,"Fayetteville, Tex.",txdn,http://dbpedia.org/resource/Fayetteville%2C_Texas
 /lccn/sn88083458,Fayetteville news.,en,Albert Fabian,"Fayetteville, Tex.",,http://dbpedia.org/resource/Fayetteville%2C_Texas
 /lccn/sn88083459,Florence free press.,en,Peggy Jo Ross,"Florence, Tex.",,http://dbpedia.org/resource/Florence%2C_Texas
 /lccn/sn88083460,The South side sun.,en,Tom H. Putnam,"Fort Worth, Tex.",,http://dbpedia.org/resource/Fort_Worth%2C_Texas
@@ -87268,7 +87268,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn88083479,Newton County record.,en,T. Curtis,"Burkeville, Tex.",,http://dbpedia.org/resource/Burkeville%2C_Texas
 /lccn/sn88083480,The Brown County banner.,en,J.L. Harris,"Brownwood, Tex.",,http://dbpedia.org/resource/Brownwood%2C_Texas
 /lccn/sn88083481,The Blooming Grove sun.,en,E.P. Gordon,"Blooming Grove, Tex.",,http://dbpedia.org/resource/Blooming_Grove%2C_Texas
-/lccn/sn88083482,The Schulenburg argus.,en,P.E. Edmondson,"Schulenburg, Tex.",,http://dbpedia.org/resource/Schulenburg%2C_Texas
+/lccn/sn88083482,The Schulenburg argus.,en,P.E. Edmondson,"Schulenburg, Tex.",txdn,http://dbpedia.org/resource/Schulenburg%2C_Texas
 /lccn/sn88083483,Roby banner.,en,D.T. Bulloch,"Roby, Tex.",,http://dbpedia.org/resource/Roby%2C_Texas
 /lccn/sn88083484,The daily tribune.,en,Tribune Pub. Co.,"Weimar, Tex.",,http://dbpedia.org/resource/Weimar%2C_Texas
 /lccn/sn88083485,The Eagle Lake gimlet.,en,Lehman & Ivy,"Eagle Lake, Tex.",,http://dbpedia.org/resource/Eagle_Lake%2C_Texas
@@ -87333,7 +87333,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn88083544,Lackland area leader-times.,en,Lewis F. Fisher,"San Antonio, Tex.",,http://dbpedia.org/resource/San_Antonio
 /lccn/sn88083545,Maverick County clarion.,en,Donald E. Smith,"Eagle Pass, Tex.",,http://dbpedia.org/resource/Eagle_Pass%2C_Texas
 /lccn/sn88083546,Lone Star tribune.,en,J. Frank Palmer,"Lone Star, Tex.",,http://dbpedia.org/resource/Lone_Star%2C_Texas
-/lccn/sn88083547,The Cotulla record.,en,Manly & Manly,"Cotulla, Tex.",,http://dbpedia.org/resource/Cotulla%2C_Texas
+/lccn/sn88083547,The Cotulla record.,en,Manly & Manly,"Cotulla, Tex.",txdn,http://dbpedia.org/resource/Cotulla%2C_Texas
 /lccn/sn88083548,The Castroville anvil.,en,Anvil Print. Co.,"Castroville, Tex.",,http://dbpedia.org/resource/Castroville%2C_Texas
 /lccn/sn88083549,The free press.,en,Walter E. Boyd,"Paris, Tex.",,http://dbpedia.org/resource/Paris%2C_Texas
 /lccn/sn88083550,The Delta courier.,en,Hart Bros.,"Cooper, Tex.",txdn,http://dbpedia.org/resource/Cooper%2C_Texas
@@ -87570,7 +87570,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn88083790,El Universal.,es,Rudy Mirabel,"Corpus Christi, Tex.",,http://dbpedia.org/resource/Corpus_Christi%2C_Texas
 /lccn/sn88083791,The evening times.,en,Times Pub. Co.,"Tyler, Tex.",txdn,http://dbpedia.org/resource/Tyler%2C_Texas
 /lccn/sn88083792,Moore Air Base sunbath dispatch.,en,"Moore Air Base, John D. Watson, Jr.","Mission, Tex.",,http://dbpedia.org/resource/Mission%2C_Texas
-/lccn/sn88083793,Las dos Republicas.,es,Romauldo Trevino,"Brownsville, Tex.",,http://dbpedia.org/resource/Brownsville%2C_Texas
+/lccn/sn88083793,Las dos Republicas.,es,Romauldo Trevino,"Brownsville, Tex.",txdn,http://dbpedia.org/resource/Brownsville%2C_Texas
 /lccn/sn88083794,El Pueblo fronterizo.,es;en,El Centro Del Pueblo,"Raymondville, Tex.",,http://dbpedia.org/resource/Raymondville%2C_Texas
 /lccn/sn88083795,The herald.,en,Edinburg Daily Review,"Rio Grande City, Tex.",,http://dbpedia.org/resource/Rio_Grande_City%2C_Texas
 /lccn/sn88083796,La Voz de McAllen Texas.,es,Carlos H. Rodriquez Saenz,"McAllen, Tex.",,http://dbpedia.org/resource/McAllen%2C_Texas
@@ -87916,7 +87916,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn88084145,The Circle register.,en,Gene Erlich,"Follett, Tex.",,http://dbpedia.org/resource/Follett%2C_Texas
 /lccn/sn88084146,The Daily Brownwood bulletin.,en,[s.n.],"Brownwood, Tex.",txdn,http://dbpedia.org/resource/Brownwood%2C_Texas
 /lccn/sn88084147,The Clarendon chronicle.,en,W.P. Blake,"Clarendon, Tex.",,http://dbpedia.org/resource/Clarendon%2C_Texas
-/lccn/sn88084148,Daily Fort Worth standard.,en,[s.n.],"Fort Worth, Tex.",,http://dbpedia.org/resource/Fort_Worth%2C_Texas
+/lccn/sn88084148,Daily Fort Worth standard.,en,[s.n.],"Fort Worth, Tex.",txdn,http://dbpedia.org/resource/Fort_Worth%2C_Texas
 /lccn/sn88084149,The Kiowa Valley independent.,en,Gene Erlich,"Darrouzett, Tex.",,http://dbpedia.org/resource/Darrouzett%2C_Texas
 /lccn/sn88084150,Lexington community news.,en,Capitol Assoc. Services,"Lexington, Tex.",,http://dbpedia.org/resource/Lexington%2C_Texas
 /lccn/sn88084151,The Christian age.,en,D.S. Burnet,"Cincinnati, Ohio",,http://dbpedia.org/resource/Cincinnati
@@ -88017,7 +88017,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn88084251,Home town news.,en,[s.n.],"Syracuse, N.Y.",,http://dbpedia.org/resource/Syracuse%2C_New_York
 /lccn/sn88084252,The drum.,en,Drum Pub. Co.,"Denver, Colo.",,http://dbpedia.org/resource/Denver
 /lccn/sn88084253,Houston chronicle.,en,Houston Chronicle Pub. Co.,"Houston, Tex.",,http://dbpedia.org/resource/Houston
-/lccn/sn88084254,Texas Volksfreund.,en;de,Volksfreund Co.,"Schulenburg, Tex.",,http://dbpedia.org/resource/Schulenburg%2C_Texas
+/lccn/sn88084254,Texas Volksfreund.,en;de,Volksfreund Co.,"Schulenburg, Tex.",txdn,http://dbpedia.org/resource/Schulenburg%2C_Texas
 /lccn/sn88084255,The Brookshire times.,en,Mary Ann Ernstes,"Brookshire, Tex.",,http://dbpedia.org/resource/Brookshire%2C_Texas
 /lccn/sn88084256,The Belton independent.,en,"A. Marschalk, Jr.","Belton, Tex.",txdn,http://dbpedia.org/resource/Belton%2C_Texas
 /lccn/sn88084257,The Tyler courier-times.,en,T.B. Butler Pub. Co.,"Tyler, Tex.",,http://dbpedia.org/resource/Tyler%2C_Texas
@@ -88036,7 +88036,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn88084271,The Rosenberg herald.,en,Mr. & Mrs. M.E. Parrott,"Rosenberg, Tex.",,http://dbpedia.org/resource/Rosenberg%2C_Texas
 /lccn/sn88084272,El Paso herald.,en,Herald News Co.,"El Paso, Tex.",ca;txdn,http://dbpedia.org/resource/El_Paso%2C_Texas
 /lccn/sn88084273,La Voz de Texas.,es;en,Augustin Medina & Bidal Aguero,"Lubbock, Tex.",,http://dbpedia.org/resource/Lubbock%2C_Texas
-/lccn/sn88084274,Eagle Pass news-guide.,en,Jos. O. Boehmer,"Eagle Pass, Tex.",,http://dbpedia.org/resource/Eagle_Pass%2C_Texas
+/lccn/sn88084274,Eagle Pass news-guide.,en,Jos. O. Boehmer,"Eagle Pass, Tex.",txdn,http://dbpedia.org/resource/Eagle_Pass%2C_Texas
 /lccn/sn88084275,Weekly record.,en,[s.n.],"Eastland, Tex.",,http://dbpedia.org/resource/Eastland%2C_Texas
 /lccn/sn88084276,Ft. Hood sentinel.,en,Bell Pub. Co.,"Temple, Tex.",,http://dbpedia.org/resource/Temple%2C_Texas
 /lccn/sn88084277,So the people may know.,en,[s.n.],"Eastland, Tex.",,http://dbpedia.org/resource/Eastland%2C_Texas
@@ -106822,7 +106822,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn90068510,The Lake County telegraph.,en,Lake-Geauga Print. Co.,"Painesville, Ohio",,http://dbpedia.org/resource/Painesville%2C_Ohio
 /lccn/sn90068511,Eastlake news & views.,en,City of Eastlake,"[Eastlake, Ohio]",,
 /lccn/sn90068512,The Willoughby times.,en,Community News Pub. Co.,"Eastlake, Ohio",,
-/lccn/sn90068513,Merchants news.,en,Neal Print. Co.,"Fairport Harbor, Ohio",,http://dbpedia.org/resource/Fairport_Harbor%2C_Ohio
+/lccn/sn90068513,Merchants news.,en,Neal Print. Co.,"Fairport Harbor, Ohio",ca-new,http://dbpedia.org/resource/Fairport_Harbor%2C_Ohio
 /lccn/sn90068514,The Gazette.,en,J.B. Brown,"Willoughby, Ohio",,http://dbpedia.org/resource/Willoughby%2C_Ohio
 /lccn/sn90068515,The Collegian.,en,Students of Willoughby College,"Willoughby, O. [Ohio]",,http://dbpedia.org/resource/Willoughby%2C_Ohio
 /lccn/sn90068516,Willoughby collegian.,en,Students of Willoughby College,"Willoughby, Ohio",,http://dbpedia.org/resource/Willoughby%2C_Ohio
@@ -125928,7 +125928,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn93070021,The Medicine Bow times.,en,H.H. Knabe,"Medicine Bow, Wyo.",,http://dbpedia.org/resource/Medicine_Bow%2C_Wyoming
 /lccn/sn93070022,Medicine Bow news.,en,H.A. Young,Rock River [Wyo.],,http://dbpedia.org/resource/Rock_River%2C_Wyoming
 /lccn/sn93070023,The Laborette.,en,s.n.],Rawlins [Wyo.,,http://dbpedia.org/resource/Rawlins%2C_Wyoming
-/lccn/sn93070024,Indian progress.,en,Pupils of the Wind River Indian Industrial School,"Wind River, Wyo.",,http://dbpedia.org/resource/Wind_River_Indian_Reservation
+/lccn/sn93070024,Indian progress.,en,Pupils of the Wind River Indian Industrial School,"Wind River, Wyo.",ca-new,http://dbpedia.org/resource/Wind_River_Indian_Reservation
 /lccn/sn93070025,The Green River sun.,en,Sun Pub. Co.,"Green River, Wyo.",,http://dbpedia.org/resource/Green_River%2C_Wyoming
 /lccn/sn93070026,Green River news.,en,E.L. Williams,"Green River, Wyo.",,http://dbpedia.org/resource/Green_River%2C_Wyoming
 /lccn/sn93070027,Green River advertiser.,en,The Advertiser,"Green River, Wyo.",,http://dbpedia.org/resource/Green_River%2C_Wyoming
@@ -133407,7 +133407,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn95047165,The Alachua post.,en,[publisher not identified],"Alachua, Fla.",,http://dbpedia.org/resource/Alachua%2C_Florida
 /lccn/sn95047166,The Hendry County news.,en,Mary Hayes Davis,"LaBelle, Hendry County, Fla.",,
 /lccn/sn95047167,The Caloosa belle.,en,S.H. Stalls,"LaBelle, Fla.",,
-/lccn/sn95047168,Union County times.,en,Sprintow Pub. Co.,"Lake Butler, Fla.",,http://dbpedia.org/resource/Lake_Butler%2C_Florida
+/lccn/sn95047168,Union County times.,en,Sprintow Pub. Co.,"Lake Butler, Fla.",ca-new,http://dbpedia.org/resource/Lake_Butler%2C_Florida
 /lccn/sn95047169,Union County blade.,en,B.Z. Matthews,"Lake Butler, Fla.",,http://dbpedia.org/resource/Lake_Butler%2C_Florida
 /lccn/sn95047170,Weekly reporter.,en,Robinson & Harris,"Lake City, Fla.",,http://dbpedia.org/resource/Lake_City%2C_Florida
 /lccn/sn95047171,The Lake City reporter.,en,C.A. Finley,"Lake City, Fla.",,http://dbpedia.org/resource/Lake_City%2C_Florida
@@ -133484,7 +133484,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn95047245,The Calhoun-Liberty journal.,en,Liberty Journal,"Bristol, Fla.",,http://dbpedia.org/resource/Bristol%2C_Florida
 /lccn/sn95047246,The Brooksville journal.,en,Russell Pub. Co.,"Brooksville, Fla.",ca-new,http://dbpedia.org/resource/Brooksville%2C_Florida
 /lccn/sn95047247,The Brooksville sun-journal.,en,Almon Brooks Wilder and Eloise Wilder,"Brooksville, Fla.",ca-new,http://dbpedia.org/resource/Brooksville%2C_Florida
-/lccn/sn95047248,Sun-journal.,en,Withlacoochee Pub. Co.,"Brooksville, Fla.",,http://dbpedia.org/resource/Brooksville%2C_Florida
+/lccn/sn95047248,Sun-journal.,en,Withlacoochee Pub. Co.,"Brooksville, Fla.",ca-new,http://dbpedia.org/resource/Brooksville%2C_Florida
 /lccn/sn95047249,The Daily sun-journal.,en,Roy H. Park,"Brooksville, Fla.",,http://dbpedia.org/resource/Brooksville%2C_Florida
 /lccn/sn95047250,The sun-journal.,en,Park Newspapers of Florida,"Brooksville, Fla.",,http://dbpedia.org/resource/Brooksville%2C_Florida
 /lccn/sn95047251,The Flagler tribune.,en,[s.n.],"Bunnell, Fla.",,http://dbpedia.org/resource/Bunnell%2C_Florida
@@ -133564,7 +133564,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn95047329,Quincy herald.,en,W.W. Keep,"Quincy, Fla.",ca-new,http://dbpedia.org/resource/Quincy%2C_Florida
 /lccn/sn95047330,The Quincy Florida herald.,en,W.W. Keep,"Quincy, Fla.",,http://dbpedia.org/resource/Quincy%2C_Florida
 /lccn/sn95047331,The Quincy new era.,en,[publisher not identified],"Quincy, Fla.",ca-new,http://dbpedia.org/resource/Quincy%2C_Florida
-/lccn/sn95047333,The Gadsden County herald.,en,Curtis McFarlin,"Quincy, Gadsden County, Fla.",,http://dbpedia.org/resource/Quincy%2C_Florida
+/lccn/sn95047333,The Gadsden County herald.,en,Curtis McFarlin,"Quincy, Gadsden County, Fla.",ca-new,http://dbpedia.org/resource/Quincy%2C_Florida
 /lccn/sn95047334,Gadsden County times.,en,[publisher not identified],"Quincy, Fla.",ca-new,http://dbpedia.org/resource/Quincy%2C_Florida
 /lccn/sn95047335,Fort Meade leader.,en,A.B. Meek and A.L. Cleveland,"Fort Meade, Fla.",,http://dbpedia.org/resource/Fort_Meade%2C_Florida
 /lccn/sn95047336,Florida mirror.,en,"A.B. Campbell, Geo. Burnside","Fernandina, Fla.",,http://dbpedia.org/resource/Fernandina_Beach%2C_Florida
@@ -149478,7 +149478,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn97065904,Real American.,en,[s.n.],"Leakey, Tex.",,http://dbpedia.org/resource/Leakey%2C_Texas
 /lccn/sn97065905,Monrovia journal.,en,C.C. Howard,"Monrovia, Calif.",,http://dbpedia.org/resource/Monrovia%2C_California
 /lccn/sn97065907,The Laredo daily times.,en,"Laredo Daily Times, Inc.","Laredo, Tex.",,http://dbpedia.org/resource/Laredo%2C_Texas
-/lccn/sn97065908,The Jewish monitor and Jewish weekly.,en,Monitor Pub. Co.,"Fort Worth-Dallas, Tex.",,http://dbpedia.org/resource/Fort_Worth%2C_Texas
+/lccn/sn97065908,The Jewish monitor and Jewish weekly.,en,Monitor Pub. Co.,"Fort Worth-Dallas, Tex.",txdn,http://dbpedia.org/resource/Fort_Worth%2C_Texas
 /lccn/sn97065909,The Jewish monitor.,en,Monitor Pub. Co.,"Fort Worth-Dallas, Tex.",,http://dbpedia.org/resource/Fort_Worth%2C_Texas
 /lccn/sn97065910,New era-herald.,en,Mrs. Leo Strauss,"Hallettsville, Tex.",,http://dbpedia.org/resource/Hallettsville%2C_Texas
 /lccn/sn97065970,Okmulgee chieftain.,en,Chieftain Pub. Co.,"Okmulgee, Creek Nation, Indian Territory [Okla.]",,http://dbpedia.org/resource/Okmulgee%2C_Oklahoma
@@ -150999,7 +150999,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn97071086,Southern Oregon mail.,en,Mail Pub. Co,"Medford, Or.",oregonnews,http://dbpedia.org/resource/Medford%2C_Oregon
 /lccn/sn97071088,The Clarion.,en,Clarion Pub. Co.,"Medford, Or.",,http://dbpedia.org/resource/Medford%2C_Oregon
 /lccn/sn97071089,Jackson County news.,en,James W. Young and L.B. Tuttle,"Medford, Or.",,http://dbpedia.org/resource/Medford%2C_Oregon
-/lccn/sn97071090,Medford mail tribune.,en,Medford Mail Tribune,"Medford, Or.",oregonnews,http://dbpedia.org/resource/Medford%2C_Oregon
+/lccn/sn97071090,Medford mail tribune.,en,Medford Mail Tribune,"Medford, Or.",,http://dbpedia.org/resource/Medford%2C_Oregon
 /lccn/sn97071091,Medford mail tribune.,en,Medford Mail Tribune,"Medford, Or.",,http://dbpedia.org/resource/Medford%2C_Oregon
 /lccn/sn97071092,Southern Oregonian and Jacksonville times.,en,Medford Pub. Co.,"Medford, Or.",,http://dbpedia.org/resource/Medford%2C_Oregon
 /lccn/sn97071093,Southern Oregonian.,en,George Putnam,"Medford, Or.",,http://dbpedia.org/resource/Medford%2C_Oregon
@@ -151199,7 +151199,7 @@ series,title,lang,publisher,placeOfPublication,corpora,coverage
 /lccn/sn98026435,The Dunnellon sun.,en,Scofield Pub. Co.,"Dunnellon, Fla.",,http://dbpedia.org/resource/Dunnellon%2C_Florida
 /lccn/sn98026436,The Dunnellon truth.,en,G.W. Adams,"Dunnellon, Fla.",,http://dbpedia.org/resource/Dunnellon%2C_Florida
 /lccn/sn98026437,Brooksville register.,en,S.H. McBryde,"Brooksville, Fla.",,http://dbpedia.org/resource/Brooksville%2C_Florida
-/lccn/sn98026438,The Brooksville sun.,en,Brooksville Sun Pub. Co.,"Brooksville, Fla.",,http://dbpedia.org/resource/Brooksville%2C_Florida
+/lccn/sn98026438,The Brooksville sun.,en,Brooksville Sun Pub. Co.,"Brooksville, Fla.",ca-new,http://dbpedia.org/resource/Brooksville%2C_Florida
 /lccn/sn98026439,The Brooksville star.,en,Brooksville Star,"Brooksville, Hernando County, Fla.",,http://dbpedia.org/resource/Brooksville%2C_Florida
 /lccn/sn98026440,The Southern argus.,en,Russell Pub. Co.,"Brooksville, Fla.",,http://dbpedia.org/resource/Brooksville%2C_Florida
 /lccn/sn98026441,The Brooksville herald.,en,Herald Pub. Co.,"Brooksville, Fla.",,http://dbpedia.org/resource/Brooksville%2C_Florida
@@ -158848,7 +158848,7 @@ europeana/POL/izraelita,Izraelita,Polish,,,europeana,
 europeana/POL/jerozolima_wyzwolona,Jerozolima Wyzwolona,Polish,,,europeana,
 europeana/POL/kujawischer_bote,Kujawischer Bote,German,,,europeana,
 europeana/POL/kurier_poranny_wyd_che?%82mskie,Kurier Poranny. Wyd. chełmskie,Polish,,,,
-europeana/POL/kurier_poznanski,Kurier Poznański,Polish,,,europeana,
+europeana/POL/kurier_poznanski,Kurier Poznański,Polish,,,,
 europeana/POL/kurier_warszawski,Kurier Warszawski,Polish,,,europeana,
 europeana/POL/kurjer_lwowski,Kurjer Lwowski,Polish,,,europeana,
 europeana/POL/kurjer_polski,Kurjer Polski,Polish,,,europeana,
